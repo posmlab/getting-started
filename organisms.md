@@ -37,10 +37,34 @@
 -----------------
 
 ## Hydra
-Nematocyst Discharge
+#### Nematocyst Discharge
+
+Stinging cells (nematocytes) in jellyfish, sea anemone, and hydra (all from the phylum Cnidaria) discharge their contents at extremely fast rates.  For example, [this video of many nematocysts](https://www.youtube.com/watch?v=6zJiBc_N1Zk) discharging simultaneously or [this video of a single nematocyst](https://www.smithsonianmag.com/videos/category/science/nematocyst-discharge/) discharge show what the process looks like.
+
+High speed imaging of Hydra from 
+[Nüchter et al. Curr Biol 2006](https://drive.google.com/open?id=1CFU_P5xovp63FzKKlri6c5yTNwNzjeBO) show this discarge can occur in 700 nanoseconds, and the stylet (barbs) accelerate at 5 million g's of acceleration:
+
+##### Part of Figure 1 from Nuchter et al. (A) Schematic of a nematocyst discharge. The stylet (black) is rapidly accelerated towards the prey (silver horizontal line). (B) Sequence of high speed images showing this process experimentally. The nematocst is roughly 10 um in diameter, and the time between each image is 500 ns. 
+![Nemacocyst discharge from Nuchter Fig 1](images/Nuchter-Fig1.png)
 
 
-[Nüchter et al. Curr Biol 2006](https://drive.google.com/open?id=1CFU_P5xovp63FzKKlri6c5yTNwNzjeBO) <br> [Koch et al. J Cell Sci 1998](https://drive.google.com/open?id=1FDeOC1uCXSm3mZ_uhf2bb_3b2A58FMAT) <br> [Video of a single nematocyst](https://www.smithsonianmag.com/videos/category/science/nematocyst-discharge/) <br> [Video of many nematocysts](https://www.youtube.com/watch?v=6zJiBc_N1Zk)
+##### Summary of Kinematic Peformance from Nuchter et al
+| Kinematic Metric | Hydra performance |
+| -------- | ------- |
+| Duration | 700 ns |
+| Max. Velocity | 37 m/s |
+| Max. Acceleration | 5.3 X 10^7 m/s^2 | 
+
+
+
+Wikipedia has a good description of nematocytes in the section on [Cnidocytes](https://en.wikipedia.org/wiki/Cnidaria#Cnidocytes). The possible mechanisms  for the rapid release of energy in this system are outlined in that section as well:
+
+> + Rapid contraction of elastic collagen-like fibers in the walls of the capsule
+> + The thread acts like a coiled spring that extends rapidly when released
+> + Chemical changes in the capsule contents may cause them to expand rapidly by polymerization.
+> + Chemical changes in the liquid in the capsule make it a much more concentrated solution, so that osmotic pressure forces water in very rapidly to dilute it.
+
+ For further rearding, [Koch et al. J Cell Sci 1998](https://drive.google.com/open?id=1FDeOC1uCXSm3mZ_uhf2bb_3b2A58FMAT) has more details about the structure of the components of a nemacoyst. 
 
 ## Fungi
 Ballistospore ejection
