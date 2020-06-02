@@ -2,7 +2,7 @@
 
 
 ## Topics for Training
-+ [Inspiration from Nature](organisms.md))
++ [Inspiration from Nature](organisms.md)
 + [Engineering examples](devices.md)
 + LaMSA systems
     + Discussion of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) including definitions and examples of motor spring latch load
