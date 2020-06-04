@@ -110,8 +110,7 @@ Generally, our group culture has been one where we are supportive of one another
 ## Introduction to PoSMLab Research 
 
 <details>
-   
-<summary>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
+<summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
 + Introduction video
     + examples in nature (ultra-fast movements)
