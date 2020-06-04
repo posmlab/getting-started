@@ -2,7 +2,7 @@
 
 Organisms that store and release elastic energy can achieve remarkably fast movements. This page contains examples of organisms that do this, and more information about each of them. 
 
-To contribute to this page, choose an organism from the list below and add information to [organisms.md in the posmlab Github repository](https://github.com/posmlab/getting-started/organisms.md). Some starting references are provided as Google Drive links in each section. If you find other research papers, be sure to save them to the posmlab Google Drive "Papers" folder and link to them here. The organisms listed are from Table 1 of [Ilton et al Science 2018](https://drive.google.com/open?id=1uo5F2MfkcKfCjjJiLNwWVN3OzWN_OLh7), but add other examples here if you come across them.
+To contribute to this page, choose an organism from the list below and add information to organisms.md in the [posmlab Github repository](https://github.com/posmlab/getting-started). Some starting references are provided as Google Drive links in each section. If you find other research papers, be sure to save them to the posmlab Google Drive "Papers" folder and link to them here. The organisms listed are from Table 1 of [Ilton et al Science 2018](https://drive.google.com/open?id=1uo5F2MfkcKfCjjJiLNwWVN3OzWN_OLh7), but add other examples here if you come across them.
 
 
 -------------------
