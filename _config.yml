@@ -5,6 +5,3 @@ kramdown:
 title: Getting Started in PoSMLab
 description: Information about posmlab reserach and logistics for getting involved 
 url-pretty: "posmlab.org"
-defaults:
-  -
-      ext-js: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
