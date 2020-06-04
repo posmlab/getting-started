@@ -55,6 +55,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSd_ZfhmSiPN566x26YyP1rT3-csjoCd-qcJXw09
 - to be added to the posmlab Github organization (need your Github username)
 
 Group Accounts:
+
    Service     |   Name       
 -------- | -------------
 Gmail | physicsofsoftmatter@gmail.com
@@ -70,6 +71,8 @@ Github | github.com/posmlab
 Gmail | physicsofsoftmatter@gmail.com
 Instagram | https://www.instagram.com/posm_lab/
 Squarespace (managed by Mark) | posmlab.org 
+Slack | posmlab.slack.com
+Github | github.com/posmlab
 
 ### Other (less important) off-campus logistics
 
