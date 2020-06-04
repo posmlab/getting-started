@@ -46,14 +46,15 @@ Number of authors | Filename Format | Example
 
 Once saved in Google Drive, you can right click on the document and "Get shareable link" to provide easy access from other sources (e.g. Github repository readme file).
 
-Ask Mark for:
-- Swipe access to the Lab Galileo B101 (need your Student ID Number)
-https://docs.google.com/forms/d/e/1FAIpQLSd_ZfhmSiPN566x26YyP1rT3-csjoCd-qcJXw094bjZ1R4T4w/viewform
-- passwords to accounts
-- lab notebook
-- access to posmlab Google Drive Folder
-- access to posmlab Slack workspace 
-- to be added to the posmlab Github organization (need your Github username)
+#### Other logistics
+
+When starting remind Mark that he needs to:
+- Enable swipe access to the Lab in Galileo B101 (he needs your Student ID Number so he can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd_ZfhmSiPN566x26YyP1rT3-csjoCd-qcJXw094bjZ1R4T4w/viewform)
+- give you passwords to group accounts
+- give you a lab notebook
+- share access to the posmlab Google Drive Folder
+- invite you to the posmlab Slack workspace 
+- to add you to the posmlab Github organization (he needs your Github username to do this)
 
 Group Accounts:
 
@@ -71,9 +72,8 @@ Github | [github.com/posmlab](github.com/posmlab)
 
 #### VPN Connection 
 
-[Guide to connecting to HMC by VPN](https://docs.google.com/a/g.hmc.edu/document/d/1VpuXDPbi40UPM2APm8cxQGtQ_Dlo8ju8Yam5p2Awf74/pub)
-
-A VPN connection is needed for remote access of lab computers, accessing journal articles online that have a paywall (and other HMC specific things too). But if you don't need these specific functions, make sure you aren't connected via VPN because it will slow down your network access.
+A VPN connection to HMC is needed for remote access of lab computers, accessing journal articles online that have a paywall (and other HMC specific things too). Follow this [guide to connecting to HMC by VPN](https://docs.google.com/a/g.hmc.edu/document/d/1VpuXDPbi40UPM2APm8cxQGtQ_Dlo8ju8Yam5p2Awf74/pub).
+But remember, if you don't need these specific functions, make sure you aren't connected via VPN because it will slow down your network access.
 
 #### Accessing Lab Computers 
 
@@ -87,23 +87,31 @@ You will need a [Remote Desktop Client](https://docs.microsoft.com/en-us/windows
 | Happy | |134.173.33.112 |
 | Grumpy | | 134.173.33.104 |
 
-Ask Mark for username and password.
+Ask Mark for the username and passwords.
 
 
 ------------------------------------------
 
 ## Group Culture
-[Rockwell Retro Encabulator](https://www.youtube.com/watch?v=RXJKdh1KZ0w)
 
-Entering a new area of research is difficult! 
+To get a sense of some of the dynamics research we are doing, please watch this video on the [Rockwell Retro Encabulator](https://www.youtube.com/watch?v=RXJKdh1KZ0w). 
 
-If you don't understand something, it's probably because it wasn't explained well!
-- ask for clarification: any question is a good question that arises from curiosity or a desire to understand!
-- document your new understanding for future group members
+<details>
+<summary markdown='span'>Did you watch the video? (expand/collapse)</summary>
 
-Mark is a teammate/collaborator/advisor not a boss/supervisor. Openly questioning his advice is encouraged! To promote an open and equal discussion please refer to Mark on a first-name basis in our research group (rather than Prof. Ilton). 
+A common reaction to that video is going from an initial curiosity, to confusion, then finally amusement. But what does this have to do with doing research as an undergrad?
+
+Entering a new area of research is difficult for anyone! You are about to be confronted with a lot of new information, and a lot of it you won't understand right away. That's part of the process and totally okay. 
+
+Our group culture is one where not knowing and seeking clarification is a strength. Even questions that you feel you should know the answer to already, or seem obvious to others are important to ask. If you don't understand something, it's probably because it wasn't explained well! Here's what we ideally do in posmlab if we don't fully understand:
+- ask for clarification - any question is a good question that arises from curiosity or a desire to understand!
+- document our new understanding along with any sticking points for future group members 
+
+Also note that in posmlab, Mark is a teammate/collaborator/advisor not a boss/supervisor. Openly questioning his advice is encouraged! To promote an open and equal discussion please refer to Mark on a first-name basis in our research group (rather than Prof. Ilton). 
 
 Generally, our group culture has been one where we are supportive of one another, take interest in what others in the group are doing, and are willing to put our work aside momentarily to help someone else out!
+
+</details>
 
 ----------------------------------------
 </details>
@@ -112,27 +120,31 @@ Generally, our group culture has been one where we are supportive of one another
 
 ## Introduction to PoSMLab Research 
 
-<details>
+<details open>
 <summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
-+ Introduction video
-    + examples in nature (ultra-fast movements)
-    + size-scale 
-    + engineered devices
-    + high level goals of our research
-+ Engaging in Primary Literature 
-    + why primary literature; how to read
-    + Task 1: pick an organism from [Inspiration from Nature](organisms.md)
-    + Task 2: pick an engineered device  [Engineering examples](devices.md)
-+ LaMSA systems
-    + Discussion of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) including definitions and examples of motor spring latch load
-+ when does a spring beat a motor? (simple toy model example; LaMSA zone)
-    + video 
-    + Task: derive equations of motion for motor model
-    + Task: derive equations of motion for spring model
-    + 
-+ what can springs do? 
-    + roles of springs in biology: [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH)
+
+1) [Watch this short PoSMLab Introduction video](http://youtube.com)
+
+2) Read more [examples of ultra-fast organisms](organisms.md) that use elastic energy to drive movement. Contribute to that document by adding more information from a primary literature source for one organism (your first contribution to a posmlab Github repository!).
+
+3) Read more [examples of engineered microrobotic devices](devices.md) inspired by nature. Contribute to that document by adding more information from a primary literature source for one device.
+
+4) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a careful of Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
+
+5) Watch the video [when does a spring beat a motor?](http://youtube.com).  (simple toy model example; LaMSA zone)
+
+6) Motor model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off $$F = F_{max}(1-v/v_{max})$$. Here $$F_{max}$$ and $$v_{max}$$ are the motor's maximum force and velocity, respectively. Do this for $$F_{max} = 20 N$$, $$v_{max} = 5 m/s$$, and $$d = 5 mm$$.
+  
+    Hint 1: Start with Newton's second law $$m \frac{dv}{dt} = F_{max}(1-v/v_{max})$$
+
+    Hint 2: You should end up with a transcendental equation, so you will need to use a numerical approach. 
+
+7) Spring model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor model" above. 
+
+8) Skim [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). What are the three main functions of biological springs? Which one are we focused on in our reserach?
+
+
     + four main determining factors for performance: (materials, geometry, size-scale, load)
     + what are max velocity (vmax), max acceleration (amax), recoil duration (deltat), max power (Pmax) as a function of k, m, ymax?
         - what if the spring has mass (ms << m vs. ms ~ m)?
