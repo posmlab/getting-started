@@ -54,7 +54,7 @@ High speed imaging of Hydra from
 | -------- | ------- |
 | Duration | 700 ns |
 | Max. Velocity | 37 m/s |
-| Max. Acceleration | 5.3 X 10^7 m/s^2 | 
+| Max. Acceleration | 5.3 X $$10^7$$ m/s$$^2$$ | 
 
 
 
