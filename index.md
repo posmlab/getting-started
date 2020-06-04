@@ -3,6 +3,7 @@
 Welcome to PoSMLab! Here you will find an introduction to our group and useful onboarding information.
 
 ## Onboarding Logistics
+
 <details>
 <summary>Logistical details if you want to get started in PoSMLab (expand/collapse)</summary>
 
@@ -107,7 +108,9 @@ Generally, our group culture has been one where we are supportive of one another
 
 
 ## Introduction to PoSMLab Research 
+
 <details>
+   
 <summary>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
 + Introduction video
@@ -169,3 +172,5 @@ Materials Testing Subgroup
 - [ ] outline goals and first steps for each project
 - [ ] populate each repository with initial uploads and README.md summarizing the contents
 - [ ] 
+
+</details>
