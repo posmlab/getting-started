@@ -5,7 +5,7 @@ Welcome to PoSMLab! Here you will find an introduction to our group and useful o
 ## Onboarding Logistics
 
 <details>
-<summary>Logistical details if you want to get started in PoSMLab (expand/collapse)</summary>
+<summary markdown='span'>Logistical details if you want to get started in PoSMLab (expand/collapse)</summary>
 
 ### General Logistics
 
