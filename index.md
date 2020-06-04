@@ -2,6 +2,10 @@
 
 Welcome to PoSMLab! Here you will find an introduction to our group and useful onboarding information.
 
+Testing
+
+$$ F=ma$$
+
 ## Onboarding Logistics
 
 <details>
