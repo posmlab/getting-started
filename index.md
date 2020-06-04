@@ -64,6 +64,13 @@ Google Drive | [posmlab shared drive](https://drive.google.com/open?id=1HxL1mvqe
 Slack | posmlab.slack.com
 Github | github.com/posmlab
 
+
+   Service     |   Name       
+-------- | -------------
+Gmail | physicsofsoftmatter@gmail.com
+Instagram | https://www.instagram.com/posm_lab/
+Squarespace (managed by Mark) | posmlab.org 
+
 ### Other (less important) off-campus logistics
 
 #### VPN Connection 
