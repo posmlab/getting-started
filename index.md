@@ -59,20 +59,12 @@ Group Accounts:
    Service     |   Name       
 -------- | -------------
 Gmail | physicsofsoftmatter@gmail.com
-Instagram | https://www.instagram.com/posm_lab/
-Squarespace (managed by Mark) | posmlab.org 
+Instagram | [posm_lab](https://www.instagram.com/posm_lab/)
+Squarespace (managed by Mark) | [posmlab.org](posmlab.org)
 Google Drive | [posmlab shared drive](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf)
-Slack | posmlab.slack.com
-Github | github.com/posmlab
+Slack | [posmlab.slack.com](posmlab.slack.com)
+Github | [github.com/posmlab](github.com/posmlab)
 
-
-   Service     |   Name       
--------- | -------------
-Gmail | physicsofsoftmatter@gmail.com
-Instagram | https://www.instagram.com/posm_lab/
-Squarespace (managed by Mark) | posmlab.org 
-Slack | posmlab.slack.com
-Github | github.com/posmlab
 
 ### Other (less important) off-campus logistics
 
