@@ -116,7 +116,7 @@ Generally, our group culture has been one where we are supportive of one another
 ----------------------------------------
 </details>
 
-
+-----------------------------------------------
 
 ## Introduction to PoSMLab Research 
 
@@ -188,6 +188,7 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 </details>
 
+------------------------------------------------------------------
 
 ## Summer 2020 Projects
 
