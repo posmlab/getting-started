@@ -116,6 +116,15 @@ Generally, our group culture has been one where we are supportive of one another
 ----------------------------------------
 </details>
 
+## Scientific Papers
+
+Part of the process of doing science is reading scientific papers related to our work. Reading a scientific paper can be a fairly daunting task. A good resource is [How to Read a Paper - The Three Pass Approach](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf). Depending on what you are trying to get from a paper (a high-level overview? the main ideas?), you may only need to perform one or two passes of the paper. The key idea is to start with a bird's eye view on your first reading, and then zooming in to more granular details on subsequent passes. 
+
+We will often use a "Journal Club" as a format for sharing and discussing scientific papers. Aptly described as a "nerdy book club" by Prof. Mendelson in Engineering, Journal Clubs are a great way to ensure that you are sharpening your ability to read primary literature. If you haven't done this before, check out [5 quick tips for your first JC](https://irp.nih.gov/blog/post/2015/03/5-tips-for-journal-club-first-timers).
+
+At some point, it will come time for you to write-up your work. Remember that the main product of academic research is a scientific paper. If you think about (and actively work on) writing a paper based on your work, it can more effectively direct your efforts. Although it is written about chemistry research, this guide to [Writing a Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.200400767) is a good read. 
+ 
+
 -----------------------------------------------
 
 ## Introduction to PoSMLab Research 
@@ -123,6 +132,10 @@ Generally, our group culture has been one where we are supportive of one another
 <details>
 <summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
+Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
+    - 
+
+    - 
 
 1) [Watch this short PoSMLab Introduction video](http://youtube.com)
 
