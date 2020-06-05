@@ -120,7 +120,7 @@ Generally, our group culture has been one where we are supportive of one another
 
 ## Introduction to PoSMLab Research 
 
-<details open>
+<details>
 <summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
 
@@ -156,7 +156,7 @@ You should end up with a transcendental equation, so you will need to use a nume
 
 </details>
 
-8) Spring Model: Derive the take-off velocity $$v_{to}$$ for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor Model" above. As an added bonus, what are the maximum acceleration ($$a_{max}$$), launch duration ($$\Delta t$$) (sometimes referred to as take-off time $$t_{to}$$), and maximum power deliver to the mass ($$P_{max}$$). Remember $$P(t) = F(t) v(t) = m a(t) v(t)$$. 
+8) Spring Model: Derive the take-off velocity $$v_{to}$$ for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor Model" above. As an added bonus, what are the maximum acceleration ($$a_{max}$$), launch duration ($$\Delta t$$) (sometimes referred to as take-off time $$t_{to}$$), and maximum power deliver to the mass ($$P_{max}$$). Remember $$P(t) = F(t)\,v(t) = m \,a(t)\, v(t)$$. 
 
 9) How would the Spring Model change if the spring had a mass $$m_s$$? 
 
@@ -186,7 +186,13 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 15) Read [Monroy et al JEB 2017](https://drive.google.com/open?id=1gCLBbpSA-3OiYjIC4sezoRqhg2BSWTTE). How are the muscle recoil experiments similar/different compared to elastomer recoil?
 
+</details>
+
+
 ## Summer 2020 Projects
+
+<details>
+   <summary markdown='span'>Currently available projects (expand/collapse)</summary> 
 
 #### Simulation
 
@@ -210,6 +216,9 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 - [Kinematic Tracking](https://github.com/posmlab/kinematic-tracking) Make our current approach to extracting kinematic data from high speed videos easier to use; search for alternatives and improvements.
 
 -------------------------
+
+
+<!--
 
 + recoil experiments (previous work, free vs heavy, uniaxial extension vs bending)
 + materials: measuring mechanical properties (elasticity, viscoelasticity; rheology; resilience & tan delta, loading geometry)
@@ -247,4 +256,4 @@ Materials Testing Subgroup
 - [ ] populate each repository with initial uploads and README.md summarizing the contents
 - [ ] 
 
-</details>
+-->
