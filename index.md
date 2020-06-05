@@ -130,27 +130,87 @@ Generally, our group culture has been one where we are supportive of one another
 
 3) Read more [examples of engineered microrobotic devices](devices.md) inspired by nature. Contribute to that document by adding more information from a primary literature source for one device.
 
-4) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a careful of Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
+4) Skim [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). What are the three main functions of biological springs? Which one are we focused on in our research?
 
-5) Watch the video [when does a spring beat a motor?](http://youtube.com).  (simple toy model example; LaMSA zone)
+5) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a careful of Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
 
-6) Motor model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off $$F = F_{max}(1-v/v_{max})$$. Here $$F_{max}$$ and $$v_{max}$$ are the motor's maximum force and velocity, respectively. Do this for $$F_{max} = 20 N$$, $$v_{max} = 5 m/s$$, and $$d = 5 mm$$.
+6) Watch the video [when does a spring beat a motor?](http://youtube.com).  (simple toy model example; LaMSA zone)
+
+7) Motor Model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off 
+
+$$F = F_{max}(1-v/v_{max})$$. 
+
+Here $$F_{max}$$ and $$v_{max}$$ are the motor's maximum force and velocity, respectively. Do this for $$F_{max} = 20$$ N, $$v_{max} = 5$$ m/s, and $$d = 5$$ mm.
   
-    Hint 1: Start with Newton's second law $$m \frac{dv}{dt} = F_{max}(1-v/v_{max})$$
+<details>
+<summary markdown='span'>Hint 1</summary>
 
-    Hint 2: You should end up with a transcendental equation, so you will need to use a numerical approach. 
+Start with Newton's second law $$m \frac{dv}{dt} = F_{max}(1-v/v_{max})$$
 
-7) Spring model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor model" above. 
+</details>
 
-8) Skim [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). What are the three main functions of biological springs? Which one are we focused on in our reserach?
+<details>
+<summary markdown='span'>Hint 2 </summary>
 
+You should end up with a transcendental equation, so you will need to use a numerical approach. 
 
-    + four main determining factors for performance: (materials, geometry, size-scale, load)
-    + what are max velocity (vmax), max acceleration (amax), recoil duration (deltat), max power (Pmax) as a function of k, m, ymax?
-        - what if the spring has mass (ms << m vs. ms ~ m)?
-    + spring load deformation: compression, tension, shear, bending, torsion
-    + materials + geometry ----> k, ms (for small deformation)
-    + what are vmax, amax, deltat, Pmax as a function of E, A, L, rho, epsilon for unixaxial tension?
+</details>
+
+8) Spring Model: Derive the take-off velocity $$v_{to}$$ for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor Model" above. As an added bonus, what are the maximum acceleration ($$a_{max}$$), launch duration ($$\Delta t$$) (sometimes referred to as take-off time $$t_{to}$$), and maximum power deliver to the mass ($$P_{max}$$). Remember $$P(t) = F(t) v(t) = m a(t) v(t)$$. 
+
+9) How would the Spring Model change if the spring had a mass $$m_s$$? 
+
+<details>
+<summary markdown='span'>Hint</summary>
+
+Consider the simplified case where the spring mass is much smaller than the load mass ($$m_s << m$$), so that the strain is uniform in the spring throughout the entire release. What is the velocity of each segment of the spring as a function of the velocity of the end of the spring? Conserve total energy (including kinetic energy from both the load mass and the spring mass) to get the take-off velocity
+
+</details>
+
+<details>
+<summary markdown='span'>Answer</summary>
+
+The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{eff} = m + m_s/3$$. See [this note](Springmasscontribution.pdf) for a rough sketch of the argument. If you come up with a more fully explained solution, be sure too edit this document and add your contribution!
+
+</details>
+
+10) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
+
+11) Watch the video [spring properties (part 1)](http://youtube.com).
+
+12) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
+
+13) Watch the video [spring properties (part 2)](http://youtube.com).
+
+14) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH). What are some possible next directions that follow up on this work?
+
+15) Read [Monroy et al JEB 2017](https://drive.google.com/open?id=1gCLBbpSA-3OiYjIC4sezoRqhg2BSWTTE). How are the muscle recoil experiments similar/different compared to elastomer recoil?
+
+## Summer 2020 Projects
+
+#### Simulation
+
+- [Robotic Jumper Integration](https://github.com/orgs/posmlab/projects/10)How does choice of latch removal actuation impact the design of the rest of the LaMSA system? 
+
+- [Trap-Jaw Ant Mechanical Sensitivity](https://github.com/orgs/posmlab/projects/8) How do trap-jaw ant morphological parameters map onto the LaMSA model? Which of these parameters most significantly affects kinematic performance?
+
+#### Experimental/Data Analysis 
+
+- [Comparing Elastic Efficiency Metrics](https://github.com/orgs/posmlab/projects/3) How does quasi-static loading/unloading (resilience) compare to DMA ($\tan \delta$)? How do both of these compare to an effective resilience in recoil?
+
+- [The Power of Springs](https://github.com/orgs/posmlab/projects/1) How does the maximum power limits of a spring depending on materials, geometry, size-scale, and load?
+
+- [Using Recoil to Infer Mechanical Properties
+](https://github.com/orgs/posmlab/projects/5) Given the recoil dynamics of a material, what are its mechanical properties? What are the unifying principles between studying the recoil of passive structures (springs) vs. active ones (muscle)?
+ 
+
+### Other smaller projects
+- [Resilience Literature Review](https://github.com/posmlab/resilience-review) Spearhead approach, develop software tools to assist in data extraction from papers, and wrangle other group members to contribute. 
+
+- [Kinematic Tracking](https://github.com/posmlab/kinematic-tracking) Make our current approach to extracting kinematic data from high speed videos easier to use; search for alternatives and improvements.
+
+-------------------------
+
 + recoil experiments (previous work, free vs heavy, uniaxial extension vs bending)
 + materials: measuring mechanical properties (elasticity, viscoelasticity; rheology; resilience & tan delta, loading geometry)
 
