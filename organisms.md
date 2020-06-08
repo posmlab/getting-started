@@ -104,7 +104,7 @@ Jump
 
 Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
 
-The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
+The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands slowly pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
 
 ##### Images of the slow and ultra-fast phases of the suction trap:
 ![Aquatic Bladderwort Suction Trap Mechanism from Vincent et al.](images/bladderwort.png)
@@ -137,8 +137,6 @@ Jump
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
 
-Further reading (referenced below): [Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/)
-
 The rapid closure of venus fly traps is achieved using a method called snap buckling, where a system "snaps" from one stable state to another stable state. Here's a diagram that visualizes snap buckling.
 ![Snap Buckling](images/snap-buckling.png)
 
@@ -155,6 +153,8 @@ The snap closure of venus fly traps usually occur in less than half of a second,
 
 Additionally, tests involving ink droplets in the water showed that there was no significant outflow of water upon closure, meaning that venus fly traps could effectively catch underwater organisms without failing due to water being forced out, though this has yet to be studied in depth.
 ![Underwater Test with Ink](images/venus-fly-trap-ink.png)
+
+For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/) has more information about the snap buckling closing mechanism of venus fly traps.
 
 
 ## Mantis shrimp
