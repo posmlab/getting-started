@@ -106,10 +106,10 @@ Image of Trap-Jaw Ant from
 
 Louse is singular for lice! This summary is about jumping plant lice (psyllidae), which [are a family of small plant-feeding insects that tend to be very host-specific.](https://en.wikipedia.org/wiki/Psyllidae)
 
-[Here] (https://www.youtube.com/watch?v=0qpi9V0PFsI&t=40s) is a video of one such species walking around. Unfortunately, catching its jump with a normal camera is probably close to impossible, given how fast they jump. However, in [this paper,](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir) researchers have used high-speed cameras to capture the following images of a specific species of plant lice" 
+[Here](https://www.youtube.com/watch?v=0qpi9V0PFsI&t=40s) is a video of one such species walking around. Unfortunately, catching its jump with a normal camera is probably close to impossible, given how fast they jump. However, in [this paper,](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir) researchers have used high-speed cameras to capture the following images of a specific species of plant lice" 
 
 ##### Images of a jump by Psylla alni, viewed from the side and capturedat 5000 Hz, each with an exposure time of 0.05 ms. The images are arranged in two columns, with the bottom left-hand corner of each image providing a constant reference point in this and in Figs 5, 7–9. The hind legs started to move at –2.4 ms, and the continuing depression of the hind trochantera raised the rear of the body so that the middle legs lost contact with the ground and the head pitched forwards. Once airborne, the body rotated rapidly in the pitch plane. The cartoons show how the angle of the body relative to the ground was measured when the head was pointing upwards (frame –2.4 ms) and then downwards (frame 0 ms).
-![Plant Lice Jump from Burrows Fig. 4](images/Plant_Lice_1.png)
+![Plant Lice Jump from Burrows Fig. 4](Plant_Lice_1.png)
 
 
 ##### Summary of Kinematic Peformance from Burrows
