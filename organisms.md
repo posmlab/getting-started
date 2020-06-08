@@ -164,7 +164,21 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 
 
 ## Mantis shrimp
-[McHenry et al JEB 2016](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x)
+Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). 
+
+#### Types of Mantis Shrimp
+When looking at the anatomy of Mantis Shrimp, we see that the appendages they use to punch can be categorized into two different types: spearers and smashers. The differentiation is in the style of *dactyl*, as shown by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+![Dactyl Differentiation McHenry Fig. 1](images/MSDactyl.png)
+
+#### Kinematics
+For a single spear-type female of the species *Coronis scolopendra* the following data was collected by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+| Kinematic Metric | *Coronis Scolopendra* Performance |
+| -------- | ------- |
+| Time to Max. Linear Speed | .89 - 2.37 ms |
+| Max. Linear Speed | 2.4 - 3.3 m/s |
+| Max. Linear Acceleration | 2500 - 5300 m/s$$^2$$ | 
+
+For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
 
 ## Frog
 [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
