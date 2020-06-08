@@ -137,7 +137,7 @@ Jump
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
 
-[Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/)
+Further reading (referenced below): [Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/)
 
 The rapid closure of venus fly traps is achieved using a method called snap buckling, where a system "snaps" from one stable state to another stable state. Here's a diagram that visualizes snap buckling.
 ![Snap Buckling](images/snap-buckling.png)
@@ -165,7 +165,7 @@ Additionally, tests involving ink droplets in the water showed that there was no
 
 ## Chameleon
 #### Ballistic Tongue Projection
-Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
 ![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
