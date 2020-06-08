@@ -195,11 +195,12 @@ When looking at the anatomy of Mantis Shrimp, we see that the appendages they us
 
 #### Kinematics
 For a single spear-type female of the species *Coronis scolopendra* the following data was collected by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+
 | Kinematic Metric | *Coronis Scolopendra* Performance |
 | -------- | ------- |
 | Time to Max. Linear Speed | .89 - 2.37 ms |
-| Max. Linear Speed | 2.4 - 3.3 m/s |
-| Max. Linear Acceleration | 2500 - 5300 m/s$$^2$$ | 
+| Max Linear Speed | 2.4 - 3.3 m/s |
+| Max. Linear Acceleration | 2500 - 5300 m/$$s^2$$ |
 
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
 
