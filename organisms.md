@@ -170,6 +170,8 @@ Chameleons project their tongues up to 2 times their body length in order to cap
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
 ![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
 
+##### Figure 1 from Anderson et Al. demonstrating the skeletal and muscular components of the projection and retraction mechanism
+![Chameleon tongue schematic from Aderson et al](images/tongueApparatusChameleon.jpg)
 
 
 ##### Summary of Kinematic Peformance from Anderson
