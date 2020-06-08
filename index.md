@@ -62,10 +62,10 @@ Group Accounts:
 -------- | -------------
 Gmail | physicsofsoftmatter@gmail.com
 Instagram | [posm_lab](https://www.instagram.com/posm_lab/)
-Squarespace (managed by Mark) | [posmlab.org](posmlab.org)
+Squarespace (managed by Mark) | [posmlab.org](https://posmlab.org)
 Google Drive | [posmlab shared drive](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf)
-Slack | [posmlab.slack.com](posmlab.slack.com)
-Github | [github.com/posmlab](github.com/posmlab)
+Slack | [posmlab.slack.com](https://posmlab.slack.com)
+Github | [github.com/posmlab](https://github.com/posmlab)
 
 
 ### Other (less important) off-campus logistics
@@ -113,9 +113,6 @@ Generally, our group culture has been one where we are supportive of one another
 
 </details>
 
-----------------------------------------
-</details>
-
 ## Scientific Papers
 
 Part of the process of doing science is reading scientific papers related to our work. Reading a scientific paper can be a fairly daunting task. A good resource is [How to Read a Paper - The Three Pass Approach](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf). Depending on what you are trying to get from a paper (a high-level overview? the main ideas?), you may only need to perform one or two passes of the paper. The key idea is to start with a bird's eye view on your first reading, and then zooming in to more granular details on subsequent passes. 
@@ -125,17 +122,18 @@ We will often use a "Journal Club" as a format for sharing and discussing scient
 At some point, it will come time for you to write-up your work. Remember that the main product of academic research is a scientific paper. If you think about (and actively work on) writing a paper based on your work, it can more effectively direct your efforts. Although it is written about chemistry research, this guide to [Writing a Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/adma.200400767) is a good read. 
  
 
+
+----------------------------------------
+</details>
+
 -----------------------------------------------
 
 ## Introduction to PoSMLab Research 
 
-<details>
+<details open>
 <summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
 Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
-    - 
-
-    - 
 
 1) [Watch this short PoSMLab Introduction video](http://youtube.com)
 
