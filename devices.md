@@ -96,7 +96,7 @@ The active catching strategy has 4 phases: the approaching phase, the locking ph
 ##### Figure 7 from Namiki et al. The strategy of the catching mechanism.
 ![Catching Strategy from Namiki et al.](images/handcatching.png)
 
-| Kinematic Metrics | Hand Robot |
+| Kinematic Metric | Hand Robot Performance |
 | -------- | ------- |
 | Joint Closing Speed | 180 deg/0.1 s |
 | Finger output force | 28 N | 
