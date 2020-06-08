@@ -147,7 +147,7 @@ Simulations of the mechanism show that the the stiffness of the walls of the tra
 
 The suction mechanism of these carnivorous plants is fascinating, and also useful. Since these traps are autonomously repetitive, this research the potential to inform the design of microfluidic devices that must act repeatedly.
 
-| Kinematic Metrics | Aquatic Bladderwort performance |
+| Kinematic Metric | Aquatic Bladderwort performance |
 | -------- | ------- |
 | Duration | < 0.5 ms |
 | Max. Fluid Velocity | 1.5 m/s |
