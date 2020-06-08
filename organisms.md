@@ -82,6 +82,12 @@ Pollen ejection
 
 The mandible strike of trap-jaw ants serve as methods to avoid or eject predators and capture prey. During a mandible strike, trap-jaw ants close their mandibles at incredible speeds over short durations in specific orientations and strike surfaces to fit their desired function (avoiding predators,... ). Their common propulsion behaviors are named "bouncer defense" and "escape jump." Bouncer defense is when trap-jaw ants strike at predators while propelling themselves away. Escape jumps, on the other hand, is when trap-jaw ants strike at a substrate and vertically propel themselves to escape predation.
 
+Image of Trap-Jaw Ant from 
+[Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF)
+
+##### Figure 3 from Patek et al. (a) Shows a trap-jaw ant using bouncer defense against an intruder (plastic strip). (b) Shows a trap-jaw ant using escape jump.
+![Trap-Jaw Ant Behaviors from Patek Fig 3](images/Trap-Jaw_Ant.png)
+
 ##### Summary of Kinematic Peformance from Patek et al
 
 | Kinematic Metric | Trap-Jaw Ant performance |
