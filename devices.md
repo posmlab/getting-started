@@ -56,6 +56,17 @@ To contribute to this page, choose a device from the list below and add informat
 [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
 
 ### Water strider–inspired robot 
+While mostly known for their ability to skate across the surface of ponds and lakes, water striders are also extremely capable jumpers both on water and land. While several robots have been designed to mimic their skating ability, [Koh et al](https://drive.google.com/open?id=199GLhP84E0Q2wsT6UpgleDHqnFasI4Tx) designed a robot using a similar mechanism to that of a flea's leg to try and achieve a design that would allow for similar jumping capabilities on the surface of the water. Using a coil and two L-shaped cantilevers, they came up with a design that would allow the torque from the coil to reverse if an outside force could bring the device past the singularity of the center joint, and cause the jumping motion:
+
+![Image of the design by Koh et al, Fig. 3](images/WSRobot.png)
+
+##### Kinematics Data from Koh et al Water Strider Robot
+
+| Kinematic Metric | Water Strider Robot performance |
+| -------- | ------- |
+| Jump Velocity | 1.6 m/s |
+| Jump Height | 142 mm | 
+
 [Koh et al Science 2015](https://drive.google.com/open?id=199GLhP84E0Q2wsT6UpgleDHqnFasI4Tx)
 
 
