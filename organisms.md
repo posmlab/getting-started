@@ -104,7 +104,7 @@ Jump
 
 Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
 
-The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
+The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands slowly pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
 
 ##### Images of the slow and ultra-fast phases of the suction trap:
 ![Aquatic Bladderwort Suction Trap Mechanism from Vincent et al.](images/bladderwort.png)
@@ -165,7 +165,7 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 
 ## Chameleon
 #### Ballistic Tongue Projection
-Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
 ![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
