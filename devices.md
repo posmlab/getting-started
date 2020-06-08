@@ -63,7 +63,7 @@ To contribute to this page, choose a device from the list below and add informat
 
 The 7g jumping robot is capable of overcoming obstacles of around 1.4 m tall and is made to accomodate different payloads. The system has a total mass of 10 g and takes off at a 75 degree angle. To optimize the efficiency of the energy transmission from the legs, a four bar linkage design is used. In addition, this design also allows for adjustments in the take-off angle and acceleration time. Based on the mechanical properties of small jumping animals, energy is stored slowly by a DC motor into two springs connected to the legs and body and is released by a click mechanism.
 
-Imaging of the 7g Jumping Robot from
+Image of 7g Jumping Robot from
 [Kovac et al IEEE 2008](https://drive.google.com/open?id=13YTO5TTnOkXzwpymIFafRse-I0hbXCDk)
 
 ##### Figure 5 from Kovac et al. The CAD model of the jumping mechanism.

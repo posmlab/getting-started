@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="Added information on the EPFL 7g Robot" />
+    <list default="true" id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="Merge branch 'master' of https://github.com/posmlab/getting-started" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,28 @@
       <option name="project" value="LOCAL" />
       <updated>1591647600643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591647943584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591647943584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591648594527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648594527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591648724081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648724081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added information on the trap-jaw ant." />
     <MESSAGE value="Added information on the EPFL 7g Robot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added information on the EPFL 7g Robot" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/posmlab/getting-started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/posmlab/getting-started" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1591647605790">
