@@ -100,9 +100,31 @@ Jump
 [Burrows JEB 2012](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir)
 
 ## Aquatic bladderworts
-Suction trap
+#### Suction trap
 
-[Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET)
+Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
+
+The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
+
+##### Images of the slow and ultra-fast phases of the suction trap:
+![Aquatic Bladderwort Suction Trap Mechanism from Vincent et al.](images/bladderwort.png)
+
+High speed cameras were used to image this process. The fast opening and closing of the door, with an abrupt change in shape, strongly suggests that the under-lying principle is a buckling of an elastic valve, which is triggered by the trigger hairs on the trap door. 
+
+##### Schematic of elastic valve buckling mechanism:
+![Aquatic Bladderwort Buckling Mechanism from Vincent et al.](images/bladderwort2.png)
+
+Simulations of the mechanism show that the the stiffness of the walls of the trap must be optimized to be soft enough to deform sufficiently, but also stiff enough to overcome viscous disspation and move fast enough to catch the prey. 
+
+The suction mechanism of these carnivorous plants is fascinating, and also useful. Since these traps are autonomously repetitive, this research the potential to inform the design of microfluidic devices that must act repeatedly.
+
+| Kinematic Metrics | Aquatic Bladderwort performance |
+| -------- | ------- |
+| Duration | < 0.5 ms |
+| Max. Fluid Velocity | 1.5 m/s |
+| Max. Acceleration | 600g | 
+
+For further reading, [Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
 
 ## Froghopper
 Jump
