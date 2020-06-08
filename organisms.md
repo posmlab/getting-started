@@ -104,7 +104,7 @@ Jump
 
 Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
 
-The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
+The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands slowly pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
 
 ##### Images of the slow and ultra-fast phases of the suction trap:
 ![Aquatic Bladderwort Suction Trap Mechanism from Vincent et al.](images/bladderwort.png)
