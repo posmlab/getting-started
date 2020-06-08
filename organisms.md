@@ -82,6 +82,12 @@ Pollen ejection
 
 The mandible strike of trap-jaw ants serve as methods to avoid or eject predators and capture prey. During a mandible strike, trap-jaw ants close their mandibles at incredible speeds over short durations in specific orientations and strike surfaces to fit their desired function (avoiding predators,... ). Their common propulsion behaviors are named "bouncer defense" and "escape jump." Bouncer defense is when trap-jaw ants strike at predators while propelling themselves away. Escape jumps, on the other hand, is when trap-jaw ants strike at a substrate and vertically propel themselves to escape predation.
 
+Image of Trap-Jaw Ant from 
+[Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF)
+
+##### Figure 3 from Patek et al. (a) Shows a trap-jaw ant using bouncer defense against an intruder (plastic strip). (b) Shows a trap-jaw ant using escape jump.
+![Trap-Jaw Ant Behaviors from Patek Fig 3](images/Trap-Jaw_Ant.png)
+
 ##### Summary of Kinematic Peformance from Patek et al
 
 | Kinematic Metric | Trap-Jaw Ant performance |
@@ -95,9 +101,32 @@ The mandible strike of trap-jaw ants serve as methods to avoid or eject predator
  For further reading, [Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF) has more details about the mechanisms of a trap-jaw ant's mandible strike. 
 
 ## Plant louse
-Jump 
 
-[Burrows JEB 2012](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir)
+#### Jump
+
+Louse is singular for lice! This summary is about jumping plant lice (psyllidae), which [are a family of small plant-feeding insects that tend to be very host-specific.](https://en.wikipedia.org/wiki/Psyllidae)
+
+[Here](https://www.youtube.com/watch?v=0qpi9V0PFsI&t=40s) is a video of one such species walking around. Unfortunately, catching its jump with a normal camera is probably close to impossible, given how fast they jump. However, in [this paper,](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir) researchers have used high-speed cameras to capture the following images of a specific species of plant lice" 
+
+##### Images of a jump by Psylla alni, viewed from the side and capturedat 5000 Hz, each with an exposure time of 0.05 ms. The images are arranged in two columns, with the bottom left-hand corner of each image providing a constant reference point in this and in Figs 5, 7–9. The hind legs started to move at –2.4 ms, and the continuing depression of the hind trochantera raised the rear of the body so that the middle legs lost contact with the ground and the head pitched forwards. Once airborne, the body rotated rapidly in the pitch plane. The cartoons show how the angle of the body relative to the ground was measured when the head was pointing upwards (frame –2.4 ms) and then downwards (frame 0 ms).
+![Plant Lice Jump from Burrows Fig. 4](Plant_Lice_1.png)
+
+
+##### Summary of Kinematic Peformance from Burrows
+
+| Kinematic Metric | Lice performance |
+| -------- | ------- |
+| Duration | 0.9 - 1.7 ms |
+| Max. Velocity | 1.1 - 2.7 m/s |
+| Max. Acceleration | ~2 X $$10^3$$ m/s$$^2$$ | 
+
+
+
+The mechanism for the rapid release of energy is known in detail. Generally, these lice jump similarly to other insects, with the exception that they have a distinct take-off position in which the head points downwards and the front supports the bug, similar to a person doing a hand-stand. 
+
+For further rearding, [Burrows JEB 2012](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir) has more details about the physics of plant lice jumps and the relevant anatomy. 
+
+
 
 ## Aquatic bladderworts
 #### Suction trap
@@ -118,7 +147,7 @@ Simulations of the mechanism show that the the stiffness of the walls of the tra
 
 The suction mechanism of these carnivorous plants is fascinating, and also useful. Since these traps are autonomously repetitive, this research the potential to inform the design of microfluidic devices that must act repeatedly.
 
-| Kinematic Metrics | Aquatic Bladderwort performance |
+| Kinematic Metric | Aquatic Bladderwort performance |
 | -------- | ------- |
 | Duration | < 0.5 ms |
 | Max. Fluid Velocity | 1.5 m/s |
@@ -158,7 +187,21 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 
 
 ## Mantis shrimp
-[McHenry et al JEB 2016](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x)
+Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). 
+
+#### Types of Mantis Shrimp
+When looking at the anatomy of Mantis Shrimp, we see that the appendages they use to punch can be categorized into two different types: spearers and smashers. The differentiation is in the style of *dactyl*, as shown by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+![Dactyl Differentiation McHenry Fig. 1](images/MSDactyl.png)
+
+#### Kinematics
+For a single spear-type female of the species *Coronis scolopendra* the following data was collected by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+| Kinematic Metric | *Coronis Scolopendra* Performance |
+| -------- | ------- |
+| Time to Max. Linear Speed | .89 - 2.37 ms |
+| Max. Linear Speed | 2.4 - 3.3 m/s |
+| Max. Linear Acceleration | 2500 - 5300 m/s$$^2$$ | 
+
+For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
 
 ## Frog
 [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
@@ -168,8 +211,10 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
-![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
+![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.JPG)
 
+##### Figure 1 from Anderson et Al. demonstrating the skeletal and muscular components of the projection and retraction mechanism
+![Chameleon tongue schematic from Aderson et al](images/tongueApparatusChameleon.JPG)
 
 
 ##### Summary of Kinematic Peformance from Anderson
