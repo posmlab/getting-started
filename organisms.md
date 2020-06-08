@@ -78,9 +78,21 @@ Pollen ejection
 [Edwards et al Nature 2005](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK) <br> [Whitaker et al Funct Ecol 2007](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
 
 ## Trap-jaw ant
-Mandible strike
+#### Mandible strike
 
-[Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF)
+The mandible strike of trap-jaw ants serve as methods to avoid or eject predators and capture prey. During a mandible strike, trap-jaw ants close their mandibles at incredible speeds over short durations in specific orientations and strike surfaces to fit their desired function (avoiding predators,... ). Their common propulsion behaviors are named "bouncer defense" and "escape jump." Bouncer defense is when trap-jaw ants strike at predators while propelling themselves away. Escape jumps, on the other hand, is when trap-jaw ants strike at a substrate and vertically propel themselves to escape predation.
+
+##### Summary of Kinematic Peformance from Patek et al
+
+| Kinematic Metric | Trap-Jaw Ant performance |
+| -------- | ------- |
+| Duration | 0.13 ms |
+| Max. Velocity | 64.3 m/s |
+| Max. Acceleration | $$10^5$$ X $$g$$ m/s$$^2$$ | 
+
+
+
+ For further reading, [Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF) has more details about the mechanisms of a trap-jaw ant's mandible strike. 
 
 ## Plant louse
 Jump 
