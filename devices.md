@@ -94,6 +94,16 @@ Imaging of the 7g Jumping Robot from
 ### Flytrap-inspired robot
 [Kim et al Bioinspir Biomim 2014](https://drive.google.com/open?id=13-rasGR4xlGQ_rDX6gAwDK3ehuEcGWgo)
 
+The leaves of venus flytraps are known to have bistable properties, which means it has two stable states (see [here](https://posmlab.github.io/getting-started/organisms.html#venus-fly-trap) for more details), and researchers have used this property to create a robot that has a similar closing mechanism. The robot, pictured below, uses asymmetrically laminated sheets of carbon fiber and resin as its "leaves," which has bistability similar to that of the venus flytrap.
+![Bistable Leaf](images/vft-robot-bistable-leaf.png)
+
+The bistability of the sheets allow them to snap between the "open" and "close" states, just like how the leaves of the venus flytrap does. To activate the snap, an actuator pushes on the base of the sheets, causing the sheet to snap into its other stable, closed configuration (see below).
+![Venus Fly Trap Robot](images/vft-robot.png)
+
+The "open" state has a larger radius of curvature (less curved) to make it relatively easy to snap closed. In contrast, the "closed" state has a smaller radius of curvature (more curved) to make the snapping process faster.
+
+Further reading about similar robots can be found here (behind a paywall, unfortunately): [Zhang et al Elsevier 2016](https://www.sciencedirect.com/science/article/pii/S026382231500851X)
+
 ### Galago-inspired Salto robot
 [Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
 
