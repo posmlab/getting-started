@@ -140,7 +140,7 @@ The suction trapping mechanism has two stages: a slow phase, and an ultra-fast p
 
 High speed cameras were used to image this process. The fast opening and closing of the door, with an abrupt change in shape, strongly suggests that the under-lying principle is a buckling of an elastic valve, which is triggered by the trigger hairs on the trap door. 
 
-##### Schematic of elastic valve buckling mechanism:
+##### Schematic of trap door deformation:
 ![Aquatic Bladderwort Buckling Mechanism from Vincent et al.](images/bladderwort2.png)
 
 Simulations of the mechanism show that the the stiffness of the walls of the trap must be optimized to be soft enough to deform sufficiently, but also stiff enough to overcome viscous disspation and move fast enough to catch the prey. 
@@ -153,7 +153,7 @@ The suction mechanism of these carnivorous plants is fascinating, and also usefu
 | Max. Fluid Velocity | 1.5 m/s |
 | Max. Acceleration | 600g | 
 
-For further reading, [Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
+[Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
 
 ## Froghopper
 Jump
