@@ -99,7 +99,24 @@ Jump
 
 
 ## Venus fly trap
-Snap buckling
+#### Snap buckling
+
+The rapid closure of venus fly traps is achieved using a method called snap buckling, where a system "snaps" from one stable state to another stable state. Here's a diagram that visualizes snap buckling.
+![Snap Buckling](images/snap-buckling.png)
+
+For reference, here is a labeled diagram of the parts of a venus fly trap.
+![Parts of a Venus Fly Trap](images/venus-fly-trap-labeled.jpg)
+
+In the open state, the lobes of the venus fly trap are convex (when viewed from the inside), while in the closed state, the lobes are concave.
+![Closed and Open Venus Fly Traps](images/venus-fly-traps.jpg)
+
+When the venus fly trap goes from the open state to the closed state, the lobes undergo snap buckling from convex to concave. Here's a [video](https://www.youtube.com/watch?v=nhVKVSkdedY) showing it close up.
+
+The snap closure of venus fly traps usually occur in less than half of a second, though the snap time varies from about 0.2 to 0.8 seconds. Since venus fly traps are also found to grow underwater, researchers timed the closing of submerged venus fly traps, and found that the closing time underwater was not significantly different from the closing time on land.
+![Closing Times in Different Mediums](images/venus-fly-traps-closing-times.png)
+
+Additionally, tests involving ink droplets in the water showed that there was no significant outflow of water upon closure, meaning that venus fly traps could effectively catch underwater organisms without failing due to water being forced out, though this has yet to be studied in depth.
+![Underwater Test with Ink](images/venus-fly-trap-ink.png)
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
 
