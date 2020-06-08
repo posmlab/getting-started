@@ -122,7 +122,26 @@ Snap buckling
 [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
 
 ## Chameleon
-[Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) <br> [Anderson Sci Rep 2016](https://drive.google.com/open?id=1A-XAujYMwi23TNvkPLqYx04nTIUPkjOR)
+#### Ballistic Tongue Projection
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+
+##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
+![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
+
+
+
+##### Summary of Kinematic Peformance from Anderson
+
+The kinematic performance of the chameleon tongue mechanism varies between species, with smaller species demonstrating the shortest durations, and highest accelerations and power outputs. The max. velocity acheived is proportional between species. Data was scaled by SVL, or snout-vent length of the species. 
+
+| Kinematic Metric | Chameleon Tongue Performance |
+| -------- | ------- |
+| Duration | 9.7 - 54.6 ms |
+| Max. Velocity | 2.91 - 5.41 m/s |
+| Max. Acceleration | 286 - 2,590 m/s$$^2$$ | 
+| Max. Power Output | 1410 - 14040 W/kg |
+
+For further reading, [Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) describes the differences in tongue projection between the species of chameleon. 
 
 ## Locust
 [Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN)
