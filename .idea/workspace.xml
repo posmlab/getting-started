@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organisms.md" beforeDir="false" afterPath="$PROJECT_DIR$/organisms.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d37c90Yi3bXJFEoL3Ej5ioOBYP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="" />
+      <created>1591641999244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591641999244</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added information on the trap-jaw ant.">
+      <created>1591644109432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591644109432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added information on the EPFL 7g Robot">
+      <created>1591647600643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591647600643</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591647943584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591647943584</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added information on the trap-jaw ant." />
+    <MESSAGE value="Added information on the EPFL 7g Robot" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/posmlab/getting-started" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/posmlab/getting-started" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1591647605790">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1591647605790" />
+    <state x="688" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591647668375">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="688" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1591647668375" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1591647327214">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1591647327214" />
+  </component>
+</project>
