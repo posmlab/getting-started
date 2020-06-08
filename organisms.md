@@ -133,9 +133,29 @@ Jump
 
 
 ## Venus fly trap
-Snap buckling
+#### Snap buckling
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
+
+[Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/)
+
+The rapid closure of venus fly traps is achieved using a method called snap buckling, where a system "snaps" from one stable state to another stable state. Here's a diagram that visualizes snap buckling.
+![Snap Buckling](images/snap-buckling.png)
+
+For reference, here is a labeled diagram of the parts of a venus fly trap.
+![Parts of a Venus Fly Trap](images/venus-fly-trap-labeled.jpg)
+
+In the open state, the lobes of the venus fly trap are convex (when viewed from the inside), while in the closed state, the lobes are concave.
+![Closed and Open Venus Fly Traps](images/venus-fly-traps.jpg)
+
+When the venus fly trap goes from the open state to the closed state, the lobes undergo snap buckling from convex to concave. Here's a [video](https://www.youtube.com/watch?v=nhVKVSkdedY) showing it close up.
+
+The snap closure of venus fly traps usually occur in less than half of a second, though the snap time varies from about 0.2 to 0.8 seconds. Since venus fly traps are also found to grow underwater, researchers timed the closing of submerged venus fly traps, and found that the closing time underwater was not significantly different from the closing time on land.
+![Closing Times in Different Mediums](images/venus-fly-traps-closing-times.png)
+
+Additionally, tests involving ink droplets in the water showed that there was no significant outflow of water upon closure, meaning that venus fly traps could effectively catch underwater organisms without failing due to water being forced out, though this has yet to be studied in depth.
+![Underwater Test with Ink](images/venus-fly-trap-ink.png)
+
 
 ## Mantis shrimp
 [McHenry et al JEB 2016](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x)
@@ -144,7 +164,26 @@ Snap buckling
 [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
 
 ## Chameleon
-[Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) <br> [Anderson Sci Rep 2016](https://drive.google.com/open?id=1A-XAujYMwi23TNvkPLqYx04nTIUPkjOR)
+#### Ballistic Tongue Projection
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+
+##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
+![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
+
+
+
+##### Summary of Kinematic Peformance from Anderson
+
+The kinematic performance of the chameleon tongue mechanism varies between species, with smaller species demonstrating the shortest durations, and highest accelerations and power outputs. The max. velocity acheived is proportional between species. Data was scaled by SVL, or snout-vent length of the species. 
+
+| Kinematic Metric | Chameleon Tongue Performance |
+| -------- | ------- |
+| Duration | 9.7 - 54.6 ms |
+| Max. Velocity | 2.91 - 5.41 m/s |
+| Max. Acceleration | 286 - 2,590 m/s$$^2$$ | 
+| Max. Power Output | 1410 - 14040 W/kg |
+
+For further reading, [Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) describes the differences in tongue projection between the species of chameleon. 
 
 ## Locust
 [Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN)
