@@ -168,10 +168,10 @@ For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.n
 Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
-![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
+![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.JPG)
 
 ##### Figure 1 from Anderson et Al. demonstrating the skeletal and muscular components of the projection and retraction mechanism
-![Chameleon tongue schematic from Aderson et al](images/tongueApparatusChameleon.jpg)
+![Chameleon tongue schematic from Aderson et al](images/tongueApparatusChameleon.JPG)
 
 
 ##### Summary of Kinematic Peformance from Anderson
