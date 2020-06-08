@@ -82,6 +82,12 @@ Pollen ejection
 
 The mandible strike of trap-jaw ants serve as methods to avoid or eject predators and capture prey. During a mandible strike, trap-jaw ants close their mandibles at incredible speeds over short durations in specific orientations and strike surfaces to fit their desired function (avoiding predators,... ). Their common propulsion behaviors are named "bouncer defense" and "escape jump." Bouncer defense is when trap-jaw ants strike at predators while propelling themselves away. Escape jumps, on the other hand, is when trap-jaw ants strike at a substrate and vertically propel themselves to escape predation.
 
+Image of Trap-Jaw Ant from 
+[Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF)
+
+##### Figure 3 from Patek et al. (a) Shows a trap-jaw ant using bouncer defense against an intruder (plastic strip). (b) Shows a trap-jaw ant using escape jump.
+![Trap-Jaw Ant Behaviors from Patek Fig 3](images/Trap-Jaw_Ant.png)
+
 ##### Summary of Kinematic Peformance from Patek et al
 
 | Kinematic Metric | Trap-Jaw Ant performance |
@@ -123,9 +129,31 @@ For further rearding, [Burrows JEB 2012](https://drive.google.com/open?id=13JHzV
 
 
 ## Aquatic bladderworts
-Suction trap
+#### Suction trap
 
-[Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET)
+Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
+
+The suction trapping mechanism has two stages: a slow phase, and an ultra-fast phase. In the slow phase, the internal glands slowly pump water out of the trap. This reudces the hydrostatic pressure, which increases the elastic energy stored in the walls of the trap. Once the prey stimulates the trigger hairs on the watertight trap door, the ultra-fast phase is initiated. The door opens, causing a rush of water to flow into the trap, pulling in the prey. Then the prey is slowly broken down by a cocktail of digestive enzymes.
+
+##### Images of the slow and ultra-fast phases of the suction trap:
+![Aquatic Bladderwort Suction Trap Mechanism from Vincent et al.](images/bladderwort.png)
+
+High speed cameras were used to image this process. The fast opening and closing of the door, with an abrupt change in shape, strongly suggests that the under-lying principle is a buckling of an elastic valve, which is triggered by the trigger hairs on the trap door. 
+
+##### Schematic of elastic valve buckling mechanism:
+![Aquatic Bladderwort Buckling Mechanism from Vincent et al.](images/bladderwort2.png)
+
+Simulations of the mechanism show that the the stiffness of the walls of the trap must be optimized to be soft enough to deform sufficiently, but also stiff enough to overcome viscous disspation and move fast enough to catch the prey. 
+
+The suction mechanism of these carnivorous plants is fascinating, and also useful. Since these traps are autonomously repetitive, this research the potential to inform the design of microfluidic devices that must act repeatedly.
+
+| Kinematic Metrics | Aquatic Bladderwort performance |
+| -------- | ------- |
+| Duration | < 0.5 ms |
+| Max. Fluid Velocity | 1.5 m/s |
+| Max. Acceleration | 600g | 
+
+For further reading, [Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
 
 ## Froghopper
 Jump
@@ -137,8 +165,6 @@ Jump
 #### Snap buckling
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
-
-[Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/)
 
 The rapid closure of venus fly traps is achieved using a method called snap buckling, where a system "snaps" from one stable state to another stable state. Here's a diagram that visualizes snap buckling.
 ![Snap Buckling](images/snap-buckling.png)
@@ -157,20 +183,38 @@ The snap closure of venus fly traps usually occur in less than half of a second,
 Additionally, tests involving ink droplets in the water showed that there was no significant outflow of water upon closure, meaning that venus fly traps could effectively catch underwater organisms without failing due to water being forced out, though this has yet to be studied in depth.
 ![Underwater Test with Ink](images/venus-fly-trap-ink.png)
 
+For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/) has more information about the snap buckling closing mechanism of venus fly traps.
+
 
 ## Mantis shrimp
-[McHenry et al JEB 2016](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x)
+Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). 
+
+#### Types of Mantis Shrimp
+When looking at the anatomy of Mantis Shrimp, we see that the appendages they use to punch can be categorized into two different types: spearers and smashers. The differentiation is in the style of *dactyl*, as shown by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+![Dactyl Differentiation McHenry Fig. 1](images/MSDactyl.png)
+
+#### Kinematics
+For a single spear-type female of the species *Coronis scolopendra* the following data was collected by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x):
+| Kinematic Metric | *Coronis Scolopendra* Performance |
+| -------- | ------- |
+| Time to Max. Linear Speed | .89 - 2.37 ms |
+| Max. Linear Speed | 2.4 - 3.3 m/s |
+| Max. Linear Acceleration | 2500 - 5300 m/s$$^2$$ | 
+
+For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
 
 ## Frog
 [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
 
 ## Chameleon
 #### Ballistic Tongue Projection
-Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
-![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
+![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.JPG)
 
+##### Figure 1 from Anderson et Al. demonstrating the skeletal and muscular components of the projection and retraction mechanism
+![Chameleon tongue schematic from Aderson et al](images/tongueApparatusChameleon.JPG)
 
 
 ##### Summary of Kinematic Peformance from Anderson
