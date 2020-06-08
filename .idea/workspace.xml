@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="Merge branch 'master' of https://github.com/posmlab/getting-started">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/organisms.md" beforeDir="false" afterPath="$PROJECT_DIR$/organisms.md" afterDir="false" />
-    </list>
+    <list default="true" id="fd83b142-97b9-4c8c-8434-325b8b8af0c4" name="Default Changelist" comment="Merge branch 'master' of https://github.com/posmlab/getting-started" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591647943584</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591648594527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648594527</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/posmlab/getting-started">
+      <created>1591648724081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591648724081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

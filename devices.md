@@ -46,6 +46,32 @@ To contribute to this page, choose a device from the list below and add informat
 
 
 ### Chameleon tongue–inspired system 
+
+This system takes inspiration from the capability of the chameleon tongue to project to more than 6 times its rest length, the flexibility of the moving element, and the lack of continuous force during the forward motion. THe system consists of 4 separate manipulators, each mimicking different aspects of the cameleon tongue system, moving towards completely mimicking the system (as close as it is possible to get without biological methods). 
+
+The common elements the 4 engineering manipulators are as follows:
+> + extend as they move
+> + flexible moving element
+> + no continuous applied force
+
+The first manipulator reproduces the basics of the tongue system. The second manipulator extends the mechanical capabilites of the first, and attempts to more closely reproduce the mechanical specifications of nature. The third attempts to better reproduce the motion of the chameleon tongue, mimicking the motion as a function of time. Finally, the fourth went beyond the chameleon tongue model, including wings to take advantage of aerodynamics. The ability to project and retract was thus implemented slightly differently in each manipulator.
+
+##### Table 1 from Debray describes how the four manipulators were implemented mechanically, and how that relates to the same function in the chameleon model.
+![Debray Table 1](images/manipulatorstable.JPG)
+
+##### Figure 3 from Debray shows photographs of the four manipulators dicussed. (a) coilgun elastomer system (b) coilgun-dc motor system (c) coilgun-dc-elastomer system (d) aerodynamic system.
+![manipulators from Debray Fig 3](images/manipulatorschameleondevice.JPG)
+
+
+Future improvements on the existing models include:
+> + studying performance of catching as a function of aiming direction
+> + incoorporating an active catching device, similar to what is present in the chameleon tongue and allows for capture of heavier prey
+> + incoorporating the wings in controlling direction during motion
+> + sensors being integrated for real-time position monitoring
+
+This device has great potential applications, specifically in factory lines. The extensibility is limited by the rigidity of the arm, but as the arm is designed to extend, many positions can be reached without the system occupying much volume. The flexibility of the moving element reduces the impact of collisions, as does the lack of a continuous force being applied such as with a robotic arm. 
+
+
 [Debray Bioinspir Biomim 2011](https://drive.google.com/open?id=1Xv6ejFxYzqn1a_La159wmyE9qjkg3uG_)
 
 ### Flea-inspired robot 
@@ -74,7 +100,7 @@ While mostly known for their ability to skate across the surface of ponds and la
 
 The 7g jumping robot is capable of overcoming obstacles of around 1.4 m tall and is made to accomodate different payloads. The system has a total mass of 10 g and takes off at a 75 degree angle. To optimize the efficiency of the energy transmission from the legs, a four bar linkage design is used. In addition, this design also allows for adjustments in the take-off angle and acceleration time. Based on the mechanical properties of small jumping animals, energy is stored slowly by a DC motor into two springs connected to the legs and body and is released by a click mechanism.
 
-Image of the 7g Jumping Robot from
+Image of 7g Jumping Robot from
 [Kovac et al IEEE 2008](https://drive.google.com/open?id=13YTO5TTnOkXzwpymIFafRse-I0hbXCDk)
 
 ##### Figure 5 from Kovac et al. The CAD model of the jumping mechanism.
@@ -97,13 +123,39 @@ Image of the 7g Jumping Robot from
 [Burdick and Fiorini Int J Robot Res 2003](https://drive.google.com/open?id=1RDAN-QERuIzK9G48AAmUMkePTsg68OTL)
 
 ### High-speed fingered hand
-[Namiki et al IEEE 2003](https://drive.google.com/open?id=10x_SWtJawHzpsDgerjedE_YeRe9PFubD)
+
+In the past, robots mimicking the human hand have been more focused on accuracy than speed. However, an actual human hand is more dextrous and flexible than a robotic hand because contact between fingers and the target changes dynamically. This robot makes use of high-speed vision to increase not only the accuracy, but also the speed of the "catching" mechanism.
+
+The aim of this device was to maximize speed, acceleration, and accuracy while minimizing the weight of the device. It was determined from experimental results that 180 deg/0.1 s was sufficient speed for dynamic motion. To minimize the size of the device, only 3 fingers were used, which is sufficient for stable control. The hand has 8 total degrees of freedom, which allows it to grasp objects of various shapes. An actuator that allows high current flow in a short period of time enabled the high accelerations.
+
+The active catching strategy has 4 phases: the approaching phase, the locking phase, the rebounding phase, and the holding phase. This strategy allows the arm to catch objects falling at a higher speed than the maximum speed of the arm.
+
+##### Figure 7 from Namiki et al. The strategy of the catching mechanism.
+![Catching Strategy from Namiki et al.](images/handcatching.png)
+
+| Kinematic Metric | Hand Robot Performance |
+| -------- | ------- |
+| Joint Closing Speed | 180 deg/0.1 s |
+| Finger output force | 28 N | 
+| Degrees of Freedom | 8 |
+
+For further reading: [Namiki et al IEEE 2003](https://drive.google.com/open?id=10x_SWtJawHzpsDgerjedE_YeRe9PFubD)
 
 ### Locust-inspired robot
 [Zaitsev et al Bioinspir Biomim 2015](https://drive.google.com/open?id=1fTxzcXYomh5jkyz-gF_PDHIlgxKalwWC)
 
 ### Flytrap-inspired robot
 [Kim et al Bioinspir Biomim 2014](https://drive.google.com/open?id=13-rasGR4xlGQ_rDX6gAwDK3ehuEcGWgo)
+
+The leaves of venus flytraps are known to have bistable properties, which means it has two stable states (see [here](https://posmlab.github.io/getting-started/organisms.html#venus-fly-trap) for more details), and researchers have used this property to create a robot that has a similar closing mechanism. The robot, pictured below, uses asymmetrically laminated sheets of carbon fiber and resin as its "leaves," which has bistability similar to that of the venus flytrap.
+![Bistable Leaf](images/vft-robot-bistable-leaf.png)
+
+The bistability of the sheets allow them to snap between the "open" and "close" states, just like how the leaves of the venus flytrap does. To activate the snap, an actuator pushes on the base of the sheets, causing the sheet to snap into its other stable, closed configuration (see below).
+![Venus Fly Trap Robot](images/vft-robot.png)
+
+The "open" state has a larger radius of curvature (less curved) to make it relatively easy to snap closed. In contrast, the "closed" state has a smaller radius of curvature (more curved) to make the snapping process faster.
+
+Further reading about similar robots can be found here (behind a paywall, unfortunately): [Zhang et al Elsevier 2016](https://www.sciencedirect.com/science/article/pii/S026382231500851X)
 
 ### Galago-inspired Salto robot
 [Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
