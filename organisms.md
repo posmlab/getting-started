@@ -123,7 +123,7 @@ Snap buckling
 
 ## Chameleon
 #### Ballistic Tongue Projection
-Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. 
+Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
 ![Scaling relationships from Anderson Figure 2](images/chameleonTongueProjection.jpg)
