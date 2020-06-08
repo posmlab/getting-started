@@ -46,6 +46,32 @@ To contribute to this page, choose a device from the list below and add informat
 
 
 ### Chameleon tongue–inspired system 
+
+This system takes inspiration from the capability of the chameleon tongue to project to more than 6 times its rest length, the flexibility of the moving element, and the lack of continuous force during the forward motion. THe system consists of 4 separate manipulators, each mimicking different aspects of the cameleon tongue system, moving towards completely mimicking the system (as close as it is possible to get without biological methods). 
+
+The common elements the 4 engineering manipulators are as follows:
+> + extend as they move
+> + flexible moving element
+> + no continuous applied force
+
+The first manipulator reproduces the basics of the tongue system. The second manipulator extends the mechanical capabilites of the first, and attempts to more closely reproduce the mechanical specifications of nature. The third attempts to better reproduce the motion of the chameleon tongue, mimicking the motion as a function of time. Finally, the fourth went beyond the chameleon tongue model, including wings to take advantage of aerodynamics. The ability to project and retract was thus implemented slightly differently in each manipulator.
+
+##### Table 1 from Debray describes how the four manipulators were implemented mechanically, and how that relates to the same function in the chameleon model.
+![Debray Table 1](images/manipulatorstable.JPG)
+
+##### Figure 3 from Debray shows photographs of the four manipulators dicussed. (a) coilgun elastomer system (b) coilgun-dc motor system (c) coilgun-dc-elastomer system (d) aerodynamic system.
+![manipulators from Debray Fig 3](images/manipulatorschameleondevice.JPG)
+
+
+Future improvements on the existing models include:
+> + studying performance of catching as a function of aiming direction
+> + incoorporating an active catching device, similar to what is present in the chameleon tongue and allows for capture of heavier prey
+> + incoorporating the wings in controlling direction during motion
+> + sensors being integrated for real-time position monitoring
+
+This device has great potential applications, specifically in factory lines. The extensibility is limited by the rigidity of the arm, but as the arm is designed to extend, many positions can be reached without the system occupying much volume. The flexibility of the moving element reduces the impact of collisions, as does the lack of a continuous force being applied such as with a robotic arm. 
+
+
 [Debray Bioinspir Biomim 2011](https://drive.google.com/open?id=1Xv6ejFxYzqn1a_La159wmyE9qjkg3uG_)
 
 ### Flea-inspired robot 
