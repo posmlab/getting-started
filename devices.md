@@ -155,7 +155,7 @@ The bistability of the sheets allow them to snap between the "open" and "close" 
 
 The "open" state has a larger radius of curvature (less curved) to make it relatively easy to snap closed. In contrast, the "closed" state has a smaller radius of curvature (more curved) to make the snapping process faster.
 
-Further reading about similar robots can be found here (behind a paywall, unfortunately): [Zhang et al Elsevier 2016](https://www.sciencedirect.com/science/article/pii/S026382231500851X)
+Further reading about similar robots can be found here: [Zhang et al Composite Structures 2016](https://drive.google.com/open?id=1sHbkTDbW7V9JykRgHzV5Q0DUBi8dCt3L)
 
 ### Galago-inspired Salto robot
 [Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
