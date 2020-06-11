@@ -135,7 +135,7 @@ At some point, it will come time for you to write-up your work. Remember that th
 
 Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
 
-1) [Watch this short PoSMLab Introduction video](https://youtu.be/0ZOupLQ_WiI)
+1) [Watch this short PoSMLab Introduction video](https://youtu.be/NbnPefC_W3E)
 
 2) Read more [examples of ultra-fast organisms](organisms.md) that use elastic energy to drive movement. Contribute to that document by adding more information from a primary literature source for one organism (your first contribution to a posmlab Github repository!).
 
