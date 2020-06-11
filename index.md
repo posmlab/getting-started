@@ -167,6 +167,16 @@ You should end up with a transcendental equation, so you will need to use a nume
 
 </details>
 
+<details>
+<summary markdown='span'>Solution</summary>
+
+See [motor-driven-motion.pdf](motor-driven-motion/motor-driven-motion.pdf) for a mathematical derivation and [motordrivenmotion.m](motor-driven-motion/motordrivenmotion.m) for an implementation of the numerial solution in MATLAB.
+
+You should end up with a graph that looks like:
+![motor-drirven-motion.png](motor-driven-motion/motor-driven-motion.png)
+
+</details>
+
 8) Spring Model: Derive the take-off velocity $$v_{to}$$ for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor Model" above. As an added bonus, what are the maximum acceleration ($$a_{max}$$), launch duration ($$\Delta t$$) (sometimes referred to as take-off time $$t_{to}$$), and maximum power deliver to the mass ($$P_{max}$$). Remember $$P(t) = F(t)\,v(t) = m \,a(t)\, v(t)$$. 
 
 9) How would the Spring Model change if the spring had a mass $$m_s$$? 
