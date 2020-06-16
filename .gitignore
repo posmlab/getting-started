@@ -1,2 +1,5 @@
 # large powerpoint files
 *.pptx
+
+# ignore videos direcotry
+/videos/
