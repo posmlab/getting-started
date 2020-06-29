@@ -70,6 +70,8 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 ## Fungi
 Ballistospore ejection
 
+(Bradley is working on this)
+
 [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
 
 ## Bunchberry dogwood
