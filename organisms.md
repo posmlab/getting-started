@@ -68,11 +68,40 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
  For further rearding, [Koch et al. J Cell Sci 1998](https://drive.google.com/open?id=1FDeOC1uCXSm3mZ_uhf2bb_3b2A58FMAT) has more details about the structure of the components of a nemacoyst. 
 
 ## Fungi
-Ballistospore ejection
+### Ballistospore ejection
+There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
 
-(Bradley is working on this)
+[Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm) shows that the ejection of the spore occurs when the Buller’s drop, a droplet of water that forms at the base of the spore near the sterigma, combines with a film of water on the spore itself releasing its energy stored in its surface tension. Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
 
-[Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
+![Figure 1](images/ballistospore-surface-tension-catapult.png)
+**Figure 1:** 
+***A.*** *Spore sits on top of the sterigma (a part of the fungus). Displays the growth of the Buller's drop and final frame is after the spore and the drop have disappeared (10 s between each frame).* 
+***B.*** *Images of Buller’s Drop and ballistospore using a high-speed camera (10 μs between each frame).*
+
+![Figure 2](images/ballistospore-launch-mechanism.png)
+#### Figure 2:  Illustrates the surface tension catapult. 
+***A.*** *Buller’s drop forms at the base of the spore, energy is stored here in the form of surface tension.* 
+***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation.* 
+***C.*** *Once the Buller’s drop reaches the tip of the spore it stops abruptly due to surface tension preventing it from leaving the spore. This causes the spore to be shot upward along with the droplet.*
+
+#### To see the action check out the following videos:
+
+> + [High-speed video of ballistospore flight](https://www.youtube.com/watch?v=GZLM1ouhW1Y)
+> + [Video of ejection of ballistospore and Buller’s drop](https://www.youtube.com/watch?v=MCSArF8mGZM)
+
+#### Summary of Kinematic Performance from [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
+
+| Kinematic Metric | Ballistospores' performance |
+| -------- | ------- |
+| Duration | 10 μs |
+| Max. Velocity | 1.57 m/s |
+| Max. Acceleration | $$1.2$$ X $$10^5$$ m/s$$^2$$ | 
+
+#### How it compares to other organisms:
+It out does the [mantis shrimp](#mantis-shrimp) in terms of acceleration but is dwarfed by the [hydra](#hydra) and in terms of initial velocity the [bunchberry dogwood pollen catapult](#bunchberry-dogwood) does much better.
+
+
+Source: [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
 
 ## Bunchberry dogwood
 Pollen ejection
