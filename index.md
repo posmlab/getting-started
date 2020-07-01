@@ -145,7 +145,7 @@ Below is a step-by-step guide to getting acquainted with the research we do in p
 
 5) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a careful of Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
 
-6) Watch the video [when does a spring beat a motor?](http://youtube.com).  (simple toy model example; LaMSA zone)
+6) Watch the video [when does a spring beat a motor?](https://www.youtube.com/watch?v=8HZhlGcqfgE). 
 
 7) Motor Model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off 
 
