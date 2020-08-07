@@ -190,6 +190,7 @@ The suction mechanism of these carnivorous plants is fascinating, and also usefu
 
 Froghoppers are a diverse and abundant family of insects known for their incredible jumping capabilities; jumping as high as 115 times its body length. The jumping mechanism for froghoppers are similar to those of locusts and fleas that rely on elongated hind legs to provide propulsion upwards. However, whereas the hind legs of locusts are on the scale of its body length; the hind legs of froghoppers scale to only half of its body length and whose mass contributes only about 2% to its total mass. Therefore, froghoppers must have a unique mechanism that enables them to achieve high jumping heights. This is achieved through a combination of precise body orientation and careful movement of the muscles in the hind legs that provide a large acceleration up to 550g. The froghopper positions himself by raising its hind legs and rapidly depressing its trochantera which sends the insect airborne. 
 
+![Figure 1](images/froghopper.jpg)
 
 | Kinematic Metric | Froghoppers' performance |
 | -------- | ------- |
