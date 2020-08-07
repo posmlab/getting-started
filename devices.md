@@ -177,5 +177,11 @@ Many engineered robots are made from hard materials, because rigid materials are
 
 
 ### Bipedal jumper “Mowgli”
+
+Mowgli is a motor-controlled biped robot designed for jumping and landing. Mowgli was designed to better understand how to control explosive movements, which consist of actions with large instantaneous forces and short durations of time. In humans, the muscle work required for takeoff takes place at about ~300ms. A challenge associated with designing Mowgli was being able to control the multiple degrees of freedom associated with rotation about its joints in a short period of time. Based on studies of the limbs of various mammals, the robot was designed with a small foot mass and small moment of inertia. The muscles for Mowgli are made with McKibben type pneumatic artificial muscles that have a high power to mass ratio and are ideal for dynamic motion. Ultimately, Mowgli was tested for vertical jump and jumping on a chair. The robot was able to jump 0.5m high (slightly above 50% its height) which is an impressive achievement.
+
+![biped](images/biped.jpg)
+
+
 [Niiyama et al IEEE 2007](https://drive.google.com/open?id=12cTxWiK3cYqswlMm9cqM8sM4KdUn2Jvx)
 
