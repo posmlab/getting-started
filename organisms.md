@@ -104,9 +104,41 @@ It out does the [mantis shrimp](#mantis-shrimp) in terms of acceleration but is 
 Source: [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
 
 ## Bunchberry dogwood
-Pollen ejection
+Bunchberry dogwood (*Cornus canadensis*) is a plant that grows in dense carpets in the spruce-fir forests of the North American taiga [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). Bunchberry grows clusters of up to ten berries, from which the plant gets its name [[2]](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948). Bunchberry flowers grow in groups (inflorescences) surrounded by four white bracts, as seen in Figure 1a. In Figure 1b, we can see that an individual flower has four petals (which droop down in the second image) and four stamens, each composed of a long filament and an anther on top which stores the pollen.
 
-[Edwards et al Nature 2005](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK) <br> [Whitaker et al Funct Ecol 2007](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
+![Bunchberry flowers](images/bunchberry-flowers.png)
+<br>
+__Figure 1:__ *(a) An inflorescence of 30 bunchberry flowers. (b) Close-up of a single mature flower before and after opening. Elastic energy is stored in the bent filaments, which protrude from between the petals in a closed bud. Scale bar = 1 mm. (c) Pollen distribution from one flower triggered in a closed room showing that even minor air currents can carry pollen. White star shows location of flower; each yellow dot represents a pollen grain or clump of grains. Scale bar = 5 cm.* [[3]](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
+
+In a young flower bud, the filaments are short and the petals are fused along the edges, completely enclosing the stamens [[3]](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB). As a flower matures, the stamens lengthen faster than the petals and become bent, as seen in the first image in Figure 1b. Elastic energy is stored in the bent stamens in the form of turgor pressure—pressure that arises from the plant cells being full of water, which tends to straighten out the stamens [[3]](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB).
+
+One of the four petals typically has a larger part that acts as a trigger, which can be seen in Figure 1b [[3]](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB). The flower will also eventually burst open on its own. When the flower opens, the plant tissue holding the petals together is torn and the elastic energy stored in the stamens is released, catapulting the pollen up into the air. The force required to trigger the opening (0.1–0.5 mN) favors large pollinators, such as bumblebees, that move quickly between inflorescences and excludes smaller and slower visitors such as ants [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). Flowers that open on their own can also spread pollen via the wind, as shown in Figure 1c [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK).
+
+Here is a video of the pollen being released: [https://youtu.be/kDbHMDIYKzw](https://youtu.be/kDbHMDIYKzw).
+
+![Bunchberry flower opening](images/bunchberry-flower-opening.png)
+<br>
+__Figure 2__: *Bunchberry flower opening, recorded on video at 10,000 frames per second. Time elapsed is indicated. First frame shows a closed flower with four petals fused at the tip, restraining the stamens. Blur represents the distance moved in 0.1 ms. Scale bar, 1mm.* [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK)
+
+In this process, the stamens reach velocities of 3.1 ± 0.5 m/s and accelerations of 24,000 ± 6,000 m/s$$^2$$ (2,400 *g*), while the petals reach velocities of 6.7 ± 0.5 m/s and accelerations of 22,000 ± 6,000 m/s$$^2$$ (2,200 *g*) [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). The pollen granules reach a height of 2.5 cm (more than 10 times the height of the flower) and can then be dispersed by the wind.
+
+In bunchberry flowers, the stamen functions similarly to a miniature medieval trebuchet, a special catapult that maximizes throwing distance by having the payload (in this case, the pollen in the anther) attached to the throwing arm (the filament) by a hinge or a flexible strap [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). In fact, Whitaker et al. have shown that in bunchberry flowers, anther rotation about the filament tips delays the release of pollen until the vertical speed is maximized [[3]](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB).
+
+### Summary of Kinematic Performance
+
+| Kinematic Metric  | Bunchberry Flower Performance  [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK) |
+| ----------------- | ------------------------------ |
+| Duration          | < 0.5 ms                       |
+| Max. Velocity     | 3.1 ± 0.5 m/s                  |
+| Max. Acceleration | 24,000 ± 6,000 m/s$$^2$$       |
+
+### Sources
+
+[1] [Edwards et al Nature 2005](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK)
+<br>
+[2] [https://www.thespruce.com/bunchberry-shade-ground-cover-2132948](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948)
+<br>
+[3] [Whitaker et al Funct Ecol 2007](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
 
 ## Trap-jaw ant
 #### Mandible strike
