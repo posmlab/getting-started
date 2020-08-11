@@ -12,11 +12,11 @@ To contribute to this page, choose a device from the list below and add informat
 
 [Flea-inspired robot](#flea-inspired-robot)
 
-[Steerable MSU jumper](#steerable-MSU-jumper)
+[Steerable MSU jumper](#steerable-msu-jumper)
 
 [Water strider-inspired robot](#water-strider-inspired-robot)
 
-[EPFL 7 g robot](#EPFL-7-g-robot)
+[EPFL 7 g robot](#epfl-7-g-robot)
 
 [JPL hopper](#jpl-hopper)
 
