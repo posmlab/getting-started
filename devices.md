@@ -74,9 +74,40 @@ This device has great potential applications, specifically in factory lines. The
 
 [Debray Bioinspir Biomim 2011](https://drive.google.com/open?id=1Xv6ejFxYzqn1a_La159wmyE9qjkg3uG_)
 
-### Flea-inspired robot 
-[Koh et al IEEE 2013](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
+### Flea-inspired robot
 
+Fleas have special mechanisms within their legs that act like catapults, storing and releasing elastic energy to propel the fleas into the air. Using its legs, a 1 mm flea can jump 150 mm into the air, which is 150 times its body length! In a flea's leg, energy is stored in an elastic material called resilin and in the extensor muscle [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). First, the extensor muscle pulls on part of the leg and builds up elastic potential energy (Figure 1a). At this point, the leg is prevented from rotating in the direction of the torque. Next, a trigger muscle pulls on the extensor muscle, which reverses the direction of torque in the leg (Figure 1b). Since the leg is free to rotate in the other direction, there is a sudden release of the elastic potential energy (Figure 1c).
+
+![Flea-inspired torque reversal](images/flea-inspired-torque-reversal.png)
+<br>
+__Figure 1__: *A schematic diagram of torque reversal mechanics, with the specific details of the flea leg abstracted away.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
+
+Using the flea's torque reversal principle, Koh et al. designed a 30 mm robot which can jump 120 cm into the air [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). This robot has a similar design to the more recent [water strider–inspired robot](#water-strider–inspired-robot), which was also designed by Koh et al. The design, shown in Figure 2, is simpler than previous flea-inspired robots, which were designed to more closely mimic the overall structure and appearance of a flea. In contrast, the model designed by Koh et al. is simpler while still capturing the essential torque reversal mechanics. The new model (Figure 2) can be constructed from a single sheet of material and requires fewer adhesive bonds, which reduces the risk of misalignment [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS).
+
+![Flea-inspired robots](images/flea-inspired-robot.png)
+<br>
+__Figure 2__: *Image and diagram of the simplified flea-inspired jumping robot.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
+
+Unlike most miniature robots which use an elastic catapult mechanism, the flea-inspired model from Koh et al. uses an "active" method of storing elastic potential energy [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). In passive storage methods, elastic energy is stored by deforming a material, whereas active storage methods work by increasing the stiffness of a material [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). The active method requires a variable-stiffness  element, made of a material in which the stiffness can be increased by another source of energy, such as thermal or electrical [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). Koh et al. used a shape-memory-alloy coil spring as the variable-stiffness element [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). (This video has more information about how a shape memory alloy works and some cool applications: [https://youtu.be/wI-qAxKJoSU](https://youtu.be/wI-qAxKJoSU).) Using an active storage method was essential in building up elastic potential energy in such a small robot.
+
+Figure 3 shows the method by which the flea-inspired robot uses torque reversal mechanics to jump. In the pre-jump state (Figure 3a), the robot builds up elastic potential energy by increasing the heat in the spring via electic current. The trigger then pulls on the circular pusher (Figure 3b), which moves the extensor through the reversal joint (Figure 3c), triggering the jump (Figure 3d).
+
+![Flea-inspired jump](images/flea-inspired-jump.png)
+<br>
+__Figure 3__: *Schematic of the jumping procedure of the flea-inspired robot.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
+
+#### Summary of Kinematic Performance
+| Kinematic Metric | Flea-Inspired Robot Performance  [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS) |
+| ------------------------ | ------- |
+| Jump Velocity            | 7 m/s   |
+| Jump Height              | 120 cm  |
+| Initial Kinetic Energy   | 0.055 J |
+| Conversion Efficiency    | 82%     |
+
+The data above is for a 30 mm long flea-inspired robot prototype that weighs 2.25 g. The conversion efficiency compares the initial kinetic energy at takeoff to the elastic potential energy right before takeoff.
+
+#### Sources
+[1] [Koh et al IEEE 2013](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
 
 ### Steerable MSU jumper 
 [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
