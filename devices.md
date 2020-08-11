@@ -8,13 +8,13 @@ To contribute to this page, choose a device from the list below and add informat
 
 [Energetic silicon jumper](#energetic-silicon-jumper)
 
-[Chameleon tongue–inspired system](#chameleon-tongue–inspired-system)
+[Chameleon tongue-inspired system](#chameleon-tongue-inspired-system)
 
 [Flea-inspired robot](#flea-inspired-robot)
 
 [Steerable MSU jumper](#steerable-MSU-jumper)
 
-[Water strider–inspired robot](#water-strider–inspired-robot)
+[Water strider-inspired robot](#water-strider-inspired-robot)
 
 [EPFL 7 g robot](#EPFL-7-g-robot)
 
@@ -28,7 +28,7 @@ To contribute to this page, choose a device from the list below and add informat
 
 [Galago-inspired Salto robot](#galago-inspired-salto-robot)
 
-[Sand flea–inspired robot](#sand-flea–inspired-robot)
+[Sand flea-inspired robot](#sand-flea-inspired-robot)
 
 [Sandia Mars hopper](#sandia-mars-hopper)
 
@@ -45,7 +45,7 @@ To contribute to this page, choose a device from the list below and add informat
 [Churaman et al J Microelectromech Syst 2012](https://drive.google.com/open?id=1Oy4LIYb04gKtzj8Dq-sJMZs0Hqa1iC1O)
 
 
-### Chameleon tongue–inspired system 
+### Chameleon tongue-inspired system 
 
 This system takes inspiration from the capability of the chameleon tongue to project to more than 6 times its rest length, the flexibility of the moving element, and the lack of continuous force during the forward motion. THe system consists of 4 separate manipulators, each mimicking different aspects of the cameleon tongue system, moving towards completely mimicking the system (as close as it is possible to get without biological methods). 
 
@@ -82,7 +82,7 @@ Fleas have special mechanisms within their legs that act like catapults, storing
 <br>
 __Figure 1__: *A schematic diagram of torque reversal mechanics, with the specific details of the flea leg abstracted away.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
 
-Using the flea's torque reversal principle, Koh et al. designed a 30 mm robot which can jump 120 cm into the air [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). This robot has a similar design to the more recent [water strider–inspired robot](#water-strider–inspired-robot), which was also designed by Koh et al. The design, shown in Figure 2, is simpler than previous flea-inspired robots, which were designed to more closely mimic the overall structure and appearance of a flea. In contrast, the model designed by Koh et al. is simpler while still capturing the essential torque reversal mechanics. The new model (Figure 2) can be constructed from a single sheet of material and requires fewer adhesive bonds, which reduces the risk of misalignment [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS).
+Using the flea's torque reversal principle, Koh et al. designed a 30 mm robot which can jump 120 cm into the air [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). This robot has a similar design to the more recent [water strider-inspired robot](#water-strider-inspired-robot), which was also designed by Koh et al. The design, shown in Figure 2, is simpler than previous flea-inspired robots, which were designed to more closely mimic the overall structure and appearance of a flea. In contrast, the model designed by Koh et al. is simpler while still capturing the essential torque reversal mechanics. The new model (Figure 2) can be constructed from a single sheet of material and requires fewer adhesive bonds, which reduces the risk of misalignment [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS).
 
 ![Flea-inspired robots](images/flea-inspired-robot.png)
 <br>
@@ -97,7 +97,7 @@ Figure 3 shows the method by which the flea-inspired robot uses torque reversal 
 __Figure 3__: *Schematic of the jumping procedure of the flea-inspired robot.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
 
 #### Summary of Kinematic Performance
-| Kinematic Metric | Flea-Inspired Robot Performance  [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS) |
+| Kinematic Metric | Flea-Inspired Robot Performance [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS) |
 | ------------------------ | ------- |
 | Jump Velocity            | 7 m/s   |
 | Jump Height              | 120 cm  |
@@ -112,7 +112,7 @@ The data above is for a 30 mm long flea-inspired robot prototype that weighs 2.2
 ### Steerable MSU jumper 
 [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
 
-### Water strider–inspired robot 
+### Water strider-inspired robot 
 While mostly known for their ability to skate across the surface of ponds and lakes, water striders are also extremely capable jumpers both on water and land. While several robots have been designed to mimic their skating ability, [Koh et al](https://drive.google.com/open?id=199GLhP84E0Q2wsT6UpgleDHqnFasI4Tx) designed a robot using a similar mechanism to that of a flea's leg to try and achieve a design that would allow for similar jumping capabilities on the surface of the water. Using a coil and two L-shaped cantilevers, they came up with a design that would allow the torque from the coil to reverse if an outside force could bring the device past the singularity of the center joint, and cause the jumping motion:
 
 ![Image of the design by Koh et al, Fig. 3](images/WSRobot.png)
@@ -191,7 +191,7 @@ Further reading about similar robots can be found here: [Zhang et al Composite S
 ### Galago-inspired Salto robot
 [Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
 
-### Sand flea–inspired robot
+### Sand flea-inspired robot
 [Boston Dynamics legacy product](https://www.youtube.com/watch?v=6b4ZZQkcNEo)
 
 
