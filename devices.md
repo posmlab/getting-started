@@ -97,14 +97,14 @@ Figure 3 shows the method by which the flea-inspired robot uses torque reversal 
 __Figure 3__: *Schematic of the jumping procedure of the flea-inspired robot.* [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
 
 #### Summary of Kinematic Performance
-| Kinematic Metric | Flea-Inspired Robot Performance [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS) |
+| Kinematic Metric | Flea-Inspired Robot Performance |
 | ------------------------ | ------- |
 | Jump Velocity            | 7 m/s   |
 | Jump Height              | 120 cm  |
 | Initial Kinetic Energy   | 0.055 J |
 | Conversion Efficiency    | 82%     |
 
-The data above is for a 30 mm long flea-inspired robot prototype that weighs 2.25 g. The conversion efficiency compares the initial kinetic energy at takeoff to the elastic potential energy right before takeoff.
+The data above is for a 30 mm long flea-inspired robot prototype that weighs 2.25 g [[1]](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS). The conversion efficiency compares the initial kinetic energy at takeoff to the elastic potential energy right before takeoff.
 
 #### Sources
 [1] [Koh et al IEEE 2013](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
