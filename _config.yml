@@ -1,7 +1,10 @@
-theme: jekyll-theme-slate
 markdown: kramdown
 kramdown:
   parse_block_html: true
-title: Getting Started in PoSMLab
-description: Information about posmlab reserach and logistics for getting involved 
 url-pretty: "posmlab.org"
+title: PoSM Lab Github
+logo: /posmlab_logo.png
+description: Physics of Soft Matter Lab at Harvey Mudd College
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
