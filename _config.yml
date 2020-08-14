@@ -1,3 +1,6 @@
+markdown: kramdown	
+kramdown:	
+  parse_block_html: true	
 title: PoSM Lab Github
 logo: /posmlab_logo.png
 description: Physics of Soft Matter Lab at Harvey Mudd College
