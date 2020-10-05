@@ -277,7 +277,25 @@ For a single spear-type female of the species *Coronis scolopendra* the followin
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
 
 ## Frog
-[James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
+The Australian Rocket Frog achieves the second longest relative jumping distance for any anuran, 55.2 body lengths for one individual. They also achieve the highest published anuran values for isolated net mean power output, hindlimb length to snout-vent length ratio, and relative hindlimb muscle mass. For the individual that jumped the farthest, it was found that the mean power output expended during takeoff was about 3 times larger than the estimate of available muscle mass output. 
+
+##### Figure 2 from Anderson. Changes in (A) Acceleration, (B) Velocity, (C) instantaneous body-mass-specific power output during a typical jump at 25°C for an Australian rocket frog.
+![Jumping Performance from James & Wilson Figure 1](images/australian-rocket-frog.png)
+
+#### Kinematics
+The maximum jumping performance was determined for eight adult male Australian striped rocket frogs was collected by [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w): 
+
+| Kinematic Metric | Australian striped rocket frog Performance |
+| -------- | ------- |
+| Contact time (ms)| 54-81 |
+| Max. force (N)| 0.238-0.824 |
+| Max. jump distance (m)| 0.71-2.17 |
+| Max. velocity (m/s)| 2.59-4.52 |
+| Max. acceleration (m/$$s^2$$)| 86-140 |
+| Max. instantaneous power output (W/kg body mass)| 169-455 |
+| Average power output during takeoff (W/kg jumping muscle mass)| 318-747 |
+
+For further informaion, see [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
 
 ## Chameleon
 #### Ballistic Tongue Projection
