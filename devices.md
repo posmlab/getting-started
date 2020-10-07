@@ -111,6 +111,26 @@ The data above is for a 30 mm long flea-inspired robot prototype that weighs 2.2
 [1] [Koh et al IEEE 2013](https://drive.google.com/open?id=1lA-ZneFo5w-ecYH2pIVgz0naCB40lueS)
 
 ### Steerable MSU jumper 
+The MSU Jumper is built to mimic the jumping motion of animals such as frogs, grasshoppers, and fleas. It performs continuous steerable jumping and contains a self-righting mechanism using a single actuator to perform all these functions. The robot is also lightweight, which helps prevent damage. This robot was designed by Michigan State University and relies on torsion springs. The robot jumps in a manner similar to many animals: by extending a pair of legs. 
+![Figure 1. MSU jumper: (a) prototype and (b) solid model. From [Zhao et al IEE Trans Robot 2013]](images/MSU_jumper_1.png)
+<br>
+*Figure 1. MSU jumper: (a) prototype and (b) solid model.* [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
+
+![Model of each mechanism. (a) Jumping mechanism. (b) Energy mechanism. (c) Self-righting mechanism. (d) Steering mechanism. From [Zhao et al IEE Trans Robot 2013]](images/MSU_jumper_2.png)
+<br>
+*Model of each mechanism. (a) Jumping mechanism. (b) Energy mechanism. (c) Self-righting mechanism. (d) Steering mechanism.* [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
+#### Summary of Kinematic Performance
+
+| Kinematic Metric | MSU jumper Performance [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)|
+| -------- | ------- |
+| Mass| 23.5 g |
+| Size | 6.5 cm |
+| Jump Distance | 89.8 cm |
+| Jump Height | 87.2 cm|
+| Charge time | 10 s |
+| Jumping efficiency | 63.0% |
+
+
 [Zhao et al IEE Trans Robot 2013](https://drive.google.com/open?id=1SuD1m8c1r9tTVZf9lBW2tahWxfTb56k3)
 
 ### Water strider-inspired robot 
