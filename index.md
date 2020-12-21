@@ -143,7 +143,7 @@ Below is a step-by-step guide to getting acquainted with the research we do in p
 
 4) Skim [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). What are the three main functions of biological springs? Which one are we focused on in our research?
 
-5) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a careful of Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
+5) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a framework for Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
 
 6) Watch the video [when does a spring beat a motor?](https://www.youtube.com/watch?v=8HZhlGcqfgE). 
 
@@ -195,23 +195,30 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 </details>
 
-10) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
+10) Read [Cook et al bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.12.02.408740v1){:target="_blank"}. This is the simplified LaMSA model that we are currently using in posmmlab. Re-derived the equations of motion in the supplementary information at the end of that paper.
 
-11) Watch the video [spring properties (part 1)](http://youtube.com).
+11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
-12) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
+-------------
+#### Optional Materials Science Steps
 
-13) Watch the video [spring properties (part 2)](http://youtube.com).
+12) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
 
-14) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH). What are some possible next directions that follow up on this work?
+13) Watch the video [spring properties (part 1)](http://youtube.com).
 
-15) Read [Monroy et al JEB 2017](https://drive.google.com/open?id=1gCLBbpSA-3OiYjIC4sezoRqhg2BSWTTE). How are the muscle recoil experiments similar/different compared to elastomer recoil?
+14) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
+
+15) Watch the video [spring properties (part 2)](http://youtube.com).
+
+16) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH). What are some possible next directions that follow up on this work?
+
+17) Read [Monroy et al JEB 2017](https://drive.google.com/open?id=1gCLBbpSA-3OiYjIC4sezoRqhg2BSWTTE). How are the muscle recoil experiments similar/different compared to elastomer recoil?
 
 </details>
 
 ------------------------------------------------------------------
 
-## Summer 2020 Projects
+## Current Projects
 
 <details>
    <summary markdown='span'>Currently available projects (expand/collapse)</summary> 
