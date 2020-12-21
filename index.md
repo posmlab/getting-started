@@ -195,12 +195,12 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 </details>
 
-10) Read [Cook et al bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.12.02.408740v1){:target="_blank"}. This is the simplified LaMSA model that we are currently using in posmmlab. Re-derived the equations of motion in the supplementary information at the end of that paper.
+10) Read [Cook et al bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.12.02.408740v1){:target="_blank"}. This paper presents the simplified LaMSA model that we are currently using in posmmlab. Re-derive the equations of motion in the supplementary information at the end of that paper.
 
 11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
 -------------
-#### Optional Materials Science Steps
+#### Optional Material Science Steps
 
 12) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
 
