@@ -322,6 +322,15 @@ The kinematic performance of the chameleon tongue mechanism varies between speci
 For further reading, [Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) describes the differences in tongue projection between the species of chameleon. 
 
 ## Locust
-Locust jump
-[Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN)
+
+Locusts jumps, while not having the most impressive performance stats for acceleration or power output, are a well-studied spring-latch system that have been used as a model for many miniature jumping robots.
+
+| Kinematic Metric | Locust performance |
+| -------- | ------- |
+| Duration | 20 - 30 ms |
+| Max. Velocity | 3.2 m/s |
+| Max. Acceleration | 180 m/s$$^2$$ | 
+| Max. Power Output | 450 W/kg |
+
+For further reading, [Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN) and [Chen et al Acta Mechanica Sinica 2014](https://drive.google.com/file/d/1P-BXhJXnHBeQOjmxzWScHfh2rmb79NbS/view?usp=sharing) for further analysis with high-speed video.
 
