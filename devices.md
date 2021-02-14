@@ -196,6 +196,7 @@ For further reading: [Namiki et al IEEE 2003](https://drive.google.com/open?id=1
 ### Locust-inspired robot
 
 Locusts have inspired jumping robots that that reach heights on the order of meters.
+
 [Zaitsev et al Bioinspir Biomim 2015](https://drive.google.com/open?id=1fTxzcXYomh5jkyz-gF_PDHIlgxKalwWC)
 
 They have also inspired what researchers refer to as "jumpgliders," robots that first jump and then unfurl folding wings to glide. More similar to how live locusts actually behave, these robots can travel significant horizontal distance in addition to the already impressive vertical jumping.
@@ -203,7 +204,7 @@ They have also inspired what researchers refer to as "jumpgliders," robots that 
 ##### Figure 9 from Kovak et al. The flight trajectory of a locust-inspired jumpglider.
 ![Locust Jumpglider](images/locust_jumpglider.png)
 
-[Kovak et al EPFL 2011] (https://drive.google.com/file/d/1iqL7pH_7i-XokDME-okSIi-8DW4TxaGc/view?usp=sharing)
+[Kovak et al EPFL 2011](https://drive.google.com/file/d/1iqL7pH_7i-XokDME-okSIi-8DW4TxaGc/view?usp=sharing)
 
 ### Flytrap-inspired robot
 [Kim et al Bioinspir Biomim 2014](https://drive.google.com/open?id=13-rasGR4xlGQ_rDX6gAwDK3ehuEcGWgo)
