@@ -14,8 +14,7 @@ Welcome to PoSMLab! Here you will find an introduction to our group and useful o
 
 Most of our analysis and simulation code is written in MATLAB. If you don't have MATLAB installed, please follow the [HMC Instructions for Installing MATLAB on your computer](https://docs.google.com/document/d/1-dmjftyCPrAWVC4g5OvJ4mv9C1jUWgiwmJVQw4iSR5w/pub)
 
-If you are relatively new to MATLAB, a good place to start is the two-hour [MATLAB onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) course. If you're looking for some more advanced topics, you could also check out the [MATLAB ordinary differential equation course](https://matlabacademy.mathworks.com/R2021a/portal.html?course=odes) that is helpful for some of our simulation work, or go through this set of
-[MATLAB image processing course notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3615/ls.pdf) that is useful for the experimental side of our research.
+If you are relatively new to MATLAB, a good place to start is the two-hour [MATLAB onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) course. If you're looking for some more advanced topics, you could also check out the [MATLAB ordinary differential equation course](https://matlabacademy.mathworks.com/R2021a/portal.html?course=odes) that is helpful for some of our simulation work.
 
 #### Github
 
