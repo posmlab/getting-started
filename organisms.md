@@ -334,3 +334,22 @@ Locusts jumps, while not having the most impressive performance stats for accele
 
 For further reading, [Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN) and [Chen et al Acta Mechanica Sinica 2014](https://drive.google.com/file/d/1P-BXhJXnHBeQOjmxzWScHfh2rmb79NbS/view?usp=sharing) for further analysis with high-speed video.
 
+
+## Caddis Flies
+
+Two distinct jumping strategies were found in caddis flies. The first strategy was performed by depressing and extending the middle and hind pairs of legs at the same time, while the second strategy involved wing movements in addition to the same leg movements before take-off. 
+
+##### Figure 3 from Anderson. Jump by L. marmoratus in which only the legs participate. Jumps in which the wing movements are included would result in a higher angle between the body and the surface at take-off.
+![Caddis Flies](images/caddis-flies.JPG)
+
+#### Kinematics
+While two strategies for jumping are observed in caddis flies,they were measured to have a similar kinematic movement.
+
+| Kinematic Metric | Locust performance |
+| -------- | ------- |
+| Duration | 17 ms |
+| Max. Velocity | 1.1 m/s |
+| Max. Acceleration | 64 m/s$$^2$$ | 
+| Max. Power Output | 34 W/kg |
+
+For further reading, [Burrows and Dorosenko JEB 2015](https://drive.google.com/file/d/1hombuu4KG-lySa_Ljt2O0J0RZsNWebpl/view?usp=sharing) describes the jumping mechanisms of caddis flies.
