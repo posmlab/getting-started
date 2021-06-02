@@ -227,6 +227,14 @@ Further reading about similar robots can be found here: [Zhang et al Composite S
 
 
 ### Sandia Mars hopper
+
+The Sandia Mars hopper was inspired from grasshoppers in nature: one of Sandia's researcher, Robinett noticed how when facing obstacles, grasshoppers seem to spring in random directions, fell to their sides when landing before springing again. 
+
+This grasshopper-inspired robot weights half a kilogram, and includes a combustion chamber that propels the robot's leap. After landing, a battery-powered motor rotates the robot back to center before hopping again.
+
+According to Sandia and the collaborators from NASA's Jet Propulsion Laboratory and Caltech, this robot is energy efficient and suitable for planetary exploration.
+
+
 [Weiss Sci News 2001](https://drive.google.com/open?id=1Kbf9YQMrja2S2vOF0P3kuah-KQe3au7Y)
 
 [Sandia Lab News](https://www.sandia.gov/LabNews/LN05-19-00/software_story.html)
