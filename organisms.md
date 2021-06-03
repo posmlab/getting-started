@@ -365,7 +365,7 @@ Burrows (see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtI
 
 #### Kinematics of the Jump
 
-![Snow Flea Jump](images/snow-flea-jumpjump.jpg)
+![Snow Flea Jump](images/snow-flea-jumpjump.jpeg)
 ##### Fig. 3 from Burrows, showing the jump of a male snow flea, highlights the movements of the individual legs in the snow flea’s jump. The jump starts from a standing, curved position. The middle and hind legs propel the jump, while the first seem not to be involved.
 
 #### Energy Storage
