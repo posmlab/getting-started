@@ -220,7 +220,17 @@ The "open" state has a larger radius of curvature (less curved) to make it relat
 Further reading about similar robots can be found here: [Zhang et al Composite Structures 2016](https://drive.google.com/open?id=1sHbkTDbW7V9JykRgHzV5Q0DUBi8dCt3L)
 
 ### Galago-inspired Salto robot
-[Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
+
+Haldene et al  took inspiration from the galago, an arboreal mammal, to create the Salto robot that vertically jumps both rapidly and high. The galago uses  power-modulation in its muscle-tendon system, to have greater vertical jumping ability than it would with muscle alone.
+
+![Galago-inspired Salto Robot](images/galago-jumper.JPG)
+#####Fig. 3 from Haldene et al shows the robot from basic schematic to physical reality. The robot uses a power-modulating system with a series-elastic actuator and an MA element.
+
+Salto is a monopedal jumper that has linkage that enables power modulation, a series elastic actuator, and an inertial tail to control altitude, and Hladene et al created it to examine the effects of power modulation on locomotory performance. 
+
+Salto’s average vertical jumping ability was 1.75 m/s, which is the highest vertical jumping ability of an extant robot.
+
+Find more information in [Haldane et al Sci Robot 2016](https://drive.google.com/open?id=1wXFkodmrF1W6-VN_5c5PPKGcimqS5GeJ)
 
 ### Sand flea-inspired robot
 [Boston Dynamics legacy product](https://www.youtube.com/watch?v=6b4ZZQkcNEo)
