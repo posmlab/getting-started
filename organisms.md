@@ -34,6 +34,8 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Locust - Jump](#locust)
 
+[Snow Flea - Catapult Jump Mechanism](#snow-flea)
+
 -----------------
 
 ## Hydra
@@ -353,3 +355,21 @@ While two strategies for jumping are observed in caddis flies,they were measured
 | Max. Power Output | 343 W/kg |
 
 For further reading, [Burrows and Dorosenko JEB 2015](https://drive.google.com/file/d/1hombuu4KG-lySa_Ljt2O0J0RZsNWebpl/view?usp=sharing) describes the jumping mechanisms of caddis flies.
+
+
+##Snow Flea
+
+Snow fleas are flightless and live their adult lives during the winter in the northern hemisphere, moving by jumping and walking across snow. 
+
+Burrows (see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)) examined the anatomy of the snow flea, as well as the kinematics of its jump, to gain a greater relationship between this species and fleas and proposed that snow fleas use a catapult mechanism.
+
+####Kinematics of the Jump
+
+![Snow Flea Jump](images/snow-flea-jump.JPG)
+#####Fig. 3 from Burrows, showing the jump of a male snow flea, highlights the movements of the individual legs in the snow flea’s jump. The jump starts from a standing, curved position. The middle and hind legs propel the jump, while the first seem not to be involved.
+
+####Energy Storage
+
+The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is likely involved in energy storage with fleas.
+
+For more information see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)
