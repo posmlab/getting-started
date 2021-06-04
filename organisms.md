@@ -366,10 +366,12 @@ Burrows (see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtI
 #### Kinematics of the Jump
 
 ![Snow Flea Jump](images/snow-flea-jumpjump.jpeg)
-##### Fig. 3 from Burrows, showing the jump of a male snow flea, highlights the movements of the individual legs in the snow flea’s jump. The jump starts from a standing, curved position. The middle and hind legs propel the jump, while the first seem not to be involved.
+##### Fig. 3 from Burrows, showing the jump of a male snow flea, highlights the movements of the individual legs in the snow flea’s jump. 
+
+The jump starts from a standing, curved position. The middle and hind legs propel the jump, while the first seem not to be involved.The jump itself involves rotation of the back two sets of legs, with the first legs remaining stable
 
 #### Energy Storage
 
-The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is likely involved in energy storage with fleas.
+The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is involved in energy storage with fleas.
 
 For more information see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)
