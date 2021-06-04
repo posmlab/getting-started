@@ -351,7 +351,7 @@ While two strategies for jumping are observed in caddis flies,they were measured
 | -------- | ------- |
 | Duration | 17 ms |
 | Max. Velocity | 1.1 m/s |
-| Max. Acceleration | 64 m/s$$^2$$ | 
+| Max. Acceleration | 64 m/s $$^2$$ | 
 | Max. Power Output | 343 W/kg |
 
 For further reading, [Burrows and Dorosenko JEB 2015](https://drive.google.com/file/d/1hombuu4KG-lySa_Ljt2O0J0RZsNWebpl/view?usp=sharing) describes the jumping mechanisms of caddis flies.
