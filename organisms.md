@@ -375,3 +375,37 @@ The jump starts from a standing, curved position. The middle and hind legs prope
 The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is involved in energy storage with fleas.
 
 For more information see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)
+
+
+## Cone Snail
+#### Ballistic Tooth Propulsion
+
+Cone snails have extremely specialized teeth, which are a combination of torpedo and hypodermic needle. There are roughly 800 species of Cone Snail (Conidae), all carnivorous, which feed on a variety of fish, smaller cone snails, or other prey [1](https://en.wikipedia.org/wiki/Conidae). They hunt by shooting out a hollow, detachable tooth and injecting their prey with a neurotoxin, as shown in [this PBS video](https://youtu.be/jYMjLgPFSso). (Extensive research has also been done on the biochemistry of their neurotoxin “cocktails” [2](https://www.youtube.com/watch?v=tkguTfVqvsM).) They then usually swallow the prey whole. 
+![cone snail anatomy](images/cone_snail_anatomy.png) ![cone snail hunting](images/cone_snail_hunting.png)
+
+This [Schulz et. al Current Biology 2019](https://drive.google.com/file/d/1_Y5m3DrUmFTVeMZJn7HjItOoHZgj-bsq/view?usp=sharing) paper describes the firing mechanism - the tooth is shaped like a harpoon, with a bulb at the proximal end. There is a muscular sphincter (round muscle) proximal to the tooth which likely pressurizes the lumen, and a constriction which acts as a latch for the tooth. This [Salisbury et. al Journal of Experimental Biology 2010](https://drive.google.com/file/d/12Q_tpb6dWTJKz1_p4EZleunVDKM-j-MO/view?usp=sharing) paper found that the muscular sphincter may also control venom flow after the tooth punctures into the prey. 
+![cone snail lumen drawing](images/cone_snail_lumen)
+
+###### Fig. 4 from Salisbury et. al. Mechanism of prey capture in Conus pennaceus. Images of Conus pennaceus extending its proboscis towards the prey (a snail) in a recording channel. (A) Left column: sequential still frames taken from high-speed video (325 frames s–1) illustrating venom movement through the central lumen of the proboscis. Right column: diagrams illustrating venom movement through the proboscis lumen at various densities (light grayless dense, dark graymore dense) passing through the muscular sphincter. 0 ms indicates the frame immediately following radular tooth propulsion. Arrowheads indicate the location of the muscular sphincter. Asterisks mark the position of the base of the radular tooth. Arrows indicate the initial increase in lumenal kinking.
+![cone snail Salisbury Fig 4](images/cone_snail_salisbury4)
+
+###### Fig. 1 from Schulz et. al. (C) Average tooth displacements over time during the prey strike (D) Average velocities during the prey strike (E) Average accelerations during the prey strike
+![cone snail Schulz Fig 1](images/cone_snail_schulz1)
+
+
+##### Summary of Kinematic Peformance from Schulz et al
+
+| Kinematic Metric | Cone Snail performance |
+| -------- | ------- |
+| Duration | 100 μs |
+| Max. Velocity | 25 m/s |
+| Max. Acceleration | 400,000 m/s2 | 
+
+Sources Cited: 
+[1] [Conidae Wikipedia](https://en.wikipedia.org/wiki/Conidae)
+[2] [PBS Cone Snail Video](https://youtu.be/jYMjLgPFSso)
+[3] [Toto Olivera Cone Snail Neurotoxin Video](https://www.youtube.com/watch?v=tkguTfVqvsM)
+[4] [Schulz et. al Current Biology 2019](https://drive.google.com/file/d/1_Y5m3DrUmFTVeMZJn7HjItOoHZgj-bsq/view?usp=sharing)
+[5] [Salisbury et. al Journal of Experimental Biology 2010](https://drive.google.com/file/d/12Q_tpb6dWTJKz1_p4EZleunVDKM-j-MO/view?usp=sharing)
+
+
