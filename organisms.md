@@ -42,11 +42,13 @@ To contribute to this page, choose an organism from the list below and add infor
 
 
 ## Hydra
-<details>
-   <summary> 
-### Nematocyst Discharge
-   </summary>
 
+<details>
+   <summary>
+   Nematocyst discharge
+   
+   </summary>
+    
 Stinging cells (nematocytes) in jellyfish, sea anemone, and hydra (all from the phylum Cnidaria) discharge their contents at extremely fast rates.  For example, [this video of many nematocysts](https://www.youtube.com/watch?v=6zJiBc_N1Zk) discharging simultaneously or [this video of a single nematocyst](https://www.smithsonianmag.com/videos/category/science/nematocyst-discharge/) discharge show what the process looks like.
 
 High speed imaging of Hydra from 
@@ -78,7 +80,10 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
  </details>
 
 ## Fungi
-### Ballistospore ejection
+<details>
+<summary> Ballistospore ejection </summary>
+
+
 There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
 
 The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension. Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
@@ -112,8 +117,12 @@ It out does the [mantis shrimp](#mantis-shrimp) in terms of acceleration but is 
 
 
 Source: [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
+</details>
 
 ## Bunchberry dogwood
+<details>
+  <summary> Pollen ejection </summary>
+
 Bunchberry dogwood (*Cornus canadensis*) is a plant that grows in dense carpets in the spruce-fir forests of the North American taiga [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). Bunchberry grows clusters of up to ten berries, from which the plant gets its name [[2]](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948). Bunchberry flowers grow in groups (inflorescences) surrounded by four white bracts, as seen in Figure 1a. In Figure 1b, we can see that an individual flower has four petals (which droop down in the second image) and four stamens, each composed of a long filament and an anther on top which stores the pollen.
 
 ![Bunchberry flowers](images/bunchberry-flowers.png)
@@ -149,9 +158,12 @@ In bunchberry flowers, the stamen functions similarly to a miniature medieval tr
 [2] [https://www.thespruce.com/bunchberry-shade-ground-cover-2132948](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948)
 <br>
 [3] [Whitaker et al Funct Ecol 2007](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
+</details>
 
 ## Trap-jaw ant
-#### Mandible strike
+
+<details>
+  <summary> Mandible strike </summary>
 
 The mandible strike of trap-jaw ants serve as methods to avoid or eject predators and capture prey. During a mandible strike, trap-jaw ants close their mandibles at incredible speeds over short durations in specific orientations and strike surfaces to fit their desired function (avoiding predators,... ). Their common propulsion behaviors are named "bouncer defense" and "escape jump." Bouncer defense is when trap-jaw ants strike at predators while propelling themselves away. Escape jumps, on the other hand, is when trap-jaw ants strike at a substrate and vertically propel themselves to escape predation.
 
@@ -172,10 +184,11 @@ Image of Trap-Jaw Ant from
 
 
  For further reading, [Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF) has more details about the mechanisms of a trap-jaw ant's mandible strike. 
+</details>
 
 ## Plant louse
-
-#### Jump
+<details>
+  <summary> Jump </summary>
 
 Louse is singular for lice! This summary is about jumping plant lice (psyllidae), which [are a family of small plant-feeding insects that tend to be very host-specific.](https://en.wikipedia.org/wiki/Psyllidae)
 
@@ -198,11 +211,12 @@ Louse is singular for lice! This summary is about jumping plant lice (psyllidae)
 The mechanism for the rapid release of energy is known in detail. Generally, these lice jump similarly to other insects, with the exception that they have a distinct take-off position in which the head points downwards and the front supports the bug, similar to a person doing a hand-stand. 
 
 For further rearding, [Burrows JEB 2012](https://drive.google.com/open?id=13JHzVvbg-OZJOg0LRv6u5-BCOK8px6Ir) has more details about the physics of plant lice jumps and the relevant anatomy. 
-
+</details>
 
 
 ## Aquatic bladderworts
-#### Suction trap
+<details>
+  <summary> Suction trap </summary>
 
 Aquatic bladderworts are carnivorous plants plants that use suction traps to catch small prey. Suction is created by a very fast opening and closing of a trapdoor, which releases stored elastic energy. This trapping mechanism is one of the fastest known plant movements.
 
@@ -227,9 +241,12 @@ The suction mechanism of these carnivorous plants is fascinating, and also usefu
 | Max. Acceleration | 600g | 
 
 [Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
+</details>
 
 ## Froghopper
-
+<details>
+  <summary> Jump </summary>
+  
 Froghoppers are a diverse and abundant family of insects known for their incredible jumping capabilities; jumping as high as 115 times its body length. The jumping mechanism for froghoppers are similar to those of locusts and fleas that rely on elongated hind legs to provide propulsion upwards. However, whereas the hind legs of locusts are on the scale of its body length; the hind legs of froghoppers scale to only half of its body length and whose mass contributes only about 2% to its total mass. Therefore, froghoppers must have a unique mechanism that enables them to achieve high jumping heights. This is achieved through a combination of precise body orientation and careful movement of the muscles in the hind legs that provide a large acceleration up to 550g. The froghopper positions himself by raising its hind legs and rapidly depressing its trochantera which sends the insect airborne. 
 
 ![Figure 1](images/froghopper.jpg)
@@ -241,10 +258,11 @@ Froghoppers are a diverse and abundant family of insects known for their incredi
 | Max. Acceleration | 5500 m/s$$^2$$ | 
 
 [Burrows JEB 2006](https://drive.google.com/open?id=1j83P4jAcKa1akytmNG4rzPhvCoZ2iOOA)
-
+</details>
 
 ## Venus fly trap
-#### Snap buckling
+<details> 
+  <summary> Snap buckling </summary>
 
 [Forterre et al Nature 2005](https://drive.google.com/open?id=18SA4m-iTxUsy19nOkHbWvtjY7VU2YxwH)
 
@@ -266,9 +284,12 @@ Additionally, tests involving ink droplets in the water showed that there was no
 ![Underwater Test with Ink](images/venus-fly-trap-ink.png)
 
 For further reading, [Poppinga et al Beilstein J Nanotechnol 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4902084/) has more information about the snap buckling closing mechanism of venus fly traps.
-
+</details>
 
 ## Mantis shrimp
+<details>
+<summary> Appendage strike </summary>
+
 Mantis Shrimp, while technically neither a mantis nor a shrimp, are actually another type of crustaceans more technically known as stomatopods. Mantis Shrimp, though only a few inches in length, use Latch Mediated Spring Actuation to fire off deadly punches to protect their territory and hunt prey. Their punches are so strong, they have even been know to break the masks of divers who get too close to their dens. However, these strikes are more commonly used to [break through the shells and exoskeletons of their prey](https://youtu.be/E0Li1k5hGBE?t=129). 
 
 #### Types of Mantis Shrimp
@@ -285,8 +306,12 @@ For a single spear-type female of the species *Coronis scolopendra* the followin
 | Max. Linear Acceleration | 2500 - 5300 m/$$s^2$$ |
 
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
+</details>
 
 ## Frog
+<details>
+<summary> Jump </summary>
+
 The Australian Rocket Frog achieves the second longest relative jumping distance for any anuran, 55.2 body lengths for one individual. They also achieve the highest published anuran values for isolated net mean power output, hindlimb length to snout-vent length ratio, and relative hindlimb muscle mass. For the individual that jumped the farthest, it was found that the mean power output expended during takeoff was about 3 times larger than the estimate of available muscle mass output. 
 
 ##### Figure 2 from Anderson. Changes in (A) Acceleration, (B) Velocity, (C) instantaneous body-mass-specific power output during a typical jump at 25°C for an Australian rocket frog.
@@ -306,9 +331,12 @@ The maximum jumping performance was determined for eight adult male Australian s
 | Average power output during takeoff (W/kg jumping muscle mass)| 318-747 |
 
 For further informaion, see [James & Wilson Physiol Biochem Zool 2008](https://drive.google.com/open?id=1BvS-jnoicHjvtprCz7V4ZLBa01cu542w)
+</details>
 
 ## Chameleon
-#### Ballistic Tongue Projection
+<details> 
+<summary> Ballistic Tongue Projection </summary>
+
 Chameleons project their tongues up to 2 times their body length in order to capture prey. Especially in smaller species, their tongue projection has evolved in order to minimize energy loss and maximize the efficiency of the feeding apparatus. Variation in tongue length, body length, and most notably snout-vent length (distance between cloaca and where the jaw joins, the jaw symphysis), result in the variations in tongue mechanism function. The tongue quick projection and retraction is acheived by 2 muscles, the accerlator muscle and the hyoglossus that are activated sequentially, as the tongue folds in an accordion-like manner. 
 
 ##### Figure 2 from Anderson. (A) Peak projection distance, (B) Peak projection velocity, (C) Peak projection acceleration, (D) peak mass/specific power output with respect to snout-vent length. 
@@ -330,9 +358,11 @@ The kinematic performance of the chameleon tongue mechanism varies between speci
 | Max. Power Output | 1410 - 14040 W/kg |
 
 For further reading, [Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) describes the differences in tongue projection between the species of chameleon. 
+</details>
 
 ## Locust
-
+<details> 
+<summary> Jump </summary>
 Locusts jumps, while not having the most impressive performance stats for acceleration or power output, are a well-studied spring-latch system that have been used as a model for many miniature jumping robots.
 
 | Kinematic Metric | Locust performance |
@@ -363,10 +393,11 @@ While two strategies for jumping are observed in caddis flies,they were measured
 | Max. Power Output | 343 W/kg |
 
 For further reading, [Burrows and Dorosenko JEB 2015](https://drive.google.com/file/d/1hombuu4KG-lySa_Ljt2O0J0RZsNWebpl/view?usp=sharing) describes the jumping mechanisms of caddis flies.
-
+</details>
 
 ## Snow Flea
-
+<details>
+<summary> Catapult jump mechanism </summary>
 Snow fleas are flightless and live their adult lives during the winter in the northern hemisphere, moving by jumping and walking across snow. 
 
 Burrows (see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)) examined the anatomy of the snow flea, as well as the kinematics of its jump, to gain a greater relationship between this species and fleas and proposed that snow fleas use a catapult mechanism.
@@ -383,11 +414,12 @@ The jump starts from a standing, curved position. The middle and hind legs prope
 The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is involved in energy storage with fleas.
 
 For more information see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)
-
+</details>
 
 
 ## Cone Snail
-#### Ballistic Tooth Propulsion
+<details>
+<summary> Ballistic Tooth Propulsion </summary>
 
 Cone snails have extremely specialized teeth, which are a combination of torpedo and hypodermic needle. There are roughly 800 species of Cone Snail (Conidae), all carnivorous, which feed on a variety of fish, smaller cone snails, or other prey [[1]](https://en.wikipedia.org/wiki/Conidae). They hunt by shooting out a hollow, detachable tooth and injecting their prey with a neurotoxin, as shown in [this PBS video](https://youtu.be/jYMjLgPFSso). (Extensive research has also been done on the biochemistry of their neurotoxin “cocktails” [[2]](https://www.youtube.com/watch?v=tkguTfVqvsM).) They then usually swallow the prey whole. 
 
@@ -425,6 +457,6 @@ Sources Cited:
 
 [5] [Salisbury et. al Journal of Experimental Biology 2010](https://drive.google.com/file/d/12Q_tpb6dWTJKz1_p4EZleunVDKM-j-MO/view?usp=sharing)
 
-
+</details>
 
 
