@@ -42,7 +42,11 @@ To contribute to this page, choose an organism from the list below and add infor
 
 
 ## Hydra
-#### Nematocyst Discharge
+<details>
+   <summary>
+    #### Nematocyst Discharge
+ </summary>
+
 
 Stinging cells (nematocytes) in jellyfish, sea anemone, and hydra (all from the phylum Cnidaria) discharge their contents at extremely fast rates.  For example, [this video of many nematocysts](https://www.youtube.com/watch?v=6zJiBc_N1Zk) discharging simultaneously or [this video of a single nematocyst](https://www.smithsonianmag.com/videos/category/science/nematocyst-discharge/) discharge show what the process looks like.
 
@@ -71,6 +75,8 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 > + Chemical changes in the liquid in the capsule make it a much more concentrated solution, so that osmotic pressure forces water in very rapidly to dilute it.
 
  For further rearding, [Koch et al. J Cell Sci 1998](https://drive.google.com/open?id=1FDeOC1uCXSm3mZ_uhf2bb_3b2A58FMAT) has more details about the structure of the components of a nemacoyst. 
+ 
+ </details>
 
 ## Fungi
 ### Ballistospore ejection
