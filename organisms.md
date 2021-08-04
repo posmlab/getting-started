@@ -383,7 +383,7 @@ For more information see: [Burrows JEB 2011](https://drive.google.com/drive/fold
 #### Ballistic Tooth Propulsion
 
 Cone snails have extremely specialized teeth, which are a combination of torpedo and hypodermic needle. There are roughly 800 species of Cone Snail (Conidae), all carnivorous, which feed on a variety of fish, smaller cone snails, or other prey [[1]](https://en.wikipedia.org/wiki/Conidae). They hunt by shooting out a hollow, detachable tooth and injecting their prey with a neurotoxin, as shown in [this PBS video](https://youtu.be/jYMjLgPFSso). (Extensive research has also been done on the biochemistry of their neurotoxin “cocktails” [[2]](https://www.youtube.com/watch?v=tkguTfVqvsM).) They then usually swallow the prey whole. 
-![cone snail anatomy](images/cone_snail_anatomy.png) ![cone snail hunting](images/cone_snail_hunting.png {:height="36px"})
+![cone snail anatomy](images/cone_snail_anatomy.png) ![cone snail hunting](images/cone_snail_hunting.png)<img src="cone_snail_hunging.png" alt="cone_snail_hunting" width="200"/>
 
 This [Schulz et. al Current Biology 2019](https://drive.google.com/file/d/1_Y5m3DrUmFTVeMZJn7HjItOoHZgj-bsq/view?usp=sharing) paper describes the firing mechanism - the tooth is shaped like a harpoon, with a bulb at the proximal end. There is a muscular sphincter (round muscle) proximal to the tooth which likely pressurizes the lumen, and a constriction which acts as a latch for the tooth. This [Salisbury et. al Journal of Experimental Biology 2010](https://drive.google.com/file/d/12Q_tpb6dWTJKz1_p4EZleunVDKM-j-MO/view?usp=sharing) paper found that the muscular sphincter may also control venom flow after the tooth punctures into the prey. 
 ![cone snail lumen drawing](images/cone_snail_lumen.png)
