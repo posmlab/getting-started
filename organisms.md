@@ -34,6 +34,8 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Locust - Jump](#locust)
 
+[Caddis Fly - Jump](#caddis-flies)
+
 [Snow Flea - Catapult Jump Mechanism](#snow-flea)
 
 [Cone Snail - Ballistic Tooth Propulsion](#cone-snail)
@@ -373,10 +375,11 @@ Locusts jumps, while not having the most impressive performance stats for accele
 | Max. Power Output | 450 W/kg |
 
 For further reading, [Bennet-Clark JEB 1975](https://drive.google.com/open?id=1upOETTQ-CMrtJNOhR4sjUZQq8G15k1pN) and [Chen et al Acta Mechanica Sinica 2014](https://drive.google.com/file/d/1P-BXhJXnHBeQOjmxzWScHfh2rmb79NbS/view?usp=sharing) for further analysis with high-speed video.
-
+</details>
 
 ## Caddis Flies
-
+<details>
+<summary> Jump </summary>
 Two distinct jumping strategies were found in caddis flies. The first strategy was performed by depressing and extending the middle and hind pairs of legs at the same time, while the second strategy involved wing movements in addition to the same leg movements before take-off. 
 
 ##### Figure 3 from Anderson. Jump by L. marmoratus in which only the legs participate. Jumps in which the wing movements are included would result in a higher angle between the body and the surface at take-off.
