@@ -8,7 +8,7 @@ In a lot of muscle mechanics literature, you might see references to OpenSim, wh
 ### Within the LaMSA Model
 
 In the LaMSA model GUI you’ll see unlatching and loading motors. As you can see below, the loading motor compresses the spring and the unlatching motor either yanks the latch out of the way or holds the latch in place until it’s ready to unlatch (deactivating motor).
-![Steps of LaMSA model](images/LaMSA-loading.JPG)
+![Steps of LaMSA model](images/LaMSA-loading.jpg)
 
 You’ll also notice that in 1D and 2D plots the LaMSA plot is contrasted with direct actuation. Direct actuation shows what would happen if the mass was propelled by the loading motor instead of the spring.
 
