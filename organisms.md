@@ -44,7 +44,6 @@ To contribute to this page, choose an organism from the list below and add infor
 ## Hydra
 <details>
    <summary> 
-      
 ### Nematocyst Discharge
    </summary>
 
