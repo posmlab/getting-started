@@ -16,7 +16,7 @@ Let’s now look at each of the motors. Generate a few plots with each, look at 
 
 <details open>
    <summary>
-   ###LinearMotor
+   ### LinearMotor
    
    </summary>
 
