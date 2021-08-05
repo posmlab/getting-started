@@ -16,7 +16,7 @@ Let’s now look at each of the motors. Generate a few plots with each, look at 
 
 <details open>
    <summary>
-   ### LinearMotor
+   LinearMotor
    
    </summary>
 
@@ -24,16 +24,40 @@ The LinearMotor simply reflects a linear force-length relationship.
 
  </details>
 
+<details open>
+   <summary>
+   DeactivatingMotor
+   
+   </summary>
+
 The DeativatingMotor extends instead of contracting, exerting force in the opposite direction of the others. This makes it useful as an unlatching motor, but not a loading motor.
+
+</details>
+
+<details open>
+   <summary>
+   HillMuscleMotor
+   
+   </summary>
 
 The HillMuscleMotor incorporates a hill muscle model from [Rosario et al RSPB 2016](https://drive.google.com/file/d/1hQZRgUJSEeX45XuyvUjl70zC1H38Xo8d/view?usp=sharing) Read the paper and draw the muscle model, force-length, force-velocity, and force-activation curves that you see. Note suitability of this model to modeling elastic systems.
 
+</details>
+
+<details open>
+   <summary>
+   TwoPartMuscleMotor
+   
+   </summary>
+
 The TwoPartMuscleMotor incorporates a version of the hill muscle model with a contractile and parallel elastic element. It also uses different constants and equations to model motion, so it’s more flexible. Read the paper it’s based on, [Hauefle et al JEB 2014](https://drive.google.com/file/d/1FPZSl_6uO3dHY5OEQ8Jqka2fGD2D--AG/view?usp=sharing), and draw the muscle element diagram as well as the force length curve with and without the parallel elastic element engaged.
-    
+
+</details> 
+
 ### Next Steps
 
-TwoPartMuscleMotor is fairly new and could be further fine tuned. Additionally, it’s capability for eccentric contraction could make it useful as a deactivating motor, though whether that is needed to model anything is unclear. The large number of constants in the constructor, which shape the force-length and force-velocity relationship curves, could be fine-tuned to reflect other types of muscle (currently they reflect mammalian slow-twitch muscle).
+TwoPartMuscleMotor is new and could be further fine tuned. Also, it's capable of eccentric contraction, which isn't currently being utilized. The large number of constants in the constructor, which shape the force-length and force-velocity relationship curves, could be fine-tuned to reflect other types of muscle.
 
-Generally, the existing muscle models could all stand to be further verified, whether using a muscle-modeling software or checked against experimental data. 
+Generally, the existing muscle models could all stand to be further verified, whether using an alternate muscle-modeling software or checked against experimental data. 
 
 Also, it could be useful to set up a kinematics tab to model direct actuation as well as LaMSA, to study muscle mechanics or verify new muscle motors.
