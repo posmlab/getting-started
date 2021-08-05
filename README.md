@@ -8,3 +8,6 @@ Then instead of `![](url)`, put in
 `<img src="https://github.com/posmlab/getting-started/blob/master/images/your_image.png" width="500"/>`
 
 To add to the Bioinspired Microrobotic Devices list, add your text to `devices.md` in Markdown. 
+
+
+
