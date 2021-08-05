@@ -3,18 +3,26 @@
 ### Basics
 Muscle models are intrinsically difficult to verify because of the practical difficulty of getting muscles to perform how they typically would in conditions where it is easy to measure their properties. To get a sense of where the field of muscle mechanics stands, read [Nishikawa et al SICB 2018](https://drive.google.com/file/d/1J6hNHWgol3XgY8FOeU45y29ljOrWOW2b/view?usp=sharing). Focus on information about force-length relationships, titin, and stretch. You don’t need to know much about cross-bridge models, as we don’t focus on neuromuscular systems. 
 
-In a lot of muscle mechanics literature, you might see references to OpenSim, which is useful for looking at large musculoskeletal systems, specifically humans. While I wouldn’t recommend going to the trouble of downloading it unless you plan to construct a new musculoskeletal model or have a specific model to work with, its muscle modelling methods are widely accepted. [Millard et al ASME 2013](https://drive.google.com/file/d/1y5CJJ-qYJhhKfPMGGYU025OqLAb6s4x4/view?usp=sharing) is worth skimming to see some other ways people go about modeling muscles, though it's fairly different from any of ours.  [Thelen ASME 2013](https://drive.google.com/file/d/1P7f6-phYuhpiZ6_2U_tazHxfViYWgDnz/view?usp=sharing) is worth going over to see a different way for utilizing the Hill model . Draw the force-length relationship graph, force-velocity relationship graph, and labeled muscle model from this paper.
+In a lot of muscle mechanics literature, you see references to OpenSim, which is useful for looking at large musculoskeletal systems, specifically humans. While I wouldn’t recommend going to the trouble of downloading it unless you plan to construct a new musculoskeletal model or have a specific model to work with, its muscle modelling methods are widely accepted. Skim [Millard et al ASME 2013](https://drive.google.com/file/d/1y5CJJ-qYJhhKfPMGGYU025OqLAb6s4x4/view?usp=sharing) and see some other ways people go about modeling muscles, though it's fairly different from any of ours.  [Thelen ASME 2013](https://drive.google.com/file/d/1P7f6-phYuhpiZ6_2U_tazHxfViYWgDnz/view?usp=sharing) is worth reading to see a different way for utilizing the Hill model . Draw the force-length relationship graph, force-velocity relationship graph, and labeled muscle diagram from this paper.
 
 ### Within the LaMSA Model
 
 In the LaMSA model GUI you’ll see unlatching and loading motors. As you can see below, the loading motor compresses the spring and the unlatching motor either yanks the latch out of the way or holds the latch in place until it’s ready to unlatch (deactivating motor).
 ![Steps of LaMSA model](images/LaMSA-loading.jpg)
 
-You’ll also notice that in 1D and 2D plots the LaMSA plot is contrasted with direct actuation. Direct actuation shows what would happen if the mass was propelled by the loading motor instead of the spring.
+If you generate some 1D and 2D plots, you’ll also notice that the LaMSA plot is contrasted with direct actuation. Direct actuation shows what would happen if the mass was propelled by the loading motor instead of the spring.
 
-Let’s look at each of the motors. Generate a few plots with each, look at their code, draw the muscle they represent (like the diagram from Thelen), and write a good circumstance to use them. For loading motors you have: LinearMotor, HillMuscleMotor, and TwoPartMuscle muscle. 
+Let’s now look at each of the motors. Generate a few plots with each, look at their code, draw the muscle they represent (like the diagram from Thelen), and write a good circumstance to use them. For loading motors you have: LinearMotor, HillMuscleMotor, and TwoPartMuscle muscle. 
+
+<details open>
+   <summary>
+   LinearMotor
+   
+   </summary>
 
 The LinearMotor simply reflects a linear force-length relationship. 
+
+ </details>
 
 The DeativatingMotor extends instead of contracting, exerting force in the opposite direction of the others. This makes it useful as an unlatching motor, but not a loading motor.
 
