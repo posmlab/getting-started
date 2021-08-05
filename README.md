@@ -9,6 +9,5 @@ Then instead of `![](url)`, put in
 
 To add to the Bioinspired Microrobotic Devices list, add your text to `devices.md` in Markdown. 
 
-This needs to be updated for 2021.
 
 
