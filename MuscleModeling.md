@@ -70,6 +70,8 @@ TwoPartMuscleMotor is new and could be further fine tuned. Also, it's capable of
 
 Generally, the existing muscle models could all stand to be further verified, whether using an alternate muscle-modeling software or checked against experimental data. 
 
+As is, the activation (q in TwoPartMuscleMotor and F_activation in HillMuscleMotor) just linearly increases at the rate of activation. It may be worthwhile to look more into how muscle activation works.
+
 Also, it could be useful to set up a kinematics tab to model direct actuation as well instead of just LaMSA. This could be useful when trying to study muscle mechanics or in the development of new motors.
 
 An issue I've found is a lack of literature on invertebrate muscles. There is an abundance of research on mammalian muscles, especially slow twitch, but Rosario's paper is the only one I've seen that directly focuses on non-mammalian muscles. Additional information on the differences between mammalian and non-mammalian muscle would be extremeley helpful, espeicially if it can be translated into shifting parameters on existing muscle models.
