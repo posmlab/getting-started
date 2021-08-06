@@ -70,4 +70,6 @@ TwoPartMuscleMotor is new and could be further fine tuned. Also, it's capable of
 
 Generally, the existing muscle models could all stand to be further verified, whether using an alternate muscle-modeling software or checked against experimental data. 
 
-Also, it could be useful to set up a kinematics tab to model direct actuation as well as LaMSA, to study muscle mechanics or verify new muscle motors.
+Also, it could be useful to set up a kinematics tab to model direct actuation as well instead of just LaMSA. This could be useful when trying to study muscle mechanics or in the development of new motors.
+
+An issue I've found is a lack of literature on invertebrate muscles. There is an abundance of research on mammalian muscles, especially slow twitch, but Rosario's paper is the only one i've seen that directly focuses on non-mammalian muscles. Additional information on the differences between mammalian and non-mammalian muscle would be extremeley helpful, espeicially if it can be translated into shifting parameters on existing muscle models.
