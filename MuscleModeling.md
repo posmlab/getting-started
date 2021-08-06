@@ -70,7 +70,7 @@ TwoPartMuscleMotor is new and could be further fine tuned. Also, it's capable of
 
 Generally, the existing muscle models could all stand to be further verified, whether using an alternate muscle-modeling software or checked against experimental data. 
 
-As is, the activation (q in TwoPartMuscleMotor and F_activation in HillMuscleMotor) just linearly increases at the rate of activation. It may be worthwhile to look more into how muscle activation works.
+As is, the activation (q in TwoPartMuscleMotor and F_activation in HillMuscleMotor) just linearly increases at the rate of activation. It may be worthwhile to look into how muscle activation works more.
 
 Also, it could be useful to set up a kinematics tab to model direct actuation as well instead of just LaMSA. This could be useful when trying to study muscle mechanics or in the development of new motors.
 
