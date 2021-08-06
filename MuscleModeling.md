@@ -3,7 +3,7 @@
 ### Basics
 Muscle mechanics are intrinsically difficult to model because of the practical difficulties. It's hard to measure muscle properties and kinematics, without drastically altering the conditions they perform in and therefore altering their performance. Without these measurements, models can be difficult to verify. To get a sense of where the field of muscle mechanics stands, read [Nishikawa et al SICB 2018](https://drive.google.com/file/d/1J6hNHWgol3XgY8FOeU45y29ljOrWOW2b/view?usp=sharing), focusing on force-length relationships, titin, and stretch. You don’t need to know much about cross-bridge models, as we don’t focus on neuromuscular systems. 
 
-In a lot of muscle mechanics literature, you see references to OpenSim, which is a useful modeling software for looking at large musculoskeletal systems,like humans. While I wouldn’t recommend going to the trouble of downloading it, unless you plan to construct a new musculoskeletal model or have a specific model to work with, its muscle modeling methods (Millard and Thelen) are widely accepted. Skim [Millard et al ASME 2013](https://drive.google.com/file/d/1y5CJJ-qYJhhKfPMGGYU025OqLAb6s4x4/view?usp=sharing) to see some ways people go about modeling muscles, though our methods are signifantly more simplified. Our more sophisticated muscle motors are based in the Hill Muscle model. Read [Thelen ASME 2013](https://drive.google.com/file/d/1P7f6-phYuhpiZ6_2U_tazHxfViYWgDnz/view?usp=sharing, and draw the force-length relationship graph, force-velocity relationship graph, and labeled muscle diagram from this paper.
+In a lot of muscle mechanics literature, you see references to OpenSim, which is a useful modeling software for looking at large musculoskeletal systems,like humans. While I wouldn’t recommend going to the trouble of downloading it, unless you plan to construct a new musculoskeletal model or have a specific model to work with, its muscle modeling methods (Millard and Thelen) are widely accepted. Skim [Millard et al ASME 2013](https://drive.google.com/file/d/1y5CJJ-qYJhhKfPMGGYU025OqLAb6s4x4/view?usp=sharing) to see some ways people go about modeling muscles, though our methods are signifantly more simplified. Our more sophisticated muscle motors are based in the Hill Muscle model. Read [Thelen ASME 2013](https://drive.google.com/file/d/1P7f6-phYuhpiZ6_2U_tazHxfViYWgDnz/view?usp=sharing), and draw the force-length relationship graph, force-velocity relationship graph, and labeled muscle diagram from this paper.
 
 ### Within the LaMSA Model
 
@@ -12,7 +12,7 @@ Open the LaMSA model in MATLAB and pull up the GUI. You’ll see unlatching and 
 
 If you generate some 1D and 2D plots, you’ll also notice that the LaMSA plot is contrasted with direct actuation. Direct actuation shows what would happen if the mass was propelled by the loading motor instead of the spring.
 
-Let’s now look at each of the motors. Generate a few kienamtics and 1D plots with each, look at their code, draw the muscle they represent (like the diagram from Thelen), and write a good circumstance to use them.  
+Let’s now look at each of the motors. Generate a few kinematics and 1D plots with each, look at their code, draw the muscle they represent (like the diagram from Thelen), and write a good circumstance to use them.  
 
 <details open>
    <summary>
@@ -72,4 +72,6 @@ Generally, the existing muscle models could all stand to be further verified, wh
 
 Also, it could be useful to set up a kinematics tab to model direct actuation as well instead of just LaMSA. This could be useful when trying to study muscle mechanics or in the development of new motors.
 
-An issue I've found is a lack of literature on invertebrate muscles. There is an abundance of research on mammalian muscles, especially slow twitch, but Rosario's paper is the only one i've seen that directly focuses on non-mammalian muscles. Additional information on the differences between mammalian and non-mammalian muscle would be extremeley helpful, espeicially if it can be translated into shifting parameters on existing muscle models.
+An issue I've found is a lack of literature on invertebrate muscles. There is an abundance of research on mammalian muscles, especially slow twitch, but Rosario's paper is the only one I've seen that directly focuses on non-mammalian muscles. Additional information on the differences between mammalian and non-mammalian muscle would be extremeley helpful, espeicially if it can be translated into shifting parameters on existing muscle models.
+
+Check out the muscle mechanics folder in the posm Google Drive for information about making the TwoPartMuscleMotor, more papers, and Monroy's data.
