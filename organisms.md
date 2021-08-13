@@ -40,7 +40,7 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Cone Snail - Ballistic Tooth Propulsion](#cone-snail)
 
-[Seahorse - Pivot feeding] (#seahorse)
+[Seahorse - Pivot feeding](#seahorse)
 
 -----------------
 
@@ -469,6 +469,6 @@ Sources Cited:
 <summary> Pivot feeding </summary>
 
 
-For more information see: [Longo et al RSPB 2018] (https://drive.google.com/file/d/1uRp5k5Dn2iPUD3ZWScKQAu5T2jkVtl5f/view?usp=sharing)
+For more information see: [Longo et al RSPB 2018](https://drive.google.com/file/d/1uRp5k5Dn2iPUD3ZWScKQAu5T2jkVtl5f/view?usp=sharing)
    
 </details>
