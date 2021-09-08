@@ -457,7 +457,7 @@ Cone snails have extremely specialized teeth, which are a combination of torpedo
 
 This [Schulz et. al Current Biology 2019](https://drive.google.com/file/d/1_Y5m3DrUmFTVeMZJn7HjItOoHZgj-bsq/view?usp=sharing) paper describes the firing mechanism - the tooth is shaped like a harpoon, with a bulb at the proximal end. There is a muscular sphincter (round muscle) proximal to the tooth which likely pressurizes the lumen, and a constriction which acts as a latch for the tooth. This [Salisbury et. al Journal of Experimental Biology 2010](https://drive.google.com/file/d/12Q_tpb6dWTJKz1_p4EZleunVDKM-j-MO/view?usp=sharing) paper found that the muscular sphincter may also control venom flow after the tooth punctures into the prey. 
 
-<img src="https://github.com/posmlab/getting-started/blob/master/images/cone_snail_lumen.png" width="500"/> 
+<img src="images/cone_snail_lumen.png" width="500"/> 
 
 
 ###### Fig. 4 from Salisbury et. al. Mechanism of prey capture in Conus pennaceus. Images of Conus pennaceus extending its proboscis towards the prey (a snail) in a recording channel. (A) Left column: sequential still frames taken from high-speed video (325 frames s–1) illustrating venom movement through the central lumen of the proboscis. Right column: diagrams illustrating venom movement through the proboscis lumen at various densities (light grayless dense, dark graymore dense) passing through the muscular sphincter. 0 ms indicates the frame immediately following radular tooth propulsion. Arrowheads indicate the location of the muscular sphincter. Asterisks mark the position of the base of the radular tooth. Arrows indicate the initial increase in lumenal kinking.
