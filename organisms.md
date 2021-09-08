@@ -227,6 +227,7 @@ For further rearding, [Burrows JEB 2012](https://drive.google.com/open?id=13JHzV
 
 
 ## Aquatic bladderworts
+
 <details open>
   <summary> Suction trap 
    </summary>
@@ -254,9 +255,11 @@ The suction mechanism of these carnivorous plants is fascinating, and also usefu
 | Max. Acceleration | 600g | 
 
 [Vincent et al RSPB 2011](https://drive.google.com/open?id=1SgE97uRu5DxZeXFkE-0ApP1m1lzzCHET) has more details about the suction mechanism of aquatic bladderworts.
+                  
 </details>
 
 ## Froghopper
+   
 <details open>
   <summary> Jump
    </summary>
@@ -421,7 +424,8 @@ For further reading, [Burrows and Dorosenko JEB 2015](https://drive.google.com/f
 
 ## Snow Flea
 <details open>
-<summary> Catapult jump mechanism </summary>
+<summary> Catapult jump mechanism 
+   </summary>
 Snow fleas are flightless and live their adult lives during the winter in the northern hemisphere, moving by jumping and walking across snow. 
 
 Burrows (see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)) examined the anatomy of the snow flea, as well as the kinematics of its jump, to gain a greater relationship between this species and fleas and proposed that snow fleas use a catapult mechanism.
@@ -438,6 +442,7 @@ The jump starts from a standing, curved position. The middle and hind legs prope
 The power per mass of muscles runs from 450 Wk kg^-1 for females to 740 W kg^-1, which is close to the upper limits of striated muscles, despite the sub-zero (Celsius) temperatures the snow fleas jump in. With temperature considerations, Burrows proposes that there must be an energy storage mechanism, which is corroborated by the presence of resilin, which is involved in energy storage with fleas.
 
 For more information see: [Burrows JEB 2011](https://drive.google.com/drive/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH)
+   
 </details>
 
 
