@@ -85,7 +85,9 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 
 ## Fungi
 <details open>
-<summary> Ballistospore ejection </summary>
+<summary> 
+   Ballistospore ejection 
+ </summary>
 
 
 There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
@@ -121,6 +123,7 @@ It out does the [mantis shrimp](#mantis-shrimp) in terms of acceleration but is 
 
 
 Source: [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)
+   
 </details>
 
 ## Bunchberry dogwood
@@ -188,6 +191,7 @@ Image of Trap-Jaw Ant from
 
 
  For further reading, [Patek et al PNAS 2006](https://drive.google.com/open?id=1vitWKvYV8MkGgrC_HdBtFfyfihexE0kF) has more details about the mechanisms of a trap-jaw ant's mandible strike. 
+   
 </details>
 
 ## Plant louse
@@ -262,6 +266,7 @@ Froghoppers are a diverse and abundant family of insects known for their incredi
 | Max. Acceleration | 5500 m/s$$^2$$ | 
 
 [Burrows JEB 2006](https://drive.google.com/open?id=1j83P4jAcKa1akytmNG4rzPhvCoZ2iOOA)
+   
 </details>
 
 ## Venus fly trap
@@ -310,6 +315,7 @@ For a single spear-type female of the species *Coronis scolopendra* the followin
 | Max. Linear Acceleration | 2500 - 5300 m/$$s^2$$ |
 
 For further information, see the full paper by [McHenry et al](https://drive.google.com/open?id=1Y5uxVJzTMgKkaeD1xNOcufjjhUctAL1x).
+   
 </details>
 
 ## Frog
@@ -362,6 +368,7 @@ The kinematic performance of the chameleon tongue mechanism varies between speci
 | Max. Power Output | 1410 - 14040 W/kg |
 
 For further reading, [Anderson et al J Morphol 2012](https://drive.google.com/open?id=1VKMf49Xl4_XlBKxAQmxxGHzvIq1m56-U) describes the differences in tongue projection between the species of chameleon. 
+   
 </details>
 
 ## Locust
