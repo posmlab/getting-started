@@ -461,10 +461,10 @@ This [Schulz et. al Current Biology 2019](https://drive.google.com/file/d/1_Y5m3
 
 
 ###### Fig. 4 from Salisbury et. al. Mechanism of prey capture in Conus pennaceus. Images of Conus pennaceus extending its proboscis towards the prey (a snail) in a recording channel. (A) Left column: sequential still frames taken from high-speed video (325 frames s–1) illustrating venom movement through the central lumen of the proboscis. Right column: diagrams illustrating venom movement through the proboscis lumen at various densities (light grayless dense, dark graymore dense) passing through the muscular sphincter. 0 ms indicates the frame immediately following radular tooth propulsion. Arrowheads indicate the location of the muscular sphincter. Asterisks mark the position of the base of the radular tooth. Arrows indicate the initial increase in lumenal kinking.
-<img src="https://github.com/posmlab/getting-started/blob/master/images/cone_snail_salisbury4.png" width="750"/> 
+<img src="images/cone_snail_salisbury4.png" width="750"/> 
 
 ###### Fig. 1 from Schulz et. al. (C) Average tooth displacements over time during the prey strike (D) Average velocities during the prey strike (E) Average accelerations during the prey strike
-<img src="https://github.com/posmlab/getting-started/blob/master/images/cone_snail_schulz1.png" width="750"/> 
+<img src="images/cone_snail_schulz1.png" width="750"/> 
 
 
 ##### Summary of Kinematic Peformance from Schulz et al
