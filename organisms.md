@@ -126,9 +126,9 @@ Source: [Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLY
 </details>
 
 ## Bunchberry dogwood
+
 <details open>
-  <summary>
-     Pollen ejection 
+  <summary> Pollen ejection
    </summary>
 
 Bunchberry dogwood (*Cornus canadensis*) is a plant that grows in dense carpets in the spruce-fir forests of the North American taiga [[1]](https://drive.google.com/open?id=1mhsZLLmR3mQ6wnW22S2vXWh6pQbb_hfK). Bunchberry grows clusters of up to ten berries, from which the plant gets its name [[2]](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948). Bunchberry flowers grow in groups (inflorescences) surrounded by four white bracts, as seen in Figure 1a. In Figure 1b, we can see that an individual flower has four petals (which droop down in the second image) and four stamens, each composed of a long filament and an anther on top which stores the pollen.
@@ -166,6 +166,7 @@ In bunchberry flowers, the stamen functions similarly to a miniature medieval tr
 [2] [https://www.thespruce.com/bunchberry-shade-ground-cover-2132948](https://www.thespruce.com/bunchberry-shade-ground-cover-2132948)
 <br>
 [3] [Whitaker et al Funct Ecol 2007](https://drive.google.com/open?id=1aDwN8sZAc_1h2zxtPX4dvLuHWyw_RZUB)
+   
 </details>
 
 ## Trap-jaw ant
