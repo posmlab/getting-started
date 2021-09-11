@@ -4,6 +4,8 @@ Using nature as inspiration, recent work in robotics has taken principles of des
 
 To contribute to this page, choose a device from the list below and add information. Some starting references are provided as Google Drive links in each section. If you find other research papers, be sure to save them to the posmlab Google Drive "Papers" folder and link to them here. The organisms listed are from Table 1 of [Ilton et al Science 2018](https://drive.google.com/open?id=1uo5F2MfkcKfCjjJiLNwWVN3OzWN_OLh7), but add other examples here if you come across them.
 
+[Mantis shrimp inspired robot](#mantis-shrimp-inspired-robot)
+
 [Micro elastomer jumper](#micro-elastomer-jumper)
 
 [Energetic silicon jumper](#energetic-silicon-jumper)
@@ -38,11 +40,14 @@ To contribute to this page, choose a device from the list below and add informat
 
 ----------------------------
 
+### Mantis shrimp inspired robot
+[Steinhardt et al PNAS 2021](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view?usp=sharing){:target="_blank"}
+
 ### Micro elastomer jumper
-[Gerratt and Bergbreiter Smart Mater Struct 2013](https://drive.google.com/open?id=1lLtdhQMT8jIQa2Tt-brgbHMaO9Imt2zi)
+[Gerratt and Bergbreiter Smart Mater Struct 2013](https://drive.google.com/open?id=1lLtdhQMT8jIQa2Tt-brgbHMaO9Imt2zi){:target="_blank"}
 
 ### Energetic silicon jumper
-[Churaman et al J Microelectromech Syst 2012](https://drive.google.com/open?id=1Oy4LIYb04gKtzj8Dq-sJMZs0Hqa1iC1O)
+[Churaman et al J Microelectromech Syst 2012](https://drive.google.com/open?id=1Oy4LIYb04gKtzj8Dq-sJMZs0Hqa1iC1O){:target="_blank"}
 
 
 ### Chameleon tongue-inspired system 
