@@ -134,18 +134,48 @@ At some point, it will come time for you to write-up your work. Remember that th
 
 Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
 
+### Common steps for all students    
+   
 1) [Watch this short PoSMLab Introduction video](https://youtu.be/NbnPefC_W3E)
 
 2) Read more [examples of ultra-fast organisms](organisms.md) that use elastic energy to drive movement. Contribute to that document by adding more information from a primary literature source for one organism (your first contribution to a posmlab Github repository!).
 
 3) Read more [examples of engineered microrobotic devices](devices.md) inspired by nature. Contribute to that document by adding more information from a primary literature source for one device.
 
-4) Skim [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). What are the three main functions of biological springs? Which one are we focused on in our research?
+4) Look at Fig. 1 of Roberts and Azizi JEB 2011:
+   ![Fig. 1 of Roberts and Azizi JEB 2011](https://user-images.githubusercontent.com/61558639/132962039-d34e5e81-e68b-4851-9801-fde5896c8afe.png)
+   What are the three main functions of biological springs? Which one are we focused on in our research?
+   Optional: skim the full paper [Roberts and Azizi JEB 2011](https://drive.google.com/open?id=1IT0M8tKtYCogp_DZB_ffbrGxaPEbItUH). 
 
 5) Do a careful reading of [Longo et al JEB 2019](https://drive.google.com/open?id=1qVMa5j6ePS5s1gtqKgDq5B0CHeS0kLzg) which lays out a framework for Latch-mediated Spring-actuated (LaMSA) systems. Come up with three questions that you would like answered (could be clarifying questions, conceptual questions, research questions, or even just highlighting places that are confusing).
 
 6) Watch the video [when does a spring beat a motor?](https://www.youtube.com/watch?v=8HZhlGcqfgE). 
 
+   
+### Materials Subgroup
+   
+7) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
+
+8) Arrange a time with Mark to talk through [spring properties (part 1)](https://docs.google.com/presentation/d/1n1HUjdAjSy1GP-t4P86HvApr71ChQSfS/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true). (about 1 hour)
+
+9) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
+
+10) Talk through [spring properties (part 2)](https://docs.google.com/presentation/d/1K-sRqHWo3ziU-8JE6IGk42FJko2mrgy4/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true) with Mark.
+
+11) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH). What are some possible next directions that follow up on this work?
+
+12) Read [Cai et al Advanced Materials 2015](https://drive.google.com/file/d/1YENhIjazOTPYznWJj_VvleGRE-jP0KZH/view?usp=sharing). What are some advantages and unique features of this chemistry/architecture? In case you need it, here is the [supplementary info to Cai et al](https://drive.google.com/file/d/1PFiFY4mpcAAdu_zScXkGt_d533sIo-PR/view?usp=sharing).
+   
+13) Read [Vatankhah-Varnosfaderani et al Nature 2017](https://drive.google.com/file/d/1EcsTAYd76MGRhA0x0FTvUJVXCV_v4u1R/view?usp=sharing). What is the "biological triangle"? What network parameters do they modify? How do these parameters affect the material properties ($$E$$, $$\lambda_\mathrm{max}$$)?
+   
+14) You're ready to get started! Check out the ["posmlab/Polymers" shared Google Drive](https://drive.google.com/drive/u/0/folders/1uf6qYivyLgra3tIGuRPUnz0IdooQ-D7u) (read the README.md files!) and then talk to Mark and the other members of the team about first steps.    
+   
+### Robotics Subgroup   
+
+   
+   
+### Modeling Subgroup
+   
 7) Motor Model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off 
 
 $$F = F_{max}(1-v/v_{max})$$. 
@@ -199,19 +229,6 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
 -------------
-#### Optional Material Science Steps
-
-12) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/) and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/) and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material).
-
-13) Watch the video [spring properties (part 1)](http://youtube.com).
-
-14) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
-
-15) Watch the video [spring properties (part 2)](http://youtube.com).
-
-16) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH). What are some possible next directions that follow up on this work?
-
-17) Read [Monroy et al JEB 2017](https://drive.google.com/open?id=1gCLBbpSA-3OiYjIC4sezoRqhg2BSWTTE). How are the muscle recoil experiments similar/different compared to elastomer recoil?
 
 </details>
 
