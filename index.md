@@ -151,6 +151,12 @@ Below is a step-by-step guide to getting acquainted with the research we do in p
 
 6) Watch the video [when does a spring beat a motor?](https://www.youtube.com/watch?v=8HZhlGcqfgE). 
 
+
+Your next steps depend on what are of posmlab you are joining (ask Mark if you're unsure!):
+   
++ [Materials Subgroup](#materials-subgroup)
++ [Robotics Subgroup](#robotics-subgroup)
++ [Modeling Subgroup](#modeling-subgroup)
    
 ### Materials Subgroup
    
@@ -172,7 +178,14 @@ Below is a step-by-step guide to getting acquainted with the research we do in p
    
 ### Robotics Subgroup   
 
+  
+7) Read [Aguilar et al Rep Prog Phys 2016](https://drive.google.com/file/d/1-JkoZac-pzqFcrZNRave8A9AVl9Zcol5/view?usp=sharing) (warning: it's long!). Choose one specific aspect from this paper you find particularly interesting and prepare a short 5-10 minute journal-club style presentation on the topic for the rest of the group. 
+
+8) Read [Divi et al Royal Society Interface 2020](https://drive.google.com/file/d/1QV2ydrWp9MuVviCPcq15tr0HggXNUoa8/view?usp=sharing). What does a rounded latch enable? What are some trade-offs?
+
+9) Get familiar with the high speed camera. You will want to read the [high speed camera SOP](https://docs.google.com/document/d/1a6HMn0_olo6LFECts4n9g6GOmtI-2Le472ItlCIcWlY/edit) (SOP = standard operating procedure, we have lots of these). Use one of the high speed cameras to film something fun! Upload your results to the [posmlab/Fun Videos](https://drive.google.com/drive/folders/1xeGECDXDtNYRt4oEmuorAatNW12mhr7D) directory and let others know. We all love watching fun high speed videos. Tanvi's dog drinking water is a fan favorite!
    
+10) Make your first measurement of a robotic jump! You'll want to talk to Tanvi about this in particular. This will require hands-on training from Tanvi.   
    
 ### Modeling Subgroup
    
@@ -228,11 +241,16 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
+12) Read more about [muscle modeling](MuscleModeling) to understand how muscle motors are implemented in the MATLAB LaMSA Model.
+   
+   
 -------------
 
 </details>
 
 ------------------------------------------------------------------
+
+<!--
 
 ## Current Projects
 
@@ -261,7 +279,7 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 - [Kinematic Tracking](https://github.com/posmlab/kinematic-tracking) Make our current approach to extracting kinematic data from high speed videos easier to use; search for alternatives and improvements.
 
 -------------------------
-
+-->
 
 <!--
 
