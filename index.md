@@ -132,7 +132,7 @@ At some point, it will come time for you to write-up your work. Remember that th
 <details open>
 <summary markdown='span'>Introduction to the physics of ultra-fast elastic movements (expand/collapse)</summary>
 
-Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
+With the logistics out of the way, let's dig into the research topics we study! Below is a step-by-step guide to getting acquainted with the research we do in posmlab. 
 
 ### Common steps for all students    
    
