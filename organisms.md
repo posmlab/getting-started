@@ -493,16 +493,16 @@ Sources Cited:
 <details open>
 <summary> Pivot feeding
    </summary>
-   Seahorses and pipefish have been shown to use elastic recoil to rotate their heads extremely quickly and use suction to capture prey. Snipefish, a species related to seahorses, also employ an elastic recoil system to capture prey on the scale of as quick as 2 milliseconds!
 
+Seahorses and pipefish have been shown to use elastic recoil to rotate their heads extremely quickly and use suction to capture prey. Snipefish, a species related to seahorses, also employ an elastic recoil system to capture prey on the scale of as quick as 2 milliseconds!
 
-      <img src="images/snipefish_strike.png">
+   <img src="images/snipefish_strike.png"/>
    
 Figure 1: Screenshots from a snipefish feeding strike, along with the magnitude of movements before and during the strike.
    
 Looking closer at the anatomy of snipefish, there are four distincts linkages that form a four-bar linkage system that acts as a latch that facilitates the quick release of energy. The four parts are the suspensorium-neurocranium link (pink in Figure 2), pectoral girdle link (yellow in Figure 2), urohyal bone and sternohyoideus muscle link (blue in Figure 2), and hyoid link (green in Figure 2).
 
-   <img src="images/snipefish_latches.png">
+   <img src="images/snipefish_latches.png"/>
    
 Figure 2: Links highlighted in the snipefish anatomy and converted into a four-bar linkage system
    
