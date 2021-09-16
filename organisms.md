@@ -494,7 +494,7 @@ Sources Cited:
 <summary> Pivot feeding
    </summary>
    Seahorses and pipefish have been shown to use elastic recoil to rotate their heads extremely quickly and use suction to capture prey. Snipefish, a species related to seahorses, also employ an elastic recoil system to capture prey on the scale of as quick as 2 milliseconds!
-   
+
    <img src="images/snipefish_strike.png">
    
 Figure 1: Screenshots from a snipefish feeding strike, along with the magnitude of movements before and during the strike.
