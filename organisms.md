@@ -40,7 +40,7 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Cone Snail - Ballistic Tooth Propulsion](#cone-snail)
 
-[Seahorse - Pivot feeding](#seahorse)
+[Snipefish - Pivot feeding](#snipefish)
 
 -----------------
 
@@ -489,11 +489,15 @@ Sources Cited:
 
 </details>
 
-## Seahorse
+## Snipefish
 <details open>
 <summary> Pivot feeding
    </summary>
+   Seahorses and pipefish have been shown to use elastic recoil to rotate their heads extremely quickly and use suction to capture prey. Snipefish, a species related to seahorses, also employ an elastic recoil system to capture prey. 
+   
+<img src="images/snipefish_strike.png">
 
+<img src="images/snipefish_.png">
 
 For more information see: [Longo et al RSPB 2018](https://drive.google.com/file/d/1uRp5k5Dn2iPUD3ZWScKQAu5T2jkVtl5f/view?usp=sharing)
    
