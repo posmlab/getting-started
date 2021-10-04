@@ -42,7 +42,7 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Snipefish - Feeding](#snipefish)
 
-[Dracula Ant - Snap jaw](#draculaant)
+[Dracula Ant - Snap jaw](#dracula-ant)
 
 -----------------
 
