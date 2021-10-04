@@ -42,6 +42,8 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Snipefish - Feeding](#snipefish)
 
+[Dracula Ant - Snap jaw](#draculaant)
+
 -----------------
 
 
@@ -511,3 +513,11 @@ The idea of the hyoid link and urohyal-sternohyoideus link overlapping in the al
 For more information see: [Longo et al RSPB 2018](https://drive.google.com/file/d/1uRp5k5Dn2iPUD3ZWScKQAu5T2jkVtl5f/view?usp=sharing)
    
 </details>
+   
+ ## Darcula Ant
+
+<details open>
+   <summary>
+   Snap jaw
+   </summary>
+   
