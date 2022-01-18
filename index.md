@@ -243,7 +243,11 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 12) Read more about [muscle modeling](MuscleModeling){:target="_blank"} to understand how muscle motors are implemented in the MATLAB LaMSA Model.
    
-   
+13) To understand how we use our MATLAB LaMSA Model to answer questions in biology, watch Prof. [Phil Anderson's 2022 SICB talk](https://drive.google.com/file/d/1Dj4MvMZeqiALX5iHjqrTwP3cui3K3rqP/view?usp=sharing){:target="_blank"}
+
+14) If you are working on larval mantis shrimp modeling, watch [Jacob Harrison's 2022 SICB talk](https://drive.google.com/file/d/1Dl48QgxQS8QxSCjXUHHZW-JSlU1x7Ezp/view?usp=sharing){:target="_blank"}
+
+
 -------------
 
 </details>
