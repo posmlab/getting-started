@@ -44,6 +44,8 @@ To contribute to this page, choose an organism from the list below and add infor
 
 [Dracula Ant - Snap jaw](#dracula-ant)
 
+[Nematode - Jump](#nematode)
+
 -----------------
 
 
@@ -521,3 +523,24 @@ For more information see: [Longo et al RSPB 2018](https://drive.google.com/file/
    Snap jaw
    </summary>
    
+
+## Nematode
+<details open>
+<summary> Jump </summary>
+
+Entomopathogenic nematodes are a soft bodied and legless animal that can jump a distance many times its own body length. They accomplish this by bending their body to store energy, and then releasing the stored energy very quickly. Jumping can also help nematodes ambush host insects, giving jumping nematodes an evolutionary advantage.<sup>[1](#workscited)</sup>
+
+<img src="images/nematode_bend.png" width="750">
+
+##### Fig. 1 Mechanism of storing energy by creating and contracting a loop from [Campbell and Kaya Can. J. Zool. 1999](https://drive.google.com/file/d/13Ciqbp6GRjsQdF5TbV41whvi3Ad4yIbT/view?usp=sharing). (A) Steps of nematode jump. Frames 1-6 shows the nematode bending its body to form a loop. Frames 6-11 shows the nematode contracting the loop to store more energy. The label k indicates a kink in the cuticle of the nematode. (B) Illustration showing the timeframe for each step of jumping.
+
+The nematode stores energy by contracting a loop made with its body (see in Fig 1). This loop is held together by surface tension of the film of water covering the nematode. Once the cuticle kinks, it has stored enough energy to jump and break the surface tension. Once the surface tension is broken, the stored energy is released in less than 30 milliseconds and the nematode is propelled forward.<sup>[1](#workscited)</sup> A summary of the kinematic performance is shown below:
+
+| Kinematic Metric | Nematode performance |
+| -------- | ------- |
+| Duration | < 30 ms |
+| Max. Velocity | 1.13 m/s |
+| Max. Acceleration | 1609 m/s$$^2$$ | 
+
+### WorksCited:
+[1]  [Campbell and Kaya Can. J. Zool. 1999](https://drive.google.com/file/d/13Ciqbp6GRjsQdF5TbV41whvi3Ad4yIbT/view?usp=sharing)
