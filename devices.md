@@ -41,6 +41,11 @@ To contribute to this page, choose a device from the list below and add informat
 ----------------------------
 
 ### Mantis shrimp inspired robot
+
+This system uses a geometric, torque reversal latch and a four bar linkage that is similar to the raptorial appendage of a mantis shrimp. 
+
+![](images/mantis_shrimp_physical_model.MP4)
+
 [Steinhardt et al PNAS 2021](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view?usp=sharing){:target="_blank"}
 
 ### Micro elastomer jumper
