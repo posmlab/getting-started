@@ -95,7 +95,7 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 
 There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
 
-The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension. Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
+The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension (this process is called fusion where the water coalesces just before ejection). Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
 
 ![Figure 1](images/ballistospore-surface-tension-catapult.png)
 **Figure 1:** 
@@ -105,7 +105,7 @@ The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61
 ![Figure 2](images/ballistospore-launch-mechanism.png)
 #### Figure 2:  Illustrates the surface tension catapult. 
 ***A.*** *Buller’s drop forms at the base of the spore, energy is stored here in the form of surface tension.* 
-***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation.* 
+***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation. This mechanism mimics how we jump as a downward force is applied before release to cause the system to propell itself upwards.* 
 ***C.*** *Once the Buller’s drop reaches the tip of the spore it stops abruptly due to surface tension preventing it from leaving the spore. This causes the spore to be shot upward along with the droplet.*
 
 #### To see the action check out the following videos:
