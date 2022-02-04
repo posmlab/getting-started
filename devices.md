@@ -42,9 +42,13 @@ To contribute to this page, choose a device from the list below and add informat
 
 ### Mantis shrimp inspired robot
 
-This system uses a geometric, torque reversal latch and a four bar linkage that is similar to the raptorial appendage of a mantis shrimp. 
 
-![](images/mantis_shrimp_physical_model.MP4)
+This system uses a geometric, torque reversal latch and a four bar linkage that is inspired by the raptorial appendage of a mantis shrimp. The tip of the robot is able to reach a maximum velocity of 30 m/s.
+
+![](images/ms_robot.PNG)
+##### In panel C, the points abcd form a four bar linkage and the unstable motion of point c around point b acts as a latch.
+
+[Here is a video showing the robot in action.](images/mantis_shrimp_physical_model.MP4)
 
 [Steinhardt et al PNAS 2021](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view?usp=sharing){:target="_blank"}
 
