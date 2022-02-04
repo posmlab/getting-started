@@ -82,6 +82,8 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 > + Chemical changes in the capsule contents may cause them to expand rapidly by polymerization.
 > + Chemical changes in the liquid in the capsule make it a much more concentrated solution, so that osmotic pressure forces water in very rapidly to dilute it.
 
+ Hydras typically prey on crustaceans --  it is the hard external shells of these prey animals that necessitate the incredible kinematic profile of the nematocyst, since the extremely small mass of the ejected stylet (~1 ng) would be incapable of penetrating them with more mundane accelerations. And even with top accelerations in the area of 50 million m/s, the kinetic energy of the stylet evens out to only around 0.1 micro-Joules -- it is the physical dimensions of the stylet that provide the last piece of the puzzle, with their miniscule tips allowing for a much higher pressure than one might expect from their modest kinetic energies. In fact, with estimates placing the maximum pressure at upwards of 7 GPa, the pressure profile of a stinging nematocyst is comparable to that of a bullet. (Data drawn from Nuchter et al.)
+   
  For further rearding, [Koch et al. J Cell Sci 1998](https://drive.google.com/open?id=1FDeOC1uCXSm3mZ_uhf2bb_3b2A58FMAT) has more details about the structure of the components of a nemacoyst. 
  
  </details>
@@ -95,7 +97,7 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
 
 There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
 
-The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension. Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
+The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension (this process is called fusion where the water coalesces just before ejection). Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
 
 ![Figure 1](images/ballistospore-surface-tension-catapult.png)
 **Figure 1:** 
@@ -105,7 +107,7 @@ The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61
 ![Figure 2](images/ballistospore-launch-mechanism.png)
 #### Figure 2:  Illustrates the surface tension catapult. 
 ***A.*** *Buller’s drop forms at the base of the spore, energy is stored here in the form of surface tension.* 
-***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation.* 
+***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation. This mechanism mimics how we jump as a downward force is applied before release to cause the system to propell itself upwards.* 
 ***C.*** *Once the Buller’s drop reaches the tip of the spore it stops abruptly due to surface tension preventing it from leaving the spore. This causes the spore to be shot upward along with the droplet.*
 
 #### To see the action check out the following videos:

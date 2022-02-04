@@ -263,6 +263,8 @@ According to Sandia and the collaborators from NASA's Jet Propulsion Laboratory 
 ### Soft combustion robot 
 Many engineered robots are made from hard materials, because rigid materials are easy to predict and control. However, engineers inspired by biological systems have begun to explore designing and manufacturing systems with soft bodies. In this robot, both rigid and soft materials are used to create a robot that can jump by combusting butane and oxygen. 
 
+One of the most interesting elements of this new kind of design is the method they used to fabricate the soft materials -- the paper points out that one of the biggest barriers to soft-bodied robots is the complex fabrication process, which the authors have begun to surmount by making use of modern 3D-printing technology instead of relying on custom-designed molds and complex assemblies. This streamlined process allows for designers to test a wide variety of prototypes without incurring prohibitive monetary and temporal cost, and it also provides them with more freedom to design their machines as optimally as possible.
+
 [Bartlett Science 2015](https://drive.google.com/open?id=1I_E8SdiUy-zPiZ4Tt8aURbBA9AXHFX1q)
 
 
