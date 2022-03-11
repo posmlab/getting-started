@@ -29,7 +29,7 @@ The Github platform uses Markdown to style text. This [Markdown Guide](https://g
 #### Slack
 We use Slack to communicate as a whole team.  (especially in the summer when we are working full time). When you are actively working on a posmlab project, try to get in the habit of logging into Slack. 
 
-Make sure that you are added to the [posmlab Slack workspace](posmlab.slack.com){:target="_blank"}.
+Make sure that you are added to the [posmlab Slack workspace](https://posmlab.slack.com){:target="_blank"}.
 
 #### Google Drive
 
