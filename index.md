@@ -174,7 +174,7 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
    
 13) Read [Vatankhah-Varnosfaderani et al Nature 2017](https://drive.google.com/file/d/1EcsTAYd76MGRhA0x0FTvUJVXCV_v4u1R/view?usp=sharing){:target="_blank"}. What is the "biological triangle"? What network parameters do they modify? How do these parameters affect the material properties ($$E$$, $$\lambda_\mathrm{max}$$)?
    
-14) You're ready to get started! Check out the ["posmlab/Polymers" shared Google Drive](https://drive.google.com/drive/u/0/folders/1uf6qYivyLgra3tIGuRPUnz0IdooQ-D7u){:target="_blank"} (read the README.md files!) and then talk to Mark and the other members of the team about first steps.    
+14) You're ready to get started! See the document [Summer 2022 Materials Team Projects.pdf](https://drive.google.com/file/d/1PmyzhQaRWWjtpzR3JJIHi7sdekjseTWR/view?usp=sharing){:target="_blank"} and then check out the ["posmlab/Polymers" shared Google Drive](https://drive.google.com/drive/u/0/folders/1uf6qYivyLgra3tIGuRPUnz0IdooQ-D7u){:target="_blank"} (read the README.md files!) and then talk to Mark and the other members of the team about first steps.    
    
 ### Robotics Subgroup   
 
