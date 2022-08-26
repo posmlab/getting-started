@@ -60,7 +60,7 @@ Group Accounts:
    Service     |   Name       
 -------- | -------------
 Gmail | physicsofsoftmatter@gmail.com
-Instagram (dormant) | [posm_lab](https://www.instagram.com/posm_lab/){:target="_blank"}
+Instagram | [posm_lab](https://www.instagram.com/posm_lab/){:target="_blank"}
 Squarespace (managed by Mark) | [posmlab.org](https://posmlab.org){:target="_blank"}
 Google Drive | [posmlab shared drive](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf){:target="_blank"}
 Slack | [posmlab.slack.com](https://posmlab.slack.com){:target="_blank"}
