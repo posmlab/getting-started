@@ -196,6 +196,8 @@ The aim of this device was to maximize speed, acceleration, and accuracy while m
 
 The active catching strategy has 4 phases: the approaching phase, the locking phase, the rebounding phase, and the holding phase. This strategy allows the arm to catch objects falling at a higher speed than the maximum speed of the arm.
 
+The device ran into a few problems that were each solved with troubleshooting. First, the fingertips couldn't touch the "optimal grasping points" (aligned along the horizontal center of a sphere), but this was fixed with recalibration. In the rebounding phase, the target would sometimes fall through the fingers, but this did not happen after the stiffness of the fingers was increased. Finally, the object sometimes moved in the wrong direction after impacting the device in the locking phase, but this was attributed to a margin of error due to the coefficients of friction and restitution, which affect the direction a ball bounces.
+
 ##### Figure 7 from Namiki et al. The strategy of the catching mechanism.
 ![Catching Strategy from Namiki et al.](images/handcatching.png)
 
