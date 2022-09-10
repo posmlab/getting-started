@@ -35,7 +35,7 @@ Make sure that you are added to the [posmlab Slack workspace](https://posmlab.sl
 
 The shared [posmlab Google Drive folder](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf){:target="_blank"} is a place to store large files/data.
 
-The ["poslmab/Papers"](https://drive.google.com/open?id=1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} folder is currently where we store pdf files of relevant literature. Please add any new papers here with the naming convention of the first author last nameplace copies of relevant literature in that folder 
+The ["poslmab/Papers"](https://drive.google.com/open?id=1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} folder is currently where we store pdf files of relevant literature. Please add any new papers here with the naming convention below and place copies of relevant literature in that folder. 
 
 Number of authors | Filename Format | Example 
 --------------| --------------- | -------
@@ -237,7 +237,7 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 </details>
 
-10) Read [Cook et al bioRxiv 2020](https://www.biorxiv.org/content/10.1101/2020.12.02.408740v1){:target="_blank"}. This paper presents the simplified LaMSA model that we are currently using in posmmlab. Re-derive the equations of motion in the supplementary information at the end of that paper.
+10) Read [Cook et al Integrartive Organismal Biology 2022](https://academic.oup.com/iob/article-pdf/4/1/obac032/45637152/obac032.pdf){:target="_blank"}. This paper presents the simplified LaMSA model that we are currently using in posmmlab. Re-derive the equations of motion in the supplementary information at the end of that paper.
 
 11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
