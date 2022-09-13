@@ -185,7 +185,7 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
 
 9) Get familiar with the high speed camera. You will want to read the [high speed camera SOP](https://docs.google.com/document/d/1a6HMn0_olo6LFECts4n9g6GOmtI-2Le472ItlCIcWlY/edit){:target="_blank"} (SOP = standard operating procedure, we have lots of these). Use one of the high speed cameras to film something fun! Upload your results to the [posmlab/Fun Videos](https://drive.google.com/drive/folders/1xeGECDXDtNYRt4oEmuorAatNW12mhr7D){:target="_blank"} directory and let others know. We all love watching fun high speed videos. Tanvi's dog drinking water is a fan favorite!
    
-10) Make your first measurement of a robotic jump! You'll want to talk to Tanvi about this in particular. This will require hands-on training from Tanvi.   
+10) Make your first measurement of a robotic jump! You'll want to talk to Amber about this in particular. This will require hands-on training from Amber.   
    
 ### Modeling Subgroup
    
