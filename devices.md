@@ -53,6 +53,14 @@ This system uses a geometric, torque reversal latch and a four bar linkage that 
 [Steinhardt et al PNAS 2021](https://drive.google.com/file/d/12-iNRr78AwC0Tp6isa4Z66x6fyYTLWnN/view?usp=sharing){:target="_blank"}
 
 ### Micro elastomer jumper
+
+This project takes microelectromechanical systems (MEMS) and intergrates elastomers and other compliant materials to increase robustness and reduce wear on microrobots (<1cm). The jumper made here was modelled off of the froghopper which can reach heights 100 times its own size over and over again. Compliant materials found in nature, such as resilin, can undergo much higher strain and deformation than the typical mechanical counterparts, like silicon and metals typically used in microrobotics. One of the main challenges of intergrating new materials like this is the production of parts in such a small scale, as there is no fabrication process developed. 
+
+The jumper developed is made up of two rigid masses, a leg in the centre with a U shaped body surrounding it, which are connected by springs made up of the elastomer. When the body of the jumper is compressed, the springs connecting it to the leg are stretched and store potential energy. When released, the jumper is able to reach average heights of 19.4cm (maximum at 32cm) despite the mechanism only being 4mm long (up to 80 times its own size). The largest jump had an initial velocity of 3m/s and initial kinetic energy of 36μJ. 
+
+Intergrating a jumper system like this into a full microrobot would decrease these numbers significantly, however, it shows merit in intergrating compliant materials at this scale. 
+
+
 [Gerratt and Bergbreiter Smart Mater Struct 2013](https://drive.google.com/open?id=1lLtdhQMT8jIQa2Tt-brgbHMaO9Imt2zi){:target="_blank"}
 
 ### Energetic silicon jumper
