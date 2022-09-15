@@ -95,9 +95,10 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
  </summary>
 
 
-There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore).
+There are 30,000 species of mushroom, yeasts and pathogenic rusts/smuts make use of a surface tension catapult to spread its spores to reproduce (hence the name ballistospore combination of ballistic and spore). Due to fungi's lack of musculature, the evolution of the dispersal devices varies greatly, but all rely on some form of energy build up to compensate. These spore dispersions have over 10,000g of initial acceleration, which is larger than any other known animal or plant. 
 
-The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension (this process is called fusion where the water coalesces just before ejection). Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
+The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61XLYrZkQ6vT2PlwgRzD-ZIDDHwxxYm)) shows that the ejection of the spore occurs when the Buller’s drop (a droplet of water that forms at the base of the spore near the sterigma) combines with a film of water on the spore itself, and releases the energy stored in its surface tension (this process is called fusion where the water coalesces just before ejection). The drop and the water collected on the surface contain certain sugars and polyhydric alcohols to cause partial hydrophobicity. This prevents the collapse until the drop has reached a critical size to allow for proper dispersion. Figure 1 shows the images taken at high speed of the process taking place. Figure 2 depicts the mechanism that drives the process.
+   
 
 ![Figure 1](images/ballistospore-surface-tension-catapult.png)
 **Figure 1:** 
