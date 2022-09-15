@@ -111,6 +111,8 @@ The Paper ([Pringle et al. Mycologia 2005](https://drive.google.com/open?id=1l61
 ***B.*** *Buller’s drop touches the side of the spore and merges with the fluid, releasing the tension, causing an upward movement, and a downward force on the sterigma and a bit of rotation. This mechanism mimics how we jump as a downward force is applied before release to cause the system to propell itself upwards.* 
 ***C.*** *Once the Buller’s drop reaches the tip of the spore it stops abruptly due to surface tension preventing it from leaving the spore. This causes the spore to be shot upward along with the droplet.*
 
+There are two different sources of momentum for the spore from the Buller's drop. The first is the initial coalescence causing a downward force and rotation, releasing the initial built up surface tension. And the second, which is the much more significant aspect, is that the drop then travels up the spore gaining momentum until the very top of the spore. When it reaches the top, the surface tension stops the drop and it pulls the spore forward with the drop's momentum causing a catapult effect.  
+
 #### To see the action check out the following videos:
 
 > + [High-speed video of ballistospore flight](https://www.youtube.com/watch?v=GZLM1ouhW1Y)
