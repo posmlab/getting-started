@@ -88,7 +88,7 @@ Wikipedia has a good description of nematocytes in the section on [Cnidocytes](h
  
  </details>
 
-## Fungi
+## Funguy
 <details open>
 <summary> 
    Ballistospore ejection 
