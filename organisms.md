@@ -522,13 +522,24 @@ For more information see: [Longo et al RSPB 2018](https://drive.google.com/file/
 </details>
    
  ## Dracula Ant
-
 <details open>
-   <summary>
-   Snap jaw
+<summary> Snap jaw
    </summary>
    
+ The Dracula Ant’s snap-jaw mandibles are used to hunt prey as well as for defensive purposes. Snap-jaws are a kind of power-amplified appendage as well as the fastest known animal appendage. Dracula Ants use their mandibles by sliding them together, which is similar to snapping fingers. The mandible that slides over the other mandible moves first, making the movement of the mandibles asynchronous. During this movement the mandible reaches peak velocity approximately halfway through its path. Unlike other accelerating appendages, the snap jaw includes the latch and spring in the accelerating mandible, instead of them being different parts. Dracula Ant’s are also known as the genus Mystrium, and in this genus the head and body size of species varies, which makes it convenient to test how the size of the mandibles affects the motion.
+ 
+<img src = "![DraculaAnt](https://user-images.githubusercontent.com/35015965/193925307-59d0eec9-473e-4f82-8ad0-d79c1a459112.png)" width = "750">
+   
+ ##### Fig. 1 Image of Dracula Ant (a) and Dracula Ant mandibles (b & c) from [Larabee et RSOS 2018](https://drive.google.com/file/d/19IIvtwCn1L8WW9OmCpXUaSGpxv4GWSAw/view?usp=sharing). 
 
+| Kinematic Metric | Dracula Ant Performance |
+| -------- | ------- |
+| Duration | 23 microseconds |
+| Max. Velocity | 90 m/s |
+ 
+### Works Cited:
+[1]  [Larabee et RSOS 2018](https://drive.google.com/file/d/19IIvtwCn1L8WW9OmCpXUaSGpxv4GWSAw/view?usp=sharing)
+   
 ## Nematode
 <details open>
 <summary> Jump 
@@ -550,3 +561,6 @@ The nematode stores energy by contracting a loop made with its body (see in Fig 
 
 ### WorksCited:
 [1]  [Campbell and Kaya Can. J. Zool. 1999](https://drive.google.com/file/d/13Ciqbp6GRjsQdF5TbV41whvi3Ad4yIbT/view?usp=sharing)
+
+                 
+               
