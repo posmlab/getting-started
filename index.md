@@ -239,7 +239,7 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 
 10) Read [Cook et al Integrartive Organismal Biology 2022](https://academic.oup.com/iob/article-pdf/4/1/obac032/45637152/obac032.pdf){:target="_blank"}. This paper presents the simplified LaMSA model that we are currently using in posmmlab. Re-derive the equations of motion in the supplementary information at the end of that paper.
 
-11) Download our [MATLAB LaMSA Model Software](https://posmlab.github.io/matlab-lamsa-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
+11) Download our [MATLAB LaMSA Template Model Software](https://posmlab.github.io/lamsa-template-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
 
 12) Read more about [muscle modeling](MuscleModeling){:target="_blank"} to understand how muscle motors are implemented in the MATLAB LaMSA Model.
    
