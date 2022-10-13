@@ -194,7 +194,30 @@ Image of 7g Jumping Robot from
  For further reading, [Kovac et al IEEE 2008](https://drive.google.com/open?id=13YTO5TTnOkXzwpymIFafRse-I0hbXCDk) has more details about the 7g jumping robot.
 
 ### JPL hopper
-[Burdick and Fiorini Int J Robot Res 2003](https://drive.google.com/open?id=1RDAN-QERuIzK9G48AAmUMkePTsg68OTL)
+As exploratory missions to celestial bodies become increasingly common, the debate surrounding the best way to design the robotic systems sent to explore these bodies, too, becomes more common in the world of planetary exploration. Both wheeled robots and legged robots have their limitations, most notably the probem of terrain accessibility. 
+
+In lower-gravity environments, jumping/hopping robots that can overcome large obstacles may realistically replace wheeled and legged vechiles. (Jumping vehicles are useful in this way, assuming that they can survive the landing following a jump. In reduced-gravity environments, the efficiency of jumping increases.)
+
+To test this theory, researchers with JPL (Caltech/NASA) have built three "generations" of a hopper robot that can operate in a wide variety of terrains. All three generations are detailed here:
+[Burdick and Fiorini Int J Robot Res 2003](https://drive.google.com/open?id=1RDAN-QERuIzK9G48AAmUMkePTsg68OTL).
+
+The minimalist hopping operational cycle performed by the first generation design is broken down as follows:
+> + (1) orient body in desired direction, in preparation for take-off;
+> + (2) adjust hopping parameters;
+> + (3) thrust (release stored energy);
+> + (4) free flight;
+> + (5) crash-land;
+> + (6) self-right the mechanism after landing;
+> + (7) acquire images using camera;
+> + (8) deploy any necessary scientific instruments;
+> + (9) recharge thrusting mechanism.
+
+The first generation of the JPL hopper had three primary problems with: (1) hopping; (2) steering; and (3) self-righting. The second generation design attempted to address these three issues. The figure below is a schematic diagram of the energy storage and thrusting mechanism in the second generation design.
+
+![JPL 2nd Gen. Energy Storage Mechanism](images/2nd_gen_energy.png)
+
+This is a geared six-bar spring/linkage mechanism, and through the linkage, displacements in the y-direction induce displacements in the linear spring along the x-direction. In other words, the mechanism uses a linear spring to create a non-linear spring. This mechanism essentially solved the problems with inefficient hopping seen in the first generation. To see details on the third generation of the JPL hopper, as well as the concept schematics for a fourth generation, again visit [Burdick and Fiorini Int J Robot Res 2003](https://drive.google.com/open?id=1RDAN-QERuIzK9G48AAmUMkePTsg68OTL).
+
 
 ### High-speed fingered hand
 
