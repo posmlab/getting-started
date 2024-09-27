@@ -314,3 +314,11 @@ Mowgli is a motor-controlled biped robot designed for jumping and landing. Mowgl
 
 [Niiyama et al IEEE 2007](https://drive.google.com/open?id=12cTxWiK3cYqswlMm9cqM8sM4KdUn2Jvx)
 
+
+### Spine-inspired high-speed and high-force soft robots
+
+The bistable hybrid soft actuator presented here is constructed by combining spring-based bistable linkages as a “skeletal spine” and soft pneumatic bending actuators as “skeletal muscle” (Fig. 1B). It harnesses a rapid, switchable snap-through instability between two stable states that are actuated by soft pneumatic bending actuators. The mechanical energy of our actuator is stored in a linear spring connected to the linkage-based spine, which can be tuned from low to high energy storage capacity through simple spring pretension or springs with different stiffness. This spring in soft actuators acts as a force amplifier. It substantially enlarges not only the actuation speed and force but also the design space for stiffness modulation through tunable snap-through instabilities. We first study the design principle of a bistable hybrid soft actuator and characterize its actuation response. We develop an energy-based theoretical model to understand its nonlinear behavior, including the relationship among design parameters (e.g., spring stiffness and pretension length), control inputs (pneumatic actuation pressure), and outputs (including force, bending angle, and energy barrier). We then examine its amplified mechanical performance in both response time and force output through bistability. Last, we explore the simplicity of using the tunable bistable mechanism for applications ranging from high-speed terrestrial and aquatic locomotion to high-force
+grasping.
+
+
+
