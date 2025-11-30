@@ -31,16 +31,24 @@ The Github platform uses Markdown to style text. This [Markdown Guide](https://g
 
 -->
 
+### Discord
+We use Discord to communicate as a whole team in the summer when we are working full time. During the academic year, email is a bettter way to communicate because the team is usually working asyncrhonously. But when you are actively working on a posmlab project, try to get in the habit of logging into Discord. 
 
+Here's a link to join the [posmlab Discord server](https://discord.gg/Uf8GjubHC8){:target="_blank"}.
 
+<!--
 #### Slack
 We use Slack to communicate as a whole team.  (especially in the summer when we are working full time). When you are actively working on a posmlab project, try to get in the habit of logging into Slack. 
 
 Make sure that you are added to the [posmlab Slack workspace](https://posmlab.slack.com){:target="_blank"}.
 
+-->
+
 #### Google Drive
 
-The shared [posmlab Google Drive folder](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf){:target="_blank"} is a place to store large files/data.
+The [posmlab Shared Google Drive](https://drive.google.com/drive/folders/0AIWxUbJacLmEUk9PVA){:target="_blank"} 
+
+[posmlab Google Drive folder](https://drive.google.com/open?id=1HxL1mvqemhXWwuLllHtH9DN2VYXCkKgf){:target="_blank"} is a place to store large files/data.
 
 The ["poslmab/Papers"](https://drive.google.com/open?id=1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} folder is currently where we store pdf files of relevant literature. Please add any new papers here with the naming convention below and place copies of relevant literature in that folder. 
 
