@@ -5,7 +5,7 @@ Welcome to PoSMLab! Here you will find an introduction to our group and useful o
 
 ## Onboarding Logistics
 
-<details open>
+<details>
 <summary markdown='span'>Logistical details if you want to get started in PoSMLab (expand/collapse)</summary>
 
 ### General Logistics
@@ -21,7 +21,7 @@ If you are relatively new to MATLAB, a good place to start is the two-hour [MATL
 
 #### Github
 
-We are starting to use Github to organize and collaborate on projects (even ones that aren't heavy on coding). If you haven't done so already, [create a Github account](https://github.com/join){:target="_blank"} and let Mark know your username so you can be added to the [posmlab organization on Github](https://github.com/posmlab){:target="_blank"}.
+We sometimes use Github to organize and collaborate on projects (even ones that aren't neccessarily heavy on coding). If you haven't done so already, [create a Github account](https://github.com/join){:target="_blank"} and let Mark know your username so you can be added to the [posmlab organization on Github](https://github.com/posmlab){:target="_blank"}.
 
 If you haven't used Github before, install the [Github Desktop App](https://desktop.github.com/){:target="_blank"} to help step you through the actions.
 
@@ -65,9 +65,8 @@ Once saved in Google Drive, you can right click on the document and "Get shareab
 When starting remind Mark that he needs to:
 - Enable swipe access to the Lab in Galileo B101 (he needs your Student ID Number so he can fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSd_ZfhmSiPN566x26YyP1rT3-csjoCd-qcJXw094bjZ1R4T4w/viewform){:target="_blank"}
 - give you passwords to group accounts
-- give you a lab notebook
-- share access to the posmlab Google Drive Folder
-- invite you to the posmlab Slack workspace 
+- give you a lab notebook if you prefer a physical notebook
+- add you to the posmlab Google Group (which gives access to the posmlab Google Drive)
 - to add you to the posmlab Github organization (he needs your Github username to do this)
 
 Group Accounts:
@@ -81,6 +80,7 @@ Google Drive | [posmlab shared drive](https://drive.google.com/open?id=1HxL1mvqe
 Slack | [posmlab.slack.com](https://posmlab.slack.com){:target="_blank"}
 Github | [github.com/posmlab](https://github.com/posmlab){:target="_blank"}
 
+<!--
 
 ### Other (less important) off-campus logistics
 
@@ -103,6 +103,7 @@ You will need a [Remote Desktop Client](https://docs.microsoft.com/en-us/windows
 
 Ask Mark for the username and passwords.
 
+-->
 
 ------------------------------------------
 
@@ -174,7 +175,18 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
 + [Modeling Subgroup](#modeling-subgroup)
    
 ### Materials Subgroup
-   
+
+7) Read Chapters 1-3 of Gosline [Mechanical Design of Structural Materials in Animals](https://drive.google.com/file/d/10_vdQRDlj0rS3lGyFIxOQ9HLdfE9035t/view?usp=drive_link){:target="_blank"}.
+
+8) Read Section 6.1 of Brinson and Brinson [Polymer Engineering Science and Viscoelasticity](https://drive.google.com/file/d/1tlbClXoKlhQtDREEZJLO5IKM-3g02unB/view?usp=sharing){:target="_blank"}.
+
+9) Recoil papers
+
+[Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH){:target="_blank"}
+[Zheng et al unpublished](https://drive.google.com/file/d/1eUu5gYKJsfgGAg9ITto2MW3cfTMhUhIK/view?usp=drive_link){:target="_blank"}
+
+
+<!--
 7) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/){:target="_blank"} and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/){:target="_blank"} and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material){:target="_blank"}.
 
 8) Arrange a time with Mark to talk through [spring properties (part 1)](https://docs.google.com/presentation/d/1n1HUjdAjSy1GP-t4P86HvApr71ChQSfS/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}. (about 1 hour)
@@ -190,6 +202,8 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
 13) Read [Vatankhah-Varnosfaderani et al Nature 2017](https://drive.google.com/file/d/1EcsTAYd76MGRhA0x0FTvUJVXCV_v4u1R/view?usp=sharing){:target="_blank"}. What is the "biological triangle"? What network parameters do they modify? How do these parameters affect the material properties ($$E$$, $$\lambda_\mathrm{max}$$)?
    
 14) You're ready to get started! See the document [Summer 2022 Materials Team Projects.pdf](https://drive.google.com/file/d/1PmyzhQaRWWjtpzR3JJIHi7sdekjseTWR/view?usp=sharing){:target="_blank"} and then check out the ["posmlab/Polymers" shared Google Drive](https://drive.google.com/drive/u/0/folders/1uf6qYivyLgra3tIGuRPUnz0IdooQ-D7u){:target="_blank"} (read the README.md files!) and then talk to Mark and the other members of the team about first steps.    
+
+-->
    
 ### Robotics Subgroup   
 
