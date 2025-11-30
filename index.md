@@ -178,14 +178,25 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
 
 7) Read Chapters 1-3 of Gosline [Mechanical Design of Structural Materials in Animals](https://drive.google.com/file/d/10_vdQRDlj0rS3lGyFIxOQ9HLdfE9035t/view?usp=drive_link){:target="_blank"}.
 
+After chapter 2, do a measurement of stress-strain for a rubber material on ELLA. https://docs.google.com/document/d/147oCsNJrbAPl2sZjDC3pIhCg4dQ4eqpxUtKVTgz7GvY/edit?usp=drive_link
+
+
+
 8) Read Section 6.1 of Brinson and Brinson [Polymer Engineering Science and Viscoelasticity](https://drive.google.com/file/d/1tlbClXoKlhQtDREEZJLO5IKM-3g02unB/view?usp=sharing){:target="_blank"}.
 
 9) Recoil papers
 
-[Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH){:target="_blank"}
+[Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH){:target="_blank"} <br>
+
 [Zheng et al unpublished](https://drive.google.com/file/d/1eUu5gYKJsfgGAg9ITto2MW3cfTMhUhIK/view?usp=drive_link){:target="_blank"}
 
 
+10) [RSA G2 DMA (Dr. Wobbles) SOP](https://docs.google.com/document/d/1FHzh0AiYrwB2nB8Ke5EPXxviNQ6doZtTF_sSO4p9q40/edit?usp=drive_link){:target="_blank"}. 
+
+
+11) Read senior thesis [Martin Gonzalez](https://drive.google.com/file/d/1PBz2mY1wNVr84FQzkisqz3Q_GyFotCk9/view?usp=drive_link){:target="_blank"} and [Anita Chen](https://drive.google.com/file/d/1PfF3fly-35h8KV_IumKcAB_ayzSiodCL/view?usp=drive_link){:target="_blank"}
+
+12) 
 <!--
 7) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/){:target="_blank"} and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/){:target="_blank"} and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material){:target="_blank"}.
 
