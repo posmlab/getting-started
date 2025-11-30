@@ -16,6 +16,9 @@ Most of our analysis and simulation code is written in MATLAB. If you don't have
 
 If you are relatively new to MATLAB, a good place to start is the two-hour [MATLAB onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html){:target="_blank"} course. If you're looking for some more advanced topics, you could also check out the [MATLAB ordinary differential equation course](https://matlabacademy.mathworks.com/R2021a/portal.html?course=odes){:target="_blank"} that is helpful for some of our simulation work.
 
+
+<!--
+
 #### Github
 
 We are starting to use Github to organize and collaborate on projects (even ones that aren't heavy on coding). If you haven't done so already, [create a Github account](https://github.com/join){:target="_blank"} and let Mark know your username so you can be added to the [posmlab organization on Github](https://github.com/posmlab){:target="_blank"}.
@@ -25,6 +28,10 @@ If you haven't used Github before, install the [Github Desktop App](https://desk
 *Note for Github pros*: for most of our repositories we use a [Centralized Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#centralized-workflow){:target="_blank"} and make commits directly to main/master. 
 
 The Github platform uses Markdown to style text. This [Markdown Guide](https://guides.github.com/features/mastering-markdown/){:target="_blank"} is helpful if you're new to using Markdown.
+
+-->
+
+
 
 #### Slack
 We use Slack to communicate as a whole team.  (especially in the summer when we are working full time). When you are actively working on a posmlab project, try to get in the habit of logging into Slack. 
