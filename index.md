@@ -2,7 +2,6 @@
 
 Welcome to PoSMLab! Here you will find an introduction to our group and useful onboarding information.
 
-
 ## Onboarding Logistics
 
 <details>
@@ -170,125 +169,10 @@ With the logistics out of the way, let's dig into the research topics we study! 
 
 Your next steps depend on what are of posmlab you are joining (ask Mark if you're unsure!):
    
-+ [Materials Subgroup](#materials-subgroup)
-+ [Robotics Subgroup](#robotics-subgroup)
-+ [Modeling Subgroup](#modeling-subgroup)
++ [Materials Subgroup](pages/materials_subgroup/index.md)
++ [Robotics Subgroup](pages/robotics_subgroup/index.md)
++ [Modeling Subgroup](pages/modeling_subgroup/index.md)
 + [Recoil Subgroup](pages/recoil_subgroup/index.md)
-   
-### Materials Subgroup
-
-7) Read Chapters 1-3 of Gosline [Mechanical Design of Structural Materials in Animals](https://drive.google.com/file/d/10_vdQRDlj0rS3lGyFIxOQ9HLdfE9035t/view?usp=drive_link){:target="_blank"}.
-
-After chapter 2, do a measurement of stress-strain for a rubber material on ELLA. https://docs.google.com/document/d/147oCsNJrbAPl2sZjDC3pIhCg4dQ4eqpxUtKVTgz7GvY/edit?usp=drive_link
-
-
-
-8) Read Section 6.1 of Brinson and Brinson [Polymer Engineering Science and Viscoelasticity](https://drive.google.com/file/d/1tlbClXoKlhQtDREEZJLO5IKM-3g02unB/view?usp=sharing){:target="_blank"}.
-
-9) Recoil papers
-
-[Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH){:target="_blank"} <br>
-
-[Zheng et al unpublished](https://drive.google.com/file/d/1eUu5gYKJsfgGAg9ITto2MW3cfTMhUhIK/view?usp=drive_link){:target="_blank"}
-
-
-10) [RSA G2 DMA (Dr. Wobbles) SOP](https://docs.google.com/document/d/1FHzh0AiYrwB2nB8Ke5EPXxviNQ6doZtTF_sSO4p9q40/edit?usp=drive_link){:target="_blank"}. 
-
-
-11) Read senior thesis [Martin Gonzalez](https://drive.google.com/file/d/1PBz2mY1wNVr84FQzkisqz3Q_GyFotCk9/view?usp=drive_link){:target="_blank"} and [Anita Chen](https://drive.google.com/file/d/1PfF3fly-35h8KV_IumKcAB_ayzSiodCL/view?usp=drive_link){:target="_blank"}
-
-12) 
-<!--
-7) Review concepts of [stress](http://www.bu.edu/moss/mechanics-of-materials-stress/){:target="_blank"} and [strain](http://www.bu.edu/moss/mechanics-of-materials-strain/){:target="_blank"} and how [the Young's modulus of a material relates to the spring constant in Hooke's law](https://en.wikipedia.org/wiki/Young%27s_modulus#Force_exerted_by_stretched_or_contracted_material){:target="_blank"}.
-
-8) Arrange a time with Mark to talk through [spring properties (part 1)](https://docs.google.com/presentation/d/1n1HUjdAjSy1GP-t4P86HvApr71ChQSfS/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"}. (about 1 hour)
-
-9) Derive $$v_{to}$$, $$a_{max}$$, $$\Delta t$$, and $$P_{max}$$ as a function of $$E$$, $$A$$, $$L$$, $$\rho$$, and $$\epsilon$$ for uniaxial extension.
-
-10) Talk through [spring properties (part 2)](https://docs.google.com/presentation/d/1K-sRqHWo3ziU-8JE6IGk42FJko2mrgy4/edit?usp=sharing&ouid=117002842337913012603&rtpof=true&sd=true){:target="_blank"} with Mark.
-
-11) Read [Ilton et al Soft Matter 2019](https://drive.google.com/open?id=1JqIExEjKSnNvUTXbwbuuDWvhPSdExkBH){:target="_blank"}. What are some possible next directions that follow up on this work?
-
-12) Read [Cai et al Advanced Materials 2015](https://drive.google.com/file/d/1YENhIjazOTPYznWJj_VvleGRE-jP0KZH/view?usp=sharing){:target="_blank"}. What are some advantages and unique features of this chemistry/architecture? In case you need it, here is the [supplementary info to Cai et al](https://drive.google.com/file/d/1PFiFY4mpcAAdu_zScXkGt_d533sIo-PR/view?usp=sharing){:target="_blank"}.
-   
-13) Read [Vatankhah-Varnosfaderani et al Nature 2017](https://drive.google.com/file/d/1EcsTAYd76MGRhA0x0FTvUJVXCV_v4u1R/view?usp=sharing){:target="_blank"}. What is the "biological triangle"? What network parameters do they modify? How do these parameters affect the material properties ($$E$$, $$\lambda_\mathrm{max}$$)?
-   
-14) You're ready to get started! See the document [Summer 2022 Materials Team Projects.pdf](https://drive.google.com/file/d/1PmyzhQaRWWjtpzR3JJIHi7sdekjseTWR/view?usp=sharing){:target="_blank"} and then check out the ["posmlab/Polymers" shared Google Drive](https://drive.google.com/drive/u/0/folders/1uf6qYivyLgra3tIGuRPUnz0IdooQ-D7u){:target="_blank"} (read the README.md files!) and then talk to Mark and the other members of the team about first steps.    
-
--->
-   
-### Robotics Subgroup   
-
-  
-7) Read [Aguilar et al Rep Prog Phys 2016](https://drive.google.com/file/d/1-JkoZac-pzqFcrZNRave8A9AVl9Zcol5/view?usp=sharing){:target="_blank"} (warning: it's long!). Choose one specific aspect from this paper you find particularly interesting and prepare a short 5-10 minute journal-club style presentation on the topic for the rest of the group. 
-
-8) Read [Divi et al Royal Society Interface 2020](https://drive.google.com/file/d/1QV2ydrWp9MuVviCPcq15tr0HggXNUoa8/view?usp=sharing){:target="_blank"}. What does a rounded latch enable? What are some trade-offs?
-
-9) Get familiar with the high speed camera. You will want to read the [high speed camera SOP](https://docs.google.com/document/d/1a6HMn0_olo6LFECts4n9g6GOmtI-2Le472ItlCIcWlY/edit){:target="_blank"} (SOP = standard operating procedure, we have lots of these). Use one of the high speed cameras to film something fun! Upload your results to the [posmlab/Fun Videos](https://drive.google.com/drive/folders/1xeGECDXDtNYRt4oEmuorAatNW12mhr7D){:target="_blank"} directory and let others know. We all love watching fun high speed videos. Tanvi's dog drinking water is a fan favorite!
-   
-10) Make your first measurement of a robotic jump! You'll want to talk to Amber about this in particular. This will require hands-on training from Amber.   
-   
-### Modeling Subgroup
-   
-7) Motor Model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off 
-
-$$F = F_{max}(1-v/v_{max})$$. 
-
-Here $$F_{max}$$ and $$v_{max}$$ are the motor's maximum force and velocity, respectively. Do this for $$F_{max} = 20$$ N, $$v_{max} = 5$$ m/s, and $$d = 5$$ mm.
-  
-<details>
-<summary markdown='span'>Hint 1</summary>
-
-Start with Newton's second law $$m \frac{dv}{dt} = F_{max}(1-v/v_{max})$$
-
-</details>
-
-<details>
-<summary markdown='span'>Hint 2 </summary>
-
-You should end up with a transcendental equation, so you will need to use a numerical approach. 
-
-</details>
-
-<details>
-<summary markdown='span'>Solution</summary>
-
-See [motor-driven-motion.pdf](motor-driven-motion/motor-driven-motion.pdf){:target="_blank"} for a mathematical derivation and [motordrivenmotion.m](motor-driven-motion/motordrivenmotion.m){:target="_blank"} for an implementation of the numerial solution in MATLAB.
-
-You should end up with a graph that looks like:
-![motor-drirven-motion.png](motor-driven-motion/motor-driven-motion.png)
-
-</details>
-
-8) Spring Model: Derive the take-off velocity $$v_{to}$$ for a mass $$m$$ that starts at rest and is driven by a spring of stiffness $$k$$. The spring is loaded by the same motor as the one in the "Motor Model" above. As an added bonus, what are the maximum acceleration ($$a_{max}$$), launch duration ($$\Delta t$$) (sometimes referred to as take-off time $$t_{to}$$), and maximum power deliver to the mass ($$P_{max}$$). Remember $$P(t) = F(t)\,v(t) = m \,a(t)\, v(t)$$. 
-
-9) How would the Spring Model change if the spring had a mass $$m_s$$? 
-
-<details>
-<summary markdown='span'>Hint</summary>
-
-Consider the simplified case where the spring mass is much smaller than the load mass ($$m_s << m$$), so that the strain is uniform in the spring throughout the entire release. What is the velocity of each segment of the spring as a function of the velocity of the end of the spring? Conserve total energy (including kinetic energy from both the load mass and the spring mass) to get the take-off velocity
-
-</details>
-
-<details>
-<summary markdown='span'>Answer</summary>
-
-The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{eff} = m + m_s/3$$. See [this note](Springmasscontribution.pdf) for a rough sketch of the argument. If you come up with a more fully explained solution, be sure too edit this document and add your contribution!
-
-</details>
-
-10) Read [Cook et al Integrartive Organismal Biology 2022](https://academic.oup.com/iob/article-pdf/4/1/obac032/45637152/obac032.pdf){:target="_blank"}. This paper presents the simplified LaMSA model that we are currently using in posmmlab. Re-derive the equations of motion in the supplementary information at the end of that paper.
-
-11) Download our [MATLAB LaMSA Template Model Software](https://posmlab.github.io/lamsa-template-model/){:target="_blank"}. Get the model to run on your computer, and start to play around with the components and parameters. Reproduce Figure 4A of [Ilton et al Science 2018](https://drive.google.com/drive/u/0/folders/1xL2xKtIF53JZkphJZ3PyK3RLj6TUwCBH){:target="_blank"} using the software.
-
-12) Read more about [muscle modeling](MuscleModeling){:target="_blank"} to understand how muscle motors are implemented in the MATLAB LaMSA Model.
-   
-13) To understand how we use our MATLAB LaMSA Model to answer questions in biology, watch Prof. [Phil Anderson's 2022 SICB talk](https://drive.google.com/file/d/1Dj4MvMZeqiALX5iHjqrTwP3cui3K3rqP/view?usp=sharing){:target="_blank"}
-
-14) If you are working on larval mantis shrimp modeling, watch [Jacob Harrison's 2022 SICB talk](https://drive.google.com/file/d/1Dl48QgxQS8QxSCjXUHHZW-JSlU1x7Ezp/view?usp=sharing){:target="_blank"}
-
-15) For an overview of current projects, see the [Summer 2022 Modeling directory](https://drive.google.com/drive/u/0/folders/1PvuxRRX3qj0vFsGm9evReVvs94iv2nY_){:target="_blank"} 
 
 -------------
 
