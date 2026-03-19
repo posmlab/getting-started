@@ -173,6 +173,7 @@ Your next steps depend on what are of posmlab you are joining (ask Mark if you'r
 + [Materials Subgroup](#materials-subgroup)
 + [Robotics Subgroup](#robotics-subgroup)
 + [Modeling Subgroup](#modeling-subgroup)
++ [Recoil Subgroup](/pages/recoil%20subgroup/index.md)
    
 ### Materials Subgroup
 
