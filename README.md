@@ -11,4 +11,4 @@ To add to the Bioinspired Microrobotic Devices list, add your text to `devices.m
 
 If you want a link to open in a new tab add `{:target="_blank"}` to your links. So `[check out this link](https://google.com)` opens in the same tab, while `[check out this link](https://google.com){:target="_blank"}` opens in a new tab.
 
-Here's a `[link](https://posmlab.github.io/)` to the actual website
+Here's the linkto the actual website: https://posmlab.github.io/

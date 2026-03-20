@@ -2,6 +2,20 @@
 
 This is the page about the Modeling Subgroup. Everything you want to know about how we predict the behvaior of materials using code.
 
+## Motivation
+
+How can we predict the motion of objects of known material? This is an obvious question, but one that gets increasingly interesting when we take "motion" to extremes such as high-speed or large deformation. Take the following slinky, and try to think through why it acts like that.
+
+![cool slinky](slinky.gif)
+
+We can and should take inspiration from the actual physical process when choosing what approximations to take in our model. For example, it clearly takes time for the bottom of the slinky to realize that it's been dropped. If we were modeling this system, we should be sure to take an approach that encodes something like a "speed of information" in the material. In fact, this exact thought process underpins the analysis we've done.
+
+The problem our modeling sets out to solve assumes that we've already characterized the material (see the [materials subgroup](../materials_subgroup/index.md) for more info on that). We then make informed decisions about which theoretical model we want to use to answer relevant questions, and implement that computationally. 
+
+In practice, the characterization techniques are informed by the physical situation we wish to simulate and our choice of model. Oftentimes the actual research is an iterative process of characterizing, theory, and computation.
+
+## Self-Study Questions
+
 1) Motor Model: Derive the take-off velocity for a mass $$m$$ that starts at rest and is driven by a motor that has a range of motion $$d$$ and a force-velocity trade-off 
 
 $$F = F_{max}(1-v/v_{max})$$. 
@@ -46,7 +60,7 @@ Consider the simplified case where the spring mass is much smaller than the load
 <details>
 <summary markdown='span'>Answer</summary>
 
-The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{eff} = m + m_s/3$$. See [this note](Springmasscontribution.pdf) for a rough sketch of the argument. If you come up with a more fully explained solution, be sure too edit this document and add your contribution!
+The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{eff} = m + m_s/3$$. See [this note](Springmasscontribution.pdf) for a rough sketch of the argument. If you come up with a more fully explained solution, be sure to edit this document and add your contribution!
 
 </details>
 
