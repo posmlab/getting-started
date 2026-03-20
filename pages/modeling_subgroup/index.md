@@ -16,7 +16,7 @@ In practice, the characterization techniques are informed by the physical situat
 
 # Big Concepts
 
-## LaMSA systems. 
+## LaMSA systems 
 
 LaMSA (Latch-Mediated Spring Actuated) systems are one such model developed in part by Prof. Ilton. They help to model systems that can store lots of power and release that power quickly. Here's some steps you can take to learn more. (sorry I don't know more about this. Someone with more expertise update)
 
