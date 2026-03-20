@@ -168,7 +168,11 @@ With the logistics out of the way, let's dig into the research topics we study! 
 
 
 Your next steps depend on what are of posmlab you are joining (ask Mark if you're unsure!):
-   
+
+### Lab Subgroups
+
+Each subgroup represents a different facet of our lab. It's common for students to move between subgroups over the course of their time in the lab. Take a look at whatever you're interested in!
+ 
 + [Materials Subgroup](pages/materials_subgroup/index.md)
 + [Robotics Subgroup](pages/robotics_subgroup/index.md)
 + [Modeling Subgroup](pages/modeling_subgroup/index.md)
