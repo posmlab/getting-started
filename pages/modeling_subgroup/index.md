@@ -99,3 +99,5 @@ The answer is the same, but mass $$m$$ gets replaced by an effective mass $$m_{e
 2) If you are working on larval mantis shrimp modeling, watch [Jacob Harrison's 2022 SICB talk](https://drive.google.com/file/d/1Dl48QgxQS8QxSCjXUHHZW-JSlU1x7Ezp/view?usp=sharing){:target="_blank"}
 
 3) For an overview of current projects, see the [Summer 2022 Modeling directory](https://drive.google.com/drive/u/0/folders/1PvuxRRX3qj0vFsGm9evReVvs94iv2nY_){:target="_blank"} (outdated)
+
+<!-- add another page that walks through simulate_experiment.m -->
