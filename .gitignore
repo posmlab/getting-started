@@ -3,3 +3,7 @@
 
 # ignore videos direcotry
 /videos/
+
+# OS files
+.DS_Store
+Thumbs.db
