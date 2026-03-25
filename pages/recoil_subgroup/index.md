@@ -8,11 +8,11 @@ This is the page about the Recoil Subgroup. Everything you want to know about EL
 
 Fast moving systems are hard to measure. This is especially true for fast moving biological systems, which are often small (like on the cell level) or involve working with live animals. A very real approach to understand such systems is to run similar experiments on larger systems and scale down the results. We developed ELLA for exactly these experiments.
 
-(insert picture of ELLA, with red circles so the next paragraph can refer to them)
+![rough picture of ELLA](images/ELLA.jpg)
 
-ELLA is a programmable translation stage/force sensor that allows us to measure force as a function of position and time. It is also equipped with a pneumatic clamp to quickly release a sample, letting it recoil. This recoiling is usually filmed with a slow-mo camera, so we can get even more detailed information about the recoil process. Combining slow-mo footage with measured force data into one coherent picture is a complex process, but it results in some awesome graphs.
+ELLA is a programmable translation stage/force sensor that allows us to measure force as a function of position and time. It is also equipped with a pneumatic clamp to quickly release a sample, letting it recoil. This recoiling is usually filmed with a slow-mo camera, so we can get even more detailed information about the recoil process. Combining slow-mo footage with measured force data into one coherent picture is a complex process, but it results in some awesome visuals.
 
-(include a final_animation gif)
+![375finalanimation](images/finalTrim_animation.gif)
 
 # The Devil is in the Details
 
@@ -37,13 +37,13 @@ ELLA is programmable. This means you can give it instructions to execute your ex
 
 (picture of ELLA GUI)
 
-To look at the internals of a Matlab app, open matlab and click "app designer" in the top left. You should be able to open the (ella matlab app file name) and see what code is running in there. <u> we trust this code. please don't change it. </u>.
+To look at the internals of a Matlab app, open matlab and click "app designer" in the top left. You should be able to open the (ella matlab app file name) and see what code is running in there. <b><u> we trust this code. please don't change it. </u></b>
 
 ## What Happens During an Experiment?
 
-Once a sample is prepared, you load it into ELLA. To standardize viscoelastic conditions before data taking (and to account for the [Mullins effect](https://en.wikipedia.org/wiki/Mullins_effect)) we usually "warm up" the material by doing a couple cycles of stretching and unstretching. This has the added benefit of helping us understand the slow speed behaviors of our material. We usually end by stretching the material out to a high strain, usually 1.5x-2x its rest length.
+Once a sample is prepared, you load it into ELLA. To standardize viscoelastic conditions before data taking (and to account for the [Mullins effect](https://en.wikipedia.org/wiki/Mullins_effect)) we usually "warm up" the material by doing a couple cycles of stretching and unstretching. This has the added benefit of helping us understand the slow speed behaviors of our material. We end by stretching the material out to the desired strain for a recoil experiment, usually 1.5x-2x its rest length.
 
-Once we have the sample stretched out, we release the bottom via ELLA's pneumatic clamp. The high-speed camera and force sensor work together to collect data on this process.
+Once we have the sample stretched out, we release the bottom via ELLA's pneumatic clamp. The high-speed camera and force sensor work together to collect data during this process.
 
 At the end of the experiment, ELLA's code will spit out a bunch of files. These contain information on the loading/unloading cycles, force data during recoil, and camera footage. Also included are files with experiment information (e.g. length, width, material, initial strain, added mass).
 
