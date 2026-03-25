@@ -4,7 +4,7 @@ This is the page about the Recoil Subgroup. Everything you want to know about EL
 
 ## Motivation
 
-(frog with metal balls jumping gif)
+![frogwithballs](images/frogswithballs.gif)
 
 Fast moving systems are hard to measure. This is especially true for fast moving biological systems, which are often small (like on the cell level) or involve working with live animals. A very real approach to understand such systems is to run similar experiments on larger systems and scale down the results. We developed ELLA for exactly these experiments.
 
