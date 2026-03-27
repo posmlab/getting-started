@@ -32,6 +32,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <nav>
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/pages/materials_subgroup/index' | relative_url }}">Materials</a></li>
+            <li><a href="{{ '/pages/robotics_subgroup/index' | relative_url }}">Robotics</a></li>
+            <li><a href="{{ '/pages/modeling_subgroup/index' | relative_url }}">Modeling</a></li>
+            <li><a href="{{ '/pages/recoil_subgroup/index' | relative_url }}">Recoil</a></li>
+            <li><a href="{{ '/organisms' | relative_url }}">Organisms</a></li>
+            <li><a href="{{ '/devices' | relative_url }}">Devices</a></li>
+          </ul>
+        </nav>
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
