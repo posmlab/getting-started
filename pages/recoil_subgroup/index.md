@@ -49,7 +49,7 @@ At the end of the experiment, ELLA's code will spit out a bunch of files. These 
 
 ## Analyzing Experimental Data
 
-We also analyze our data with a matlab app. Here is the github repo for that code. For a more granular overview of helpful functions go here (add link). Big picture, there are key goals of our analysis:
+We also analyze our data with a matlab app. Here is the github repo for that code. For a more granular overview of helpful functions see the [Software Reference](code_reference.md). Big picture, there are key goals of our analysis:
 
 1. Synchronize the high-speed camera with our force sensor (have them agree on when time = 0)
 2. Since the camera and force sample at different rates, we want to interpolate that data to have position and force data at the exact same moments. (maybe include a picture of a linear interpolation for this?)
