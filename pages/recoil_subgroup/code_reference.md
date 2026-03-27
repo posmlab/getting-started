@@ -9,7 +9,6 @@ This page serves as the documentation for the MATLAB scripts and functions used 
 ### findSpots.m
 
 Detects dots on the first frame of our high-speed video. Identifies tracking markers (usually white) on the sample by binarizing the image and detecting bright (or dark) spots against the background.
-
 | | |
 |---|---|
 | **Inputs** | `filepath` (path to video), `experimentNum` (integer) |
@@ -19,7 +18,6 @@ Detects dots on the first frame of our high-speed video. Identifies tracking mar
 ### computeRecoilPositionv4.m
 
 Tracks dot positions across all frames uby sing cross-correlation template matching. Main tracking function that gives us position vs time data.
-
 | | |
 |---|---|
 | **Inputs** | `filepath`, `experimentNum`, `material`, `load_mass`, `lookAheadFactor` (default 1.2), `debugMode_level` (0/1/2) |
@@ -30,7 +28,6 @@ Tracks dot positions across all frames uby sing cross-correlation template match
 ### find_sync.m
 
 Finds the synchronized frame between the high-speed camera and the force sensor by detecting when the solenoid taps. This is done by tracking a user-selected region where the solenoid tip increases pixel intensity and brightness.
-
 | | |
 |---|---|
 | **Inputs** | `vidObj` (VideoReader), `experimentNumber`, `material`, `load_mass` |
@@ -40,7 +37,6 @@ Finds the synchronized frame between the high-speed camera and the force sensor 
 ### findLastPosition.m
 
 Reads the experiment metadata and the last loading step CSV to find the final position before recoil
-
 | | |
 |---|---|
 | **Inputs** | `experimentNumber` |
@@ -48,7 +44,7 @@ Reads the experiment metadata and the last loading step CSV to find the final po
 
 ### recoil_processing.mlapp
 
-Our main app for processing recoil data after an experiment is completed. Sychronizes camera video with force sensor data, creates a common time grid, and fits free-knot splines to position and force data. Outputs are stored in the workspace `final_analysis_E[N].mat` 
+Our main app for processing recoil data after an experiment is completed. Sychronizes camera video with force sensor data, creates a common time grid, and fits free-knot splines to position and force data. Outputs are stored in the workspace `final_analysis_E[N].mat`
 
 - `positionPolynomial` — cell array of piecewise polynomial fits for each dot's position (mm)
 - `forcePolynomial` — piecewise polynomial fit for the force sensor signal (N)
@@ -73,7 +69,6 @@ This adds the Recoil root directory and `Simulating Recoil/` to the MATLAB path 
 ### ppdiff.m
 
 Differentiates a piecewise polynomial returned by `spline` or `ppval` to compute velocity and acceleration from position polynomial fitting
-
 | | |
 |---|---|
 | **Inputs** | `pp` (piecewise polynomial struct), `j` (derivative order, default 1) |
@@ -87,7 +82,6 @@ Differentiates a piecewise polynomial returned by `spline` or `ppval` to compute
 ### simulate_experiment.m
 
 Viscoelastic recoil finite-difference solving driven by experimental parameters. Reads the experiment metadata and runs a 1D SLS + neo-Hookean simulation. Uses DMA-calibrated relaxation spectra hardcoded per material used.
-
 | | |
 |---|---|
 | **Inputs** | `expnum`, `nx` (spatial nodes, default 20), `nt` (time steps, default 40000), `plot_stuff` (boolean) |
@@ -98,7 +92,6 @@ Viscoelastic recoil finite-difference solving driven by experimental parameters.
 ### simulate_recoil.m
 
 Version of simulate_experiment that takes physical parameters directly instead of reading from experiment metadata.
-
 | | |
 |---|---|
 | **Inputs** | `L0` (equilibrium length, m), `e0` (initial strain), `M` (load mass, kg), `m` (spring mass, kg), `h` (thickness, m), `w` (width, m), `material` (string) |
@@ -107,7 +100,6 @@ Version of simulate_experiment that takes physical parameters directly instead o
 ### calcResilience.m
 
 Calculates resilience and power from experimental data. Uses the quasi-static loading curve to get input energy, then uses polynomial fits from `recoil_processing` to find kinetic energy, CoM velocity, and power vs time.
-
 | | |
 |---|---|
 | **Inputs** | `experimentNum`, `show_plots` (default true) |
@@ -116,7 +108,6 @@ Calculates resilience and power from experimental data. Uses the quasi-static lo
 ### compute_inverse_dynamics.m
 
 Computes the recoil force from position data using F = ma. Differentiates the position polynomial fits twice to find acceleration, then multiplies by mass distribution of dots.
-
 | | |
 |---|---|
 | **Inputs** | `expnum` |
@@ -129,7 +120,6 @@ Computes the recoil force from position data using F = ma. Differentiates the po
 ### get_c.m
 
 Finds the neo-Hookean parameter `c` from the second quasi-static loading curve (step3.csv). Normalizes by the material's modulus `E_inf`.
-
 | | |
 |---|---|
 | **Inputs** | `expnum`, `plot_stuff` (default false) |
@@ -138,7 +128,6 @@ Finds the neo-Hookean parameter `c` from the second quasi-static loading curve (
 ### get_exp_info.m
 
 Returns all experiment and recoil key physical parameters in SI units from metadata
-
 | | |
 |---|---|
 | **Inputs** | `expnum` |
@@ -155,7 +144,6 @@ Returns the file path to the simulation `workspace.mat` for a given experiment n
 ### get_linear_unlatching.m
 
 Linear approximation of unlatching force as a function of time. Compares inverse dynamics force to the experiment force sensor to find crossing point, then returns function for linear ramp from initial force to zero.
-
 | | |
 |---|---|
 | **Inputs** | `expnum` |
@@ -168,7 +156,6 @@ Linear approximation of unlatching force as a function of time. Compares inverse
 ### compare_expsim.m
 
 Experiment vs Simulation, plotting center of mass position and force all versus time, and a raw position comparison and overlayed inverse dynamics force. This serves as verification and sanity check for our experiments
-
 | | |
 |---|---|
 | **Inputs** | `expnum`, `CM` (use center-of-mass positions, default true) |
