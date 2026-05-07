@@ -27,7 +27,7 @@ Tracks dot positions across all frames uby sing cross-correlation template match
 
 Finds the synchronized frame between the high-speed camera and the force sensor by detecting when the solenoid taps. This is done by tracking a user-selected region where the solenoid tip increases pixel intensity and brightness.
 
-| | |
+
 |---|---|
 | **Inputs** | `vidObj` (VideoReader), `experimentNumber`, `material`, `load_mass` |
 | **Outputs** | `sync_idx` (frame index of sync event) |
