@@ -10,8 +10,6 @@ This page serves as the documentation for the MATLAB scripts and functions used 
 
 Detects dots on the first frame of our high-speed video. Identifies tracking markers (usually white) on the sample by binarizing the image and detecting bright (or dark) spots against the background.
 
-| | |
-|---|---|
 | **Inputs** | `filepath` (path to video), `experimentNum` (integer) |
 | **Outputs** | `bbox_final` (bounding boxes of detected dots), `startX`, `startCol` (crop boundaries), `pixel_per_mm` (spatial calibration) |
 | **Interactive** | User draws lines on clamp edges to set the boundaries, then passes or rejects detected bounding boxes |
@@ -20,9 +18,7 @@ Detects dots on the first frame of our high-speed video. Identifies tracking mar
 
 Tracks dot positions across all frames uby sing cross-correlation template matching. Main tracking function that gives us position vs time data.
 
-| | |
-|---|---|
-| **Inputs** | `filepath`, `experimentNum`, `material`, `load_mass`, `lookAheadFactor` (default 1.2), `debugMode_level` (0/1/2) |
+| **Inputs** | `filepath`, `experimentNum`, `material`, `load_mass`, `lookAheadFactor` (default 2), `debugMode_level` (0/1/2) |
 | **Outputs** | `x_position_center` (dot positions in mm over time), `filename` (path to output tracking video) |
 | **Calls** | `findSpots.m`, `findLastPosition.m` |
 | **Produces** | `nDots_xPosition.csv` (time + dot positions), `track.avi` (annotated tracking video) |
